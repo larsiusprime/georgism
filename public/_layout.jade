@@ -1,0 +1,15 @@
+doctype
+html
+  head
+    title="Harp-Heroku"
+    link(href="/assets/style.css", rel="stylesheet")
+  body
+    header
+      a(href="/")
+        img(src="/assets/logo.png")
+        | Harp-Heroku
+    main
+      != yield /* This is the text of the article we're viewing */
+    footer
+      | This is your footer
+    script(src="/assets/editButton.js")

@@ -1,0 +1,73 @@
+$shadowColor: #3333;
+$textColor: black;
+$panePadding: 15px;
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Arial, sans-serif;
+  color: $textColor;
+}
+
+h1 {
+  margin-top: 0;
+  padding-right: 80px; // Leave room for the button
+}
+
+header, main {
+  margin: 10px auto;
+  padding: $panePadding;
+  border: 1px gray solid;
+  border-radius: 10px;
+  box-shadow: 5px 5px $shadowColor;
+  position: relative;
+  width: 800px;
+  max-width: calc(100vw - 10px);
+}
+
+.editButton {
+  position: absolute;
+  top: $panePadding;
+  right: $panePadding;
+  border: 1px gray solid;
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: $textColor;
+  box-shadow: 3px 3px $shadowColor;
+
+  &:hover {
+    text-decoration: none;
+    color: forestgreen;
+  }
+}
+
+footer {
+  margin-top: 20px;
+  font-size: 12px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+header {
+  font-size: 24px;
+
+  img {
+    max-width: 100px;
+    vertical-align: middle;
+  }
+
+  a:link, a:visited {
+    color: $textColor;
+  }
+}
