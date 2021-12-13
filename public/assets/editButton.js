@@ -1,5 +1,5 @@
 (()=>{
-  const baseUrl = 'https://github.com/arperry/harp-heroku/edit/main/public';
+  const baseUrl = 'https://github.com/larsiusprime/georgism/edit/main/public';
 
   const mainEl = document.querySelector('main');
   const h1El = document.querySelector('h1');
