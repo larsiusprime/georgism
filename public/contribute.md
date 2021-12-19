@@ -1,6 +1,6 @@
 # Contribute
 
-Anyone can contribute to this site! Here's how!
+Anyone can contribute to this site! Just follow these steps:
 
 Click the "Edit" button on any given page:
 
