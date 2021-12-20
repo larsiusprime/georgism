@@ -94,7 +94,7 @@ And of course, The Rent Is Too Damn High:
 
 ([source](https://web.archive.org/web/20210216184021/https://www.apartmentlist.com/research/rent-growth-since-1960)):
 
-![](book_review_ldoucet_rent_graph.png)
+![](book_review_rent_graph.png)
 
 ([source](https://web.archive.org/web/20210208185441/https://observationsandnotes.blogspot.com/2011/06/us-housing-prices-since-1900.html)):
 
