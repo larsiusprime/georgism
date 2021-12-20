@@ -57,3 +57,59 @@ Pulling no punches, the man lays the blame at the feet of *progress itself*:
 This is a pretty bold claim: namely, that the resilience of poverty, oppression, and inequality in the face of advancing economic development is not some embarrassing accident we'll eventually get around to fixing, it's an inescapable consequence of our socioeconomic system.
 
 ---
+
+## A Brief Interlude from the Future
+
+It's been over 140 years since he wrote the book, so let's hop in my time machine and see how much of George's complaint is still relevant.
+
+Back then, the United States was still in the throes of the [Long Depression](https://web.archive.org/web/20201201000238/https://www.armstrongeconomics.com/history/americas-economic-history/the-long-depression-the-first-great-depression/), which according to the shortest estimate lasted from 1873 to 1879.
+
+Below is a graph ([source](https://web.archive.org/web/20210216220345/https://www.nber.org/research/business-cycle-dating)) of the boom-bust business cycle going back to the 1870's - clearly, recessions were much more frequent and severe in George's time than they are today. The late 1800's were wracked with so many panics and crises in quick succession that some historians count the Long Depression as lasting for a full 23 years from 1873 to 1896!
+
+![](assets/articles/ldoucet_book_review_recessions.png)
+
+After the Great Depression in the 1930's, we see a sharp decrease in the duration and frequency of recessions. They're still with us now (and the one we're currently in is the worst since the Great Depression), but you'd still rather be living in 2021 than 1879.
+
+So, have we solved the problem? Is George's complaint obsolete?
+
+I mean, this graph of GDP per capita from Stephen Pinker's Enlightenment Now makes it look like in many ways things are getting better:
+
+![](assets/articles/ldoucet_book_review_gdp.png)
+
+And heck, [extreme poverty has been going down everywhere](https://ourworldindata.org/extreme-poverty):
+
+![](assets/articles/ldoucet_book_review_extreme_poverty.png)
+
+But this can't be the entire picture, or nobody would be complaining about poverty and inequality.
+
+Here - this graph ([source](https://web.archive.org/web/20210112150023/https://howmuch.net/articles/price-changes-in-usa-in-past-20-years)), shows that as consumer goods have gotten cheaper in the United States, health care, higher education, child care, etc., have skyrocketed in price, as examined in great detail in the article [Considerations on Cost Disease](https://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/).
+
+![](assets/articles/ldoucet_consumer_prices.png)
+
+And what about Inequality? In the USA it seems to have reverted to levels not seen since the Great Depression, and even when it was at its lowest in 1978, the top 0.1% (not even the top 1%!) still enjoyed a massively disproportionate share of Wealth ([source](https://web.archive.org/web/20210202081558/http://gabriel-zucman.eu/files/SaezZucman2016QJE.pdf)):
+
+![](assets/articles/ldoucet_wealth_inequality.png)
+
+And of course, The Rent Is Too Damn High:
+
+([source](https://web.archive.org/web/20210216184021/https://www.apartmentlist.com/research/rent-growth-since-1960)):
+
+![](assets/articles/ldoucet_rent_graph.png)
+
+([source](https://web.archive.org/web/20210208185441/https://observationsandnotes.blogspot.com/2011/06/us-housing-prices-since-1900.html)):
+
+![](assets/articles/ldoucet_housing_prices.png)
+
+Although 2021 seems better than 1879 in absolute material terms, George's complaint still rings true: healthcare and higher education are increasingly unaffordable, inequality is as bad as it ever was, and The Rent Is Too Damn High.
+
+And even if all of these measures had improved as well, we still have to contend with a fundamental complaint: how can human civilization have piled up an amount of wealth best described as absolutely *[banana pants insane](https://web.archive.org/web/20210208132052/https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2020-en.pdf)*, and yetstill have poverty, oppression and cyclical recessions? Yes, greed, evil, and human nature will always be with us, but isn't it weird that we haven't eliminated these economic problems the same way we've eliminated Smallpox, Scurvy, and having to write your scathing polemics about Thomas Jefferson by candlelight with a goose feather?
+
+---
+
+Giving the mic back to George, he closes the chapter with this haunting quote, first written 142 years ago:
+
+> If there is less deep poverty in San Fran Francisco than in New York, is it not because San Francisco is yet behind new York in all that both cities are striving for? When San Francisco reaches the point where New York now is, who can doubt that there will also be ragged and barefooted children on her streets?
+
+I'll just leave this here:
+
+[Number of Homeless Children in U.S. At All-Time High; California Among Worst States.](https://web.archive.org/web/20160324104539/https://sanfrancisco.cbslocal.com/2014/11/17/number-of-homeless-children-in-u-s-at-all-time-high-california-among-worst-states/)
