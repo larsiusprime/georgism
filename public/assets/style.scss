@@ -91,6 +91,14 @@ ul {
 	line-height: 25px;
 }
 
+blockquote {
+	font-style:italic;
+	::before { 
+		content: "“";
+	}
+
+}
+
 p img {
 	max-width:100%;
 }
