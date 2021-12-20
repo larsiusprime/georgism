@@ -66,7 +66,7 @@ Back then, the United States was still in the throes of the [Long Depression](ht
 
 Below is a graph ([source](https://web.archive.org/web/20210216220345/https://www.nber.org/research/business-cycle-dating)) of the boom-bust business cycle going back to the 1870's - clearly, recessions were much more frequent and severe in George's time than they are today. The late 1800's were wracked with so many panics and crises in quick succession that some historians count the Long Depression as lasting for a full 23 years from 1873 to 1896!
 
-![](assets/articles/ldoucet_book_review_recessions.png)
+![](/assets/articles/ldoucet_book_review_recessions.png)
 
 After the Great Depression in the 1930's, we see a sharp decrease in the duration and frequency of recessions. They're still with us now (and the one we're currently in is the worst since the Great Depression), but you'd still rather be living in 2021 than 1879.
 
@@ -74,35 +74,35 @@ So, have we solved the problem? Is George's complaint obsolete?
 
 I mean, this graph of GDP per capita from Stephen Pinker's Enlightenment Now makes it look like in many ways things are getting better:
 
-![](assets/articles/ldoucet_book_review_gdp.png)
+![](/assets/articles/ldoucet_book_review_gdp.png)
 
 And heck, [extreme poverty has been going down everywhere](https://ourworldindata.org/extreme-poverty):
 
-![](assets/articles/ldoucet_book_review_extreme_poverty.png)
+![](/assets/articles/ldoucet_book_review_extreme_poverty.png)
 
 But this can't be the entire picture, or nobody would be complaining about poverty and inequality.
 
 Here - this graph ([source](https://web.archive.org/web/20210112150023/https://howmuch.net/articles/price-changes-in-usa-in-past-20-years)), shows that as consumer goods have gotten cheaper in the United States, health care, higher education, child care, etc., have skyrocketed in price, as examined in great detail in the article [Considerations on Cost Disease](https://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/).
 
-![](assets/articles/ldoucet_consumer_prices.png)
+![](/assets/articles/ldoucet_consumer_prices.png)
 
 And what about Inequality? In the USA it seems to have reverted to levels not seen since the Great Depression, and even when it was at its lowest in 1978, the top 0.1% (not even the top 1%!) still enjoyed a massively disproportionate share of Wealth ([source](https://web.archive.org/web/20210202081558/http://gabriel-zucman.eu/files/SaezZucman2016QJE.pdf)):
 
-![](assets/articles/ldoucet_wealth_inequality.png)
+![](/assets/articles/ldoucet_wealth_inequality.png)
 
 And of course, The Rent Is Too Damn High:
 
 ([source](https://web.archive.org/web/20210216184021/https://www.apartmentlist.com/research/rent-growth-since-1960)):
 
-![](assets/articles/ldoucet_rent_graph.png)
+![](/assets/articles/ldoucet_rent_graph.png)
 
 ([source](https://web.archive.org/web/20210208185441/https://observationsandnotes.blogspot.com/2011/06/us-housing-prices-since-1900.html)):
 
-![](assets/articles/ldoucet_housing_prices.png)
+![](/assets/articles/ldoucet_housing_prices.png)
 
 Although 2021 seems better than 1879 in absolute material terms, George's complaint still rings true: healthcare and higher education are increasingly unaffordable, inequality is as bad as it ever was, and The Rent Is Too Damn High.
 
-And even if all of these measures had improved as well, we still have to contend with a fundamental complaint: how can human civilization have piled up an amount of wealth best described as absolutely *[banana pants insane](https://web.archive.org/web/20210208132052/https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2020-en.pdf)*, and yetstill have poverty, oppression and cyclical recessions? Yes, greed, evil, and human nature will always be with us, but isn't it weird that we haven't eliminated these economic problems the same way we've eliminated Smallpox, Scurvy, and having to write your scathing polemics about Thomas Jefferson by candlelight with a goose feather?
+And even if all of these measures had improved as well, we still have to contend with a fundamental complaint: how can human civilization have piled up an amount of wealth best described as absolutely *[banana pants insane](https://web.archive.org/web/20210208132052/https://www.credit-suisse.com/media//assets/corporate/docs/about-us/research/publications/global-wealth-report-2020-en.pdf)*, and yetstill have poverty, oppression and cyclical recessions? Yes, greed, evil, and human nature will always be with us, but isn't it weird that we haven't eliminated these economic problems the same way we've eliminated Smallpox, Scurvy, and having to write your scathing polemics about Thomas Jefferson by candlelight with a goose feather?
 
 ---
 
