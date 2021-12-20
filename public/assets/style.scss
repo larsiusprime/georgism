@@ -77,10 +77,16 @@ nav a {
 }
 
 span.titletext {
-  font-size:50px;
-  top:15px;
+  font-size:65px;
   position:relative;
   display:inline-block;
+}
+
+span.subtitletext {
+	display:inline-block;
+	position:relative;
+	left:105px;
+	top:-30px;
 }
 
 p {
