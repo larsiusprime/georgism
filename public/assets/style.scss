@@ -98,6 +98,11 @@ blockquote {
 		font-size: 25px;
 		font-weight: bold;
 	}
+	::after {
+		content: "”";
+		font-size: 25px;
+		font-weight: bold;
+	}
 
 }
 
