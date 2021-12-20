@@ -113,3 +113,73 @@ Giving the mic back to George, he closes the chapter with this haunting quote, f
 I'll just leave this here:
 
 [Number of Homeless Children in U.S. At All-Time High; California Among Worst States.](https://web.archive.org/web/20160324104539/https://sanfrancisco.cbslocal.com/2014/11/17/number-of-homeless-children-in-u-s-at-all-time-high-california-among-worst-states/)
+
+# 1. Wages and Capital
+
+George insists sloppy terminology leads to sloppy thinking. Naturally, he spends an entire chapter beating words to death to correct this.
+
+## The Meaning of the Terms
+
+Let's start with **Wealth.**
+
+The common usage, both then and now, is "anything with an exchange value." George doesn't like how this mixes dissimilar things.
+
+By George, what is wealth?
+
+Wealth is produced when **Nature's bounty** is touched by **human labor** resulting in a **tangible product** that is the object of **human desire.**
+
+Labor is required, but the amount and type doesn't matter - George offers the example of simply picking a berry off a bush as an act that transforms nature's gifts into human wealth. Note particularly that human desire is an important requirement of wealth; it doesn't matter how much work someone put into something, if it doesn't gratify human needs or desires in some way, it's not wealth.
+
+Speaking of human desire, let's talk about **Value.**
+
+Where does a thing's value come from? The prevailing theory of the day was the [Labor Theory of Value](https://en.wikipedia.org/wiki/Labor_theory_of_value) which originated with Adam Smith and David Ricardo, which says that Labor is the source of value. The early formulations were a bit ambiguous, here's Smith in *Wealth of Nations* for instance:
+
+> The value of any commodity ... is equal to the quantity of labor which it enables him to purchase or command. Labor, therefore, is the real measure of the exchangeable value of all commodities.
+
+So... is a thing's value how much labor it takes to make the thing, or how much labor someone's willing to exchange for the thing?
+
+Nowadays Labor Theory of Value is most commonly associated with Marx. Marx picks a lane and says the value of something is tied to the amount of "socially necessary labor" required to *produce* it.
+
+George goes the other way:
+
+> It is never the amount of labor that has been exerted in bringing a thing into being that determines its value, but always the amount of labor that will be rendered in exchange for it.
+
+- Henry George, *The Science of Political Economy*, p. 253
+
+In other words, "a thing's value is whatever someone is willing to pay for it." This is in line with the so-called [marginal revolution](https://en.wikipedia.org/wiki/Marginal_utility#Marginal_Revolution) (the movement, not the [blog](https://marginalrevolution.com/)) and modern theories of value.
+
+**Labor**
+
+Labor is the exertion of human beings. It's possible to labor to no avail (try punching a concrete wall), but typically humans labor towards an end, such as gaining wealth. But whether or not we accomplish anything with our efforts, George calls them labor. Labor isn't just making things, by the way – it's also moving or exchanging them.
+
+**Production**
+
+Production is labor applied "to the production of wealth." You know, productively. This is all human exertion that isn't punching a concrete wall and rewards you for your efforts with something that fits the definition of wealth. Said wealth is the "product of labor."
+
+**Wages**
+
+> whatever is received as the result or reward of exertion is "wages."
+
+No distinction here is made between blue-collar work and white-collar work – whether one is called "hourly pay" and the other is called "annual salary," George calls them both "wages." It doesn't matter whether you receive them from your boss, from customers, or from nature. If you do work and get something from it, you have received "wages."
+
+With those basics under our belt, let's circle back to **Wealth**:
+
+What are some examples of wealth?
+
+By George, Gold is wealth. Teddy bears are wealth. Tesla roadsters and candy canes and young adult vampire romance novels are wealth. The same goes for fish you've caught, deer you've hunted, and cool looking rocks you've picked up on your morning walk. The value of these things may differ, but as long as they're tangible, originate in nature, someone ever did a lick of work to make or acquire them, and a human being somewhere desires them for any reason, they're wealth.
+
+It gets a little clearer when we ask what *isn't* wealth.
+
+And by George, **Money** isn't wealth.
+
+Articles of gold are wealth because they're tangible things that have been dug up, crafted, and fulfill certain human desires. But paper currency, digital currencies, and other things that aren't inherently valuable but merely _represent_ value are _not_ wealth (outside of putting their physical articles in coin collections or making paper airplanes, and so forth). Now don't get the man wrong, these things are certainly _valuable_. They're just not _wealth_. They are certificates that represent _claims_ on wealth. For any computer programmers in the audience, money is a _pointer_ to wealth.
+
+Likewise **Stocks and Bonds** and other financial instruments are not wealth. These are also just claims on wealth. A creditor's title to **Debt** isn't wealth, either, it's just a claim on the debtor's (typically future) wealth. And, writing as he was not long after the Civil War, George points out that **Slaves** are not wealth either but, represent "merely the power of one class to appropriate the earnings of another class."
+
+Wealth, thus defined, is the terminal "ground truth" bits of the economy, and all the financial layers on top are fancy IOUs that just encode various claims on it.
+
+George offers a thought experiment to test if something is wealth: if you produce a pile of gold, fish, or Lego bricks, you've clearly increased the amount of wealth in the world. But if you produce a giant pile of IOUs that just records who owns what and who owes what to whom, it doesn't matter how many of them you pile up or how long the chains of ownership get, you still haven't increased the amount of real wealth in the world.
+
+Again, this isn't saying the IOUs aren't valuable, they are. But they're only valuable because they ultimately point to real wealth. If you magically transported everyone over to a hypothetical Earth 2, carrying over all of Earth 1's money and financial instruments but none of Earth 1's tangible wealth, the value of all those IOUs would instantly evaporate.
+
+Now what about digital goods? Leaving things like Bitcoin aside for the moment, let's consider the case of a digital image file:
