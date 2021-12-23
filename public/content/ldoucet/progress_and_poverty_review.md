@@ -1,7 +1,7 @@
 # Book Review: Progress and Poverty
 
-**[Part 0 - Book Review: Progress & Poverty](content/ldoucet/progress_and_poverty_review) 👈** (You are here)  
-[Part I  - Is Land Really a Big Deal?](content/ldoucet/is_land_a_big_deal)
+**Part 0 - Book Review: Progress & Poverty 👈** (You are here)  
+[Part I  - Is Land Really a Big Deal?](content/ldoucet/is_land_a_big_deal)  
 [Part II - Can Land Value Tax be Passed on to Tenants?](content/ldoucet/can_lvt_be_passed_on_to_tenants)  
 [Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings?](content/ldoucet/can_land_be_accurately_assessed)
 
