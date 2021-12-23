@@ -2,6 +2,22 @@
 
 by Lars A. Doucet, 2021
 
+## Table of Contents
+
+- [Introduction](#introduction)  
+- [The Book as a Book](#the-book-as-a-book)
+- [0. The Problem](#0-the-problem)
+- [I. Wages and Capital](#i-wages-and-capital)
+- [II. Population and Subsistence](#ii-population-and-subsistance)
+- [III. The Laws of Distribution](#iii-the-laws-of-distribution)
+- [IV. Effect of Material Progress upon the Distribution of Wealth](#iv-effect-of-material-progress-upon-the-distribution-of-wealth)
+- [V. The Problem Solved](#v-the-problem-solved)
+- [Appendix A: George Dunks on Malthusianism](#appendix-a-george-dunks-on-malthusianism)
+- [Appendix B: George Dunks on the Conventional Laws of Distribution](#appendix-b-george-dunks-on-the-conventional-laws-of-distribution)
+- [Appendix C: The Insufficiency of Remedies Currently Advocated](#appendix-c-the-insufficiency-of-remedies-currently-advocated)
+
+## Introduction
+
 In 1879, a man asked "How come all this new economic development and industrialized technology hasn't eliminated poverty and oppression?" That man was Henry George, his answer came in the form of a book called Progress & Poverty, and this is a review of that book.
 
 Henry George is variously known for leading an early movement that popularized Universal Basic Income, sporting a fancy beard while shouting "The Rent Is Too Damn High!" and [inspiring a popular board game](https://web.archive.org/web/20210111131436/https://landlordsgame.info/) that was shamelessly ripped off and repackaged as Monopoly.
@@ -114,7 +130,7 @@ I'll just leave this here:
 
 [Number of Homeless Children in U.S. At All-Time High; California Among Worst States.](https://web.archive.org/web/20160324104539/https://sanfrancisco.cbslocal.com/2014/11/17/number-of-homeless-children-in-u-s-at-all-time-high-california-among-worst-states/)
 
-# 1. Wages and Capital
+# I. Wages and Capital
 
 George insists sloppy terminology leads to sloppy thinking. Naturally, he spends an entire chapter beating words to death to correct this.
 
@@ -418,8 +434,7 @@ In short, more investment, more protectionism, and more efficiency programs can'
 
 Having finally beaten the nexus of wages, capital, and labor into a bloody pulp, George turns his eyes towards another leading theory for why everything is terrible: the specter of overpopulation.
 
-II. Population and Subsistence
-==============================
+# II. Population and Subsistence
 
 The entire second book might as well be titled "Why Malthus is Dumb and Wrong and Bad."
 
@@ -435,8 +450,7 @@ Given that Malthusianism is now widely discredited I'm just going to skip this c
 
 * * *
 
-III. The Laws of Distribution
-=============================
+# III. The Laws of Distribution
 
 When society produces wealth, who gets different shares of it, and why?
 
@@ -614,8 +628,7 @@ And:
 
 > where the value of land is highest, civilization exhibits the greatest luxury side by side with the most piteous destitution
 
-IV. Effect of Material Progress upon the Distribution of Wealth
-===============================================================
+# IV. Effect of Material Progress upon the Distribution of Wealth
 
 As a society undergoes material progress, the rent goes up. Why?
 
@@ -699,8 +712,7 @@ Here's George:
 
 I don't think it's a coincidence that real estate is one of the oldest investments on Earth and the principal concern of basically every war ever.
 
-V. The Problem Solved
-=====================
+# V. The Problem Solved
 
 We had two questions at the beginning of this book: why are there industrial depressions, and why poverty seems to advance alongside progress.
 
@@ -1048,14 +1060,11 @@ Further reading:
 
 * * *
 
-Appendices
-==========
+#Appendices
 
 These are optional elaborations on sections I glossed over because the Book Review Is Too Damn Long.
 
-Appendix A: George Dunks on Malthusianism  
-
---------------------------------------------
+## Appendix A: George Dunks on Malthusianism  
 
 Malthusianism in George's time was wildly popular, and often invoked by the ascendant proponents of [Social Darwinism](https://www.britannica.com/topic/social-Darwinism) who took Charles Darwin's theory of "survival of the fittest" and recast it as a moral justification for the [Just World Hypothesis](https://en.wikipedia.org/wiki/Just-world_hypothesis/). Essentially, those that are doing well do so because they are more "fit", and those that are less "fit" tend to perish, and furthermore, this brutal process will actively "improve" the human race. This philosophy was the energizing intellectual force behind both the [Eugenics](https://en.wikipedia.org/wiki/Eugenics) movement and Nazi Germany.
 
@@ -1153,9 +1162,7 @@ George gets _really_ mad about this, and calls out John Stuart Mill and Henry Th
 
 * * *
 
-Appendix B: George dunks on the Conventional Laws of Distribution  
-
---------------------------------------------------------------------
+## Appendix B: George dunks on the Conventional Laws of Distribution  
 
 **Conventional Law 1: Wages** aredetermined by the ratio between capital devoted to the payment & subsistence of labor, divided up by the number of laborers.  
   
@@ -1200,8 +1207,7 @@ That leaves return for the use of capital, which George calls **interest.**
 
 * * *
 
-Appendix C: The Insufficiency of Remedies Currently Advocated
--------------------------------------------------------------
+## Appendix C: The Insufficiency of Remedies Currently Advocated
 
 Things we've already tried that George says aren't sufficient:
 
