@@ -5,15 +5,15 @@ by [Lars A. Doucet](lars_a_doucet), 2021
 [Part 0 - Book Review: Progress & Poverty](progress_and_poverty_review)  
 **Part I  - Is Land Really a Big Deal? 👈** (You are here)  
 [Part II - Can Land Value Tax be Passed on to Tenants?](can_lvt_be_passed_on_to_tenants)  
-[Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings?] (can_land_be_accurately_assessed)
+[Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings?](can_land_be_accurately_assessed)  
 
 _Extremely special thanks to Count Bla and Alexandra Elbakyan_
 
 * * *
 
-For those of you wondering who this "Lars" guy is, I'm the Astral Codex Ten reader who reviewed Henry George's [Progress & Poverty](https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty) for the book review contest. Henry George is the founder of an economic philosophy known as [Georgism](https://en.wikipedia.org/wiki/Georgism) which is principally concerned with the deprivations caused by unchecked rentiers. George is famous for promoting two specific policies, the Land Value Tax (LVT) and the Citizen's Dividend (what we would now call a Universal Basic Income).
+I originally reviewed Henry George's [Progress & Poverty](progress_and_poverty_review) for [Astral Codex Ten](https://www.astralcodexten.com)'s book review contest. Henry George is the founder of an economic philosophy known as [Georgism](https://en.wikipedia.org/wiki/Georgism) which is principally concerned with the deprivations caused by unchecked rentiers. George is famous for promoting two specific policies, the Land Value Tax (LVT) and the Citizen's Dividend (what we would now call a Universal Basic Income).
 
-I was shocked and humbled when this readership [selected me as the winner](https://astralcodexten.substack.com/p/book-review-contest-winners). Even more shocking was how many people from around the world wrote to me about their interest in the article. Family, friends, and acquaintances for sure, but also a lot of total strangers–including business owners, activists, podcasters, online game designers, investors, even government officials from around the world. Scott's blog has _way_ more reach than I realized.
+I was shocked and humbled when Astral Codex Ten's readership [selected me as the winner](https://astralcodexten.substack.com/p/book-review-contest-winners). Even more shocking was how many people from around the world wrote to me about their interest in the article. Family, friends, and acquaintances for sure, but also a lot of total strangers–including business owners, activists, podcasters, online game designers, investors, even government officials from around the world. Scott's blog has _way_ more reach than I realized.
 
 This fills me with a sense of responsibility. If there's a chance people might make policy decisions based on my writing, I need to make sure I haven't been taken in by an argument that's just really persuasive; it had also better be _true_. What follows therefore is my best attempt at a fair, rigorous, and (where possible) empirical assessment of whether the claims of the Georgist movement stand up to scrutiny.
 
@@ -34,8 +34,7 @@ Today we'll start with point 1, and subsequent articles posted in the next two d
 
 If you haven't read [the Book Review](https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty) yet, I've posted a brief recap of the relevant concepts below. Otherwise, feel free to skip directly to the subsequent section.
 
-0\. A Brief Recap
-=================
+# 0. A Brief Recap
 
 Georgism is a school of [political economy](https://en.wikipedia.org/wiki/Political_economy) that is really upset about, among other things, the Rent Being Too Damn High. It seeks to liberate labor and capital alike from those who gatekeep access to scarce "non-produced assets," such as land and natural resources, while still affirming the virtues of hard work and free enterprise. George uses the term "Land" to mean not just regular land, but everything that is external to human beings and the things they produce–nature itself, really.
 
@@ -63,8 +62,7 @@ And if you have my day job as an analyst for the video games industry, one day y
 
 Some people come to Georgism because of their aversion to income and capital taxes, some want to use LVT to fund generous social programs, some are motivated by the beneficial environmental effects, and some just think the Rent is Too Damn High. No matter where you come from on the political compass, there's probably a way to mix up a club soda and Georgism that's right for you.
 
-1\. Is Land Really a Big Deal?
-==============================
+# 1. Is Land Really a Big Deal?
 
 [Paul Krugman](https://psmag.com/news/this-land-is-your-land-3392) speaks for many mainstream economists when he admits that Georgist analysis is sound, but he insists that it's a moot point because land just isn't important anymore in the modern economy:
 
@@ -97,7 +95,7 @@ Here are a few testable hypotheses that capture different aspects of land being 
 
 Note that I'm not trying to prove each of these absolutely unequivocally. I'm just trying to see whether the preponderance of evidence counters the dismissal of land as being only a minor concern in the modern economy.
 
-### 1.1. Most of the value of urban real estate is land
+## 1.1. Most of the value of urban real estate is land
 
 It's more expensive to live in the heart of New York City than in the middle of Nebraska. That's not because construction costs are orders of magnitude more expensive in New York, but because the land is orders of magnitude more expensive.
 
@@ -141,7 +139,7 @@ Given the evidence from the various land value estimation studies and databases 
 
 **Conclusion:** Most of the value of urban real estate is, in fact, land.
 
-### 1.2. America's land rents equal a sizable % of government spending
+## 1.2. America's land rents equal a sizable % of government spending
 
 Krugman and other skeptics don't believe you can raise enough with LVT alone to fund a modern state. Noah Smith, on the other hand, claims that [Land is Underrated as a Source of Wealth](https://www.bloomberg.com/opinion/articles/2018-01-02/land-is-underrated-as-a-source-of-wealth). Regardless of who's right, LVT doesn't need to replace all other taxes to still be worth doing, as long as it can raise a significant enough chunk. So how much can it raise? Let's do the math and find out.
 
@@ -411,7 +409,7 @@ And if you think all taxation is theft, well, Land Value Tax is a tax, so presum
 
 So, we’ve established that land value is the bulk of urban real estate values (and urban real estate values are the bulk of total real estate values), and land rents are large enough to make a big dent in any budget. But here’s something you can be sure affects everyone: the share of land value represented in bank loans.
 
-### 1.3. Land represents a significant % of all major bank loans
+## 1.3. Land represents a significant % of all major bank loans
 
 Banks exist for at least two stated purposes–to give people a safe place to store their money and to provide capital in the form of loans to people engaged in productive activities. This song from Mary Poppins is a decent summary of the Econ 101 story we're told about what banks do with their money.
 
@@ -467,7 +465,7 @@ Rognlie pointed out [in his paper](https://www.brookings.edu/bpea-articles/decip
 
 The unaffordability of housing appears to be not a mere symptom of inequality but rather a key driver of it. And banks contribute to that unaffordability by acting as the shadow rentiers of the entire economy.
 
-### 1.4. Land represents a significant % of all gross personal assets
+## 1.4. Land represents a significant % of all gross personal assets
 
 Here are two graphs that you might remember from the book review. The first shows that something like 40% of all gross personal assets in Spain represent land. About 25-30% are "financial assets" that must ultimately cash out to some mixture of real assets (land and capital), so the true percentage due to land is probably higher than 40%.
 
@@ -528,7 +526,7 @@ This is not a recipe for bankrupting the middle class. In fact, it compensates e
 
 Also, keep in mind that LVT would see the elimination of the portion of property tax that falls on buildings. I just checked my own property tax records (I live in the suburbs of a medium-sized town far from any major urban cores). If the assessed land share more than doubled to 40%, under a 100% LVT regime I'd actually save $545.05 on my property taxes every year–and that's _without_ a Citizen's Dividend.
 
-### 1.5. Land ownership is highly concentrated among the wealthy
+## 1.5. Land ownership is highly concentrated among the wealthy
 
 Bill Gates, the world's fourth richest person, owns 242,000 acres of farmland across the U.S., making him the [#1 owner of private farmland in the USA](https://www.forbes.com/sites/arielshapiro/2021/01/14/americas-biggest-owner-of-farmland-is-now-bill-gates-bezos-turner/). But that's just farmland. If you're talking about [all land in the USA](https://landreport.com/americas-100-largest-landowners/), Gates ranks #49. Jeff Bezos is #25, and Ted Turner is #4. Rich people own a lot of land.
 
