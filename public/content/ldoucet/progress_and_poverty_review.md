@@ -8,9 +8,16 @@ by Lars A. Doucet, 2021
 - [The Book as a Book](#the-book-as-a-book)
 - [Volume I](#volume-i)
   - [0. The Problem](#0-the-problem)
+    - [A Brief Interlude From the Future](#a-brief-interlude-from-the-future)
   - [I. Wages and Capital](#i-wages-and-capital)
+    - [The Meaning of the Terms](#the-meaning-of-the-terms)
+    - [3-for-1 Special on Wages, Capital, and Labor](#3-for-1-special-on-wages-capital-and-labor)
+    - [The Real Functions of Capital](#the-real-functions-of-capital)
   - [II. Population and Subsistence](#ii-population-and-subsistence)
   - [III. The Laws of Distribution](#iii-the-laws-of-distribution)
+    - [The Law of Rent](#the-law-of-rent)
+    - [The Law of Interest](#the-law-of-interest)
+    - [The Law of Wages](#the-law-of-wages)
   - [IV. Effect of Material Progress upon the Distribution of Wealth](#iv-effect-of-material-progress-upon-the-distribution-of-wealth)
   - [V. The Problem Solved](#v-the-problem-solved)
 - [Volume II](#volume-ii)
@@ -88,6 +95,7 @@ This is a pretty bold claim: namely, that the resilience of poverty, oppression,
 
 ---
 
+<span id="a-brief-interlude-from-the-future"></span>
 ## A Brief Interlude from the Future
 
 It's been over 140 years since he wrote the book, so let's hop in my time machine and see how much of George's complaint is still relevant.
@@ -890,7 +898,7 @@ Land can't move or hide, and nowadays we have tools like [GIS](https://en.wikipe
 
 * * *
 
-<span id="a-brief-interlude-from-the-future"></span>
+<span id="a-brief-interlude-from-the-future-2"></span>
 ### A Brief Interlude From the Future
 
 Today land value tax is widely considered to be the only tax that doesn't suffer from [Deadweight Loss](https://en.wikipedia.org/wiki/Deadweight_loss).
@@ -1125,7 +1133,7 @@ Now let's establish that it's _wrong_.
 
 * * *
 
-<span id="a-brief-interlude-from-the-future"></span>
+<span id="a-brief-interlude-from-the-future-3"></span>
 ### A Brief Interlude from the Future
 
 From where we're sitting in 2021, we don't even need George to refute Malthusianism, history has done that for us.
