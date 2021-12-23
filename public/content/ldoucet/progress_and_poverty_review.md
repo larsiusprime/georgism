@@ -1048,6 +1048,8 @@ So to sum up, if we tax the ever loving hell out of ground rent, George says we'
 The Rent is Too Damn High, but, by George,  
 it doesn't have to be.
 
+Next: [Part I  - Is Land Really a Big Deal?](is_land_a_big_deal)  
+
 * * *
 
 <span id="further-reading"></span>
@@ -1278,3 +1280,5 @@ As for land distribution, George finds fault with it. No matter how you tinker w
 Ultimately George says all of these remedies are insufficient because they don't address land monopoly and do little or nothing to attack the power of rent.
 
 [Return to The Remedy](#the-remedy)
+
+Next: [Part I  - Is Land Really a Big Deal?](is_land_a_big_deal)  

@@ -119,13 +119,13 @@ It's more expensive to live in the heart of New York City than in the middle of 
 
 Here's a map of land prices across America's 100 largest metro areas, courtesy of the American Enterprise Institute. Notice that the most valuable properties are situated in coastal urban areas.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf650f8b-e388-432b-ad54-cb9af0fa4601_992x501.png)
+ ![](aei_land_price.png)
 
 Source: [American Enterprise Institute](https://www.aei.org/housing/land-price-indicators/) ([methodology](https://www.aei.org/wp-content/uploads/2021/05/AEI-adjusted-Land-Price-and-Land-Share-Indicators-Methodology.pdf?x91208'))
 
 Here's the same map but for _land share_–the percentage of a property's value that's due solely to the land. If you build a shack in the desert, nearly 100% of the property's value will come from the shack, because the land is worthless. But if you build a shack in San Francisco, nearly all of the property's value will come from the land. Notice how the land share gets closer to 100% as you move towards big cities along the coast.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0961db81-82cc-4872-941a-02d5384120c6_991x513.png) 
+ ![](aei_land_share.png) 
 
 This is because of increased demand for land near large population centers and areas with significant economic activity and commerce. The increased value of the land is not due to any individual, but to the collective inputs of the entire community in developing the area around it. This is often called the [agglomeration effect](https://en.wikipedia.org/wiki/Economies_of_agglomeration).
 
@@ -141,11 +141,11 @@ But let's go ahead and see for ourselves. You can run a quick spot check by goin
 
 Here's a listing for a vacant lot in the heart of San Francisco (personal information redacted). They're asking for $1.99 million dollars, and, judging from other listings and sales records in the area, they'll probably get it.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd8886ea-3182-4f37-b516-a007f6adbe62_753x322.png) 
+ ![](san_fran_lot.png) 
 
 Here's a townhouse right next door that sold last year, situated on a lot of nearly the same size. We're ignoring the "Redfin Estimate"; all we care about is the "this home last sold for" figure at the bottom, which is about $2.4 million.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4d9e57b7-e8b1-4b9e-bee9-a7842d5561a3_766x177.png) 
+ ![](san_fran_townhome.png) 
  
 This is all the information we need for our spot check. First, we adjust for size. The second property's lot is 88% as big as the vacant lot, so we multiply the vacant lot's value ($1.99M) by 88% to get $1.75M. Now we subtract: $2.32M - $1.75M = $568K, the presumptive value of the building. That suggests that 24% of the total property value is from the building, and 76% is from the land. This is just napkin math, but it's congruent with the 70.9% figure AEI gives for the average land share of property in San Francisco county in 2020.
 
@@ -180,7 +180,7 @@ Cool, so how much is all the land in America worth? Or more precisely, what is t
 
 Here's a graph of America's total aggregate land value over time, according to twelve different estimation methods. My sources are The [Lincoln Institute](https://web.archive.org/web/20171121002821/http://datatoolkits.lincolninst.edu/subcenters/land-values), [Larson (2015)](https://www.bea.gov/system/files/papers/WP2015-3.pdf), [Albouy, Ehrlich, and Shin (2018)](https://web.archive.org/web/20191217113256/http://davidalbouy.net/landvalue_index.pdf), [The American Enterprise Institute](https://www.aei.org/housing/land-price-indicators//), [PLACES Lab](https://placeslab.org/fmv_usa/), the [Federal Reserve](https://web.archive.org/web/20131211071139/http://www.federalreserve.gov/releases/z1/Current/z1.pdf) via a method worked out by [Matt Yglesias](https://slate.com/business/2013/12/value-of-all-land-in-the-united-states.html), [Larson (2019/2020)](https://www.fhfa.gov/PolicyProgramsResearch/Research/PaperDocuments/wp1901-1028.pdf), and Jeffrey Johnson Smith's 2020 book _[Counting Bounty: The Quest to Know the Worth of the Earth](https://bookshop.org/books/counting-bounty-the-quest-to-know-the-worth-of-earth/9781634242981)._
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8389eec-bae8-4f75-b1fd-755a452911c0_1556x1018.png) 
+ ![](usa_land_value_1.png) 
  
 The data points for Foldvary, Smith, Tideman, Gaffney and Cord all come from _Counting Bounty._ Smith gives his own estimate of $44 trillion and notes an estimate of $31 trillion that Nicolaus Tideman sent him via private correspondence.
 
@@ -198,11 +198,11 @@ Unlike America, Australia has a long history of land taxation and detailed land 
 
 Here are some figures from the most recent decade in Dwyer's fourth table, which shows that land rents could raise 70-75% as much as all of Australia's other taxes combined.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff91e9b73-1326-483a-8897-1374c04f8b99_582x349.png) 
+ ![](australia_land_1.png) 
  
 And if you compare Australia's land income to the receipts taken in just by Australia's company and personal income taxes, it would be more than enough to replace them entirely while still bringing in a surplus.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8e05f02-2f64-498c-9fc7-a841be533ebf_581x349.png) 
+ ![](australia_land_2.png) 
  
 Dwyer's methodology seems plausible; it's a straightforward application of Australia's detailed land and property value records against Australia's published budget figures. Dwyer notably _doesn't_ factor in the potential revenue from the "dynamic effects" of Land Value Taxation, which would only serve to raise his figures. Great news for Australia, at least if you believe Dwyer and his data sources.
 
@@ -210,13 +210,13 @@ But I want to see what we can say about America, so let's check that National In
 
 This is pretty far off from Foldvary's "one-third" guess, but pretty close to Steven Cord's. Cord estimated land rent [at about 24% of national income](https://cooperative-individualism.org/barron-ian_steven-cord-challenges-economists-on-the-lack-of-land-value-data-1988-sep-oct.pdf). That would be about $47 trillion using Smith's method. Given Foldvary is contradicted by his own source (Dwyer), we should probably exclude his line for now and construct a new one for Cord, as well as a "Dwyer-USA" line using 21% of America's GNI to better represent what Foldvary was getting at. If we buy that the Australian pattern might hold for the United States, our new chart looks something like this:
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F64b57247-eae6-4251-bae0-ce579e11d5cb_1556x1018.png) 
+ ![](usa_land_value_2.png) 
  
 Because the Cord and Dwyer-USA lines are just naively tracking GNI, they somewhat mask the 2005-2008 housing bubble, but they give us something like an upper bound. So we've got three emerging lines here. Could this reflect a difference in methodologies?
 
 Indeed.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa90a659b-370b-432e-82a9-7ba2d41e361a_780x511.png) 
+ ![](usa_land_value_3.png) 
  
 In part III, we'll dig into how to accurately assess land values in detail, but for now, let's look at the broad strokes differences between the estimation methods used here.
 
@@ -235,7 +235,7 @@ Long story short, I found numerous persuasive criticisms of the cost approach. U
 
 Larson disagrees with himself. Let me grey out most of the other lines to highlight this discrepancy.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F72d7ba8d-6137-4cc8-b9d8-8f37419e99bb_780x511.png) 
+ ![](usa_land_value_4.png) 
  
 Larson (2015) was written by Larson alone and uses a "hedonic regression" approach similar to the one described in [Kuminoff and Pope (2013)](https://doi.org/10.3368/le.89.1.1). In this method, you note all the characteristics of a property and then use a computer model to tease out the individual contributions of each factor to the final market value. This paper's data comes from a variety of sources but includes vacant land sales, developed property sales, and official stats from appraisals.
 
@@ -250,7 +250,7 @@ Unfortunately, this method isn't going to work to model urban land values becaus
 
 Or are there?
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd591baa-7910-4bbb-a8e1-3e414dbff399_801x830.png) 
+ ![](usa_land_value_5.png) 
  
 This startling figure is from the "[online appendix](https://mitp.silverchair-cdn.com/mitp/content_public/journal/rest/100/3/10.1162_rest_a_00710/2/rest_a_00710-esupp.pdf?Expires=1640585859&Signature=gnRHP4gjxtsswGVrzQOb98gdycV2TnrrU0Yn5u4C2v7anb7GB-QGQLL7ULbfdAqPDBawButRVxu4PeN35kWbJz5He1I66v02mATLL-MZ6YpoyVWizynxpUq4~I8wfF~yCEaIK5fsVgTOg45xemzQLXWpI311M2I5NBCyz~A2mWV0s8hI71wURagJ-aksPe0F-Wv~xbTZaN2yAAPNbsJxQ4sf8nZl2~1tjLN~h9keA6MU4d70v~gk~7GL9B3dnnfBpLggb1oU3JLZMd5IT1zzG56gVrV-tbZRiXqh05mI8GbixZOYyGVVLXWTP-zVhlEjyPZj9ziDBaN7AYsxEE4GKA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)" to Albouy's paper, briefly referenced in a footnote in the main paper. Apparently, there are _more_ pure land sales in urban areas than there are in outlying areas. As far as I can tell, Albouy builds his statistical model using _nothing_ but pure land sales, excluding anything that has a structure on it. And yet his data points are most densely clustered around major city centers, when I had expected this approach would yield the exact opposite.
 
@@ -279,13 +279,13 @@ In short, the cost approach is flawed because subtracting the inflated building 
 
 But what about the other figure in the equation–the full market value of the real estate (land + buildings)? If the Federal Reserve is basing those figures off of assessed values, we have good reason to believe they are too low. For one, only a minority of US states and Canadian provinces [re-assess property values annually](https://www.iaao.org/wcm/Resources_Content/PTAPP.aspx).
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9c40f45a-95b0-413f-bba6-70dddb309fad_672x480.png) 
+ ![](ptap_reassessment.png) 
  
 Source: [2017 PTAPP survey](https://www.iaao.org/wcm/Resources_Content/PTAPP.aspx) from the International Association of Assessment Officers
 
 And for two, property tax assessments have all kinds of exemptions and carve-outs that serve to depress official statistics. Let's put aside [Proposition 13](https://en.wikipedia.org/wiki/1978_California_Proposition_13)'s legacy in California for a second and just compare the sale history to the tax history of properties like this one in Manhattan:
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faabe4977-f06a-4e59-a65e-1bb72af9783d_561x683.png) 
+ ![](manhattan_wtf.png) 
  
 Assessed values less than 10% of the extremely obvious full market value
 
@@ -307,13 +307,13 @@ Smith starts by extrapolating Albouy's last given figure to the present day by a
 
 We can check his work pretty quickly. All the figures we have for the last decade that don't come from Smith grow at a very similar rate, with the Federal Reserve line growing at a steady ~$1.4T a year on average. So let's extrapolate Albouy at the same rate:
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfe58360-600a-4755-b170-08618b698ffc_778x509.png) 
+ ![](usa_land_value_5.png) 
  
 Interestingly enough, that puts us just over Tideman's estimate but short of Smith's final value by about $11T. The USDA tells us the average value of farm land was [$3,160 / acre in 2020](https://www.nass.usda.gov/Publications/Todays_Reports/reports/land0820.pdf). Multiply that by [896.6 million acres](https://www.statista.com/statistics/196104/total-area-of-land-in-farms-in-the-us-since-2000/) and you get $2.8 trillion dollars. Smith further cites Richard Ebeling, who in 2015 estimated the value of all of the federal government's holdings in land and mineral reserves at [$5.5 trillion dollars](https://www.fff.org/explore-freedom/article/there-is-no-social-security-santa-claus/). Smith applies an extrapolation to update this value to 2020, putting it at $6.6 trillion.
 
 If we just pop $2.8T + $6.6T on top of the extrapolated line from Albouy, that gives us this:
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdd024a4-f5c5-4af4-b9b6-fead0e64eb79_778x509.png) 
+ ![](usa_land_value_6.png) 
  
 Which gets us pretty close to Smith's figure. The USDA figure seems reliable, because most farmland doesn't have structures on it and is just pure land. The USDA can value the land just by observing market transactions. As for Ebeling, you kind of have to take his word for it, as he doesn't give a methodology. Ebeling is also a hardcore libertarian who advocates selling off all federal lands to reimburse taxpayers (wonder how he'd feel seeing Smith use his estimates to advocate Georgism!). But in any case, if you buy all of that, you get pretty close to Smith's $44T figure, which is itself close to Dwyer's observed ratio in Australia of land rents as 21% of national income (provided you use Smith's 10:1 ratio to convert land rents to land values).
 
@@ -334,7 +334,7 @@ The 2005 federal budget had $2.5 Trillion in expenditures, increasing to $4.4 Tr
 
 If we plug in the figures from the Federal Reserve and Smith, that gives us the following figures for America's annual land rents (in trillions of dollars):
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8822aedd-5d78-47fc-ac44-9c7435b13961_405x512.png) 
+ ![](land_value_table.png) 
  
 Great, after all that math we finally have a table that tells us how much money LVT might be able to raise. Keep in mind even the optimistic figures don't account for dynamic effects and aren't necessarily pricing in all other sources of "Economic Land" such as mineral rights, water rights, etc. They also don't apply any estimates for how much land values would rise if restrictive zoning ordinances were removed.
 
@@ -347,11 +347,11 @@ Now we just need to compare that to America's budget figures.
   
 America's annual land rents are sufficient to cover between 18%-40% (Fed) and 34-78% (Smith) of annual federal spending. The low-end figures come from 2020, which was a major outlier in federal spending thanks to COVID.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc92192f-2634-4a93-ae7f-8d51932fa541_612x366.png) 
+ ![](land_rent_vs_federal_spending.png) 
  
 To put those amounts in context, in the [2019 federal budget](https://www.cbo.gov/publication/56324), total spending was $4.4 trillion. We spent $676 billion on defense (15%), Social Security was $1 trillion (23%), and Medicare + Medicaid together were $1.05 trillion (24%). Let's compare those to our four individual estimates for annual land rent values:
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1dab218e-e052-409c-a3ae-6f9c243de48f_652x368.png) 
+ ![](2019_federal_vs_2019_land_rent.png) 
  
 Even the lowest estimate, the Federal Reserve method using a 5% cap rate, is enough to cover any one of Defense, Social Security, or Medicare + Medicaid, all by itself. And if you believe Smith's figure at the 8% cap rate, we could cover _all three of those things_ and still have enough left over to cover a third of all other spending.
 
@@ -363,23 +363,23 @@ Fun fact: taking all the billionaires' money yields a little less than selling o
 
 But wait, what about [state budgets](https://higherlogicdownload.s3.amazonaws.com/NASBO/9d2d2db1-c943-4f1b-b750-0fca152d64c2/UploadedImages/SER%20Archive/2021_State_Expenditure_Report_S.pdf)? Many states are funded by property taxes, so if we're going to shift to land value taxes, we need to take states into account, too. So let's add state budgets into the mix (minus federal funding to states so we're not double counting). If we do that, we drop to 18-30% (Fed) or 36-58% (Smith) of annual spending.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F945dfd03-b1be-457b-824b-28078020863b_612x358.png) 
+ ![](land_rent_vs_federal_state_spending.png) 
  
 If we look ONLY at net spending from all state budgets (all 50 state government outlays minus federal funding to states), you could cover anywhere from 67-121% (Fed) or 142-230% (Smith) with land rents, implying that states–particularly the ones with big cities–could easily fund themselves off of LVT alone.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4d42a0dd-2c51-4d3d-971b-618b825105a0_613x366.png) 
+ ![](land_rent_vs_net_state_spending.png) 
  
 But let's look at this another way. The federal government hasn't run a balanced budget since that [one time in the 1998](https://www.fool.com/investing/general/2013/09/30/was-americas-budget-really-balanced-in-the-90s.aspx), so the proper way to evaluate LVT against the status quo isn't comparing against total annual expenditures, but against total annual tax _receipts_. By this measure, all of America's land rents could cover anywhere from 30-56% (Fed) or 60-103% (Smith) of what our current tax receipts bring in.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc596cf8c-a5ed-43f7-9627-83b75edc36bc_606x346.png) 
+ ![](land_rent_vs_federal_receipts.png) 
  
 And if you add in state tax receipts too, you get somewhere between 19-36% (Fed) and 41-68% (Smith). I couldn't find a source for state tax receipts, but most states are required to run balanced budgets, so I'm just assuming that the state budget expenditure figures from above are the same as their receipts. If I had more precise figures from the few states that do run deficits, that would only serve to reduce the assumed amount of tax receipts from those states, which could only raise the percentages given here.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3fc3da64-a9ca-4e17-8af2-d6fc3f149e0c_603x412.png) 
+ ![](land_rent_vs_federal_state_receipts.png) 
  
 Finally, what about [local governments](https://state-local-finance-data.taxpolicycenter.org/pages.cfm)? That's where a lot of the property taxes currently go anyways (not to mention regressive taxes like sales taxes and lotteries). If we add in all their tax money too, and compare it to annual land rents, that drops us to 14-26% (Fed) or 29-49% (Smith) of annual receipts. Keep in mind this doesn't account for property values that already have state and local property tax burdens priced into them. If we were to factor that in, it would raise these figures significantly.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F120e0b8a-789e-4bb2-89b6-85f801b9b626_627x412.png) 
+ ![](land_rent_vs_federal_state_local_receipts.png) 
  
 No matter how you slice it, the most low-end estimate of 14-26% of all federal, state, _and_ local tax receipts is a lot of money, especially when you consider that it recurs annually and can cover any single giant line-item in the federal budget. And Smith's 29%-49% figure for land rents compared to _all tax receipts for every level of government combined_ would be bonkers.
 
@@ -444,17 +444,17 @@ Banking is obviously way more complicated than "you give the bank your money and
 
 Lately, they lend it out to people who want to buy real estate, according to _[The Great Mortgaging: Housing Finance, Crises, and Business Cycles](https://www.nber.org/system/files/working_papers/w20501/w20501.pdf)_ by Jordà, Schularick, and Taylor. This chart shows three snapshots from 1928, 1970, and 2007 of the share of all bank lending that goes to real estate for a selection of major countries around the world.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F994798fc-81f9-455f-a985-5100d5944292_675x838.png) 
+ ![](real_estate_bank_lending.png) 
  
 Here's another visualization that takes all the countries together and plots it over time, going back to the late 1800's.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4ce0081f-f518-4267-8ad6-2a6f3e667943_668x457.png) 
+ ![](real_estate_bank_lending_graph.png) 
  
 As we can see above, this is truly a worldwide phenomenon, and it's been on a continuous upward trend since about 1950. As of today, the real estate share of bank lending has grown to nearly twice the level it was in Henry George's time.
 
 Let's see if we can spot check some of these stats by looking up another source. [Positive Money](https://positivemoney.org/2018/06/how-has-bank-lending-fared-since-the-crisis/) provides this graph breaking down per-sector lending in the UK. They give the Bank of England itself as the source for their data.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8cd5f3a-3578-4220-ae06-b14033dbb022_915x491.png) 
+ ![](uk_lending.png) 
  
 Source: _Table C1.2 Bank of England statistics via [Positive Money](https://positivemoney.org/2018/06/how-has-bank-lending-fared-since-the-crisis/)_
 
@@ -462,11 +462,11 @@ Counting pixels and working out the percentage by hand, it looks like real estat
 
 Is there anywhere else we can check easily? New Zealand (which isn't covered in _The Great Mortgaging_) has this [really cool dashboard](https://bankdashboard.rbnz.govt.nz/asset-quality) that breaks down all the bank loans in their country. As you can see, the majority of loans are for housing.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F877a7761-642e-4da4-a319-35a8ced60f3e_1405x736.png) 
+ ![](nz_lending.png) 
  
 Here's another visualization of the same data.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe67970a7-2b79-43da-9380-c336af96c8a2_939x361.png) 
+ ![](nz_lending_2.png) 
  
 Source: [Interest.co.nz](https://www.interest.co.nz/banking/112371/nz-banks-housing-lending-continues-rising-percentage-their-overall-lending-business)
 
@@ -488,7 +488,7 @@ That Rognlie (2015) citation is worth unpacking in particular. Rognlie got a lot
 
 Rognlie pointed out [in his paper](https://www.brookings.edu/bpea-articles/deciphering-the-fall-and-rise-in-the-net-capital-share/) that Piketty was improperly handling the depreciation of capital assets. Once you account for this, you find the outsized returns to "capital" driving inequality are due almost entirely to housing.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc51afe34-dc5f-4ba0-8ef0-7141823d0e04_600x558.png) 
+ ![](rognlie.png) 
  
 The unaffordability of housing appears to be not a mere symptom of inequality but rather a key driver of it. And banks contribute to that unaffordability by acting as the shadow rentiers of the entire economy.
 
@@ -497,23 +497,23 @@ The unaffordability of housing appears to be not a mere symptom of inequality bu
 
 Here are two graphs that you might remember from the book review. The first shows that something like 40% of all gross personal assets in Spain represent land. About 25-30% are "financial assets" that must ultimately cash out to some mixture of real assets (land and capital), so the true percentage due to land is probably higher than 40%.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F262f5be1-cda3-47c8-a421-60911eb126ca_1024x669.png) 
+ ![](spain_assets.png) 
  
 source: [Wealth in Spain, 1900-2014](https://web.archive.org/web/20180821115745/http://wid.world/wp-content/uploads/2018/02/WID.WP_ABM_WEALTHSPAIN_2018.pdf) by Blanco, Bauluz, & Martínes-Toledano
 
 The second chart shows that about half of real assets in the United Kingdom are due to land.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd44fa0ce-e239-4aa6-8b35-83e86fdc8462_1008x623.png) 
+ ![](uk_assets.png) 
  
 Based on data from the United Kingdom National Accounts: The Blue Book 2017. Published Oct 31, 2017. Revision Period: Beginning of each time series. Date of next release: July 2018. The "privileges" in "Land and privileges" are things like taxi medallions and patents, that were worth "almost zero" according to Nate Blair, who prepared the chart.
 
 Here are two graphs from Thomas Piketty breaking down "national capital" for Britain and France by sector:
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4c45dda9-2a23-4024-a171-1948d8113e9d_894x615.png) 
+ ![](uk_national_capital.png) 
  
 Source: Capital in the 21st Century by Thomas Piketty
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F322ba6f4-bf68-4df2-a5ab-d4e5fb25cbc8_894x615.png) 
+ ![](france_national_capital.png) 
  
 Source: Capital in the 21st Century by Thomas Piketty
 
@@ -521,7 +521,7 @@ In the olden days, the majority of national capital was in agricultural land. No
 
 What about the US? Here's a figure from [Tideman & co's big paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960235), which uses OECD numbers to chart the share of household wealth in the USA due to "non-produced assets" (conventional land, natural resources, and everything else that isn't a kind of capital that humans create, which Georgists call "Land").
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9bb975ec-6df8-49a2-857c-cbdb14633cff_527x783.png) 
+ ![](us_households.png) 
  
 As we can see, it hovers around 40%.
 
@@ -529,7 +529,7 @@ Land represents about 40% of household assets in the USA. It also represents mor
 
 How about the rest of the world? According to [this giant report by McKinsey](https://archive.md/DRUiI), real estate holdings account for two-thirds of all _global_ real assets, with more than half of that coming from land.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2e32dd1-3d4e-43a3-bef8-b2cf1c83dc2e_704x775.png) 
+ ![](mckinsey_land.png) 
  
 If you add together the 35% due to conventional land and the 4% due to "non-produced" assets (which, among other things, includes mineral and energy reserves), you get the amount represented by the Georgist definition of Land: 39% of all real assets in the entire world. That figure rises to 43% if you also count IP as "Economic Land."
 
@@ -544,11 +544,11 @@ Now some of you might be nervous at this point. Are those awful Georgists about 
 
 Let's use $1.2 trillion in 2020, the most pessimistic figure for America's land rents (the Federal Reserve method at the low 5% capitalization rate). If we split that amount among all ~209 million American citizens over the age of 18, then anybody sitting on a property worth less than ~$230K is going to either break even or turn a profit.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faf8ed07b-e425-40f8-930f-4eeec13fa716_681x190.png) 
+ ![](table_dividend_1.png) 
  
 This simplistic table makes a few assumptions, of course. We fix land share at 50%, and capitalization rate at 5%. But keep in mind that _every citizen_ would get the dividend, so if you have two adults in your household, the table breaks even at just under $500K in property value.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c6ff476-47c0-44d2-ac49-7fc7d22a4a16_681x190.png) 
+ ![](table_dividend_2.png) 
  
 This is not a recipe for bankrupting the middle class. In fact, it compensates everyone for helping make America a desirable place to live. This compensation is paid primarily by those who gatekeep the most valuable locations and natural resources, things which were not brought into existence by anyone's hard work or investment.
 
@@ -561,13 +561,13 @@ Bill Gates, the world's fourth richest person, owns 242,000 acres of farmland ac
 
 So what % of total real estate values are owned by the top 1%, the top 10%, and the top 50%? Quite a lot, according to the Federal Reserve.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd5abee3-a1dc-48b0-aabb-053313e78577_840x424.png) 
+ ![](fred_real_estate.png) 
  
 In other words, of all the real estate value in the United States, the top 1% own 14.7% of it, the top 10% own 44.8% of it, and the top 50% own 88.5% of it.
 
 Here's how that compares against total assets.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3861326-cd35-46a5-969a-5324d7acb91d_842x415.png) 
+ ![](fred_total_assets.png) 
  
 Of all asset values in the United States, the top 1% own 29% of it, the top 10% own 65% of it, and the top 50% own 94.7% of it.
 
@@ -575,29 +575,29 @@ So compared to total asset values, it looks like real estate is a little more ev
 
 But where the top 1% really get their kicks is in financial assets.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F66f71bff-57fa-443a-86a2-f7c94c667941_842x419.png) 
+ ![](fred_financial_assets.png) 
  
 Not to mention ownership of private businesses.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe360e2ea-3b46-4e5c-84e1-8587a3920d5d_842x415.png) 
+ ![](fred_noncorporate_business.png) 
  
 Once again, we're back to untangling the value of financial assets, which is beyond the scope of this particular investigation. In a sane world, the "ground truth" value of most financial instruments like stocks and bonds would terminate in good old fashioned capital and labor, but we've already been through one crisis where much of the world's paper wealth turned out to be just [elaborate incantations cast upon regular people's mortgages](https://www.finra.org/investors/learn-to-invest/types-investments/bonds/types-of-bonds/mortgage-backed-securities#:~:text=Mortgage-backed%20securities,%20called%20MBS,million%20worth%20of%20such%20mortgages.). From what we've seen about how many bank loans are tied up in real estate, we're well on our way back there.
 
 What about sources other than the Fed? [The Economist](https://www.economist.com/briefing/2015/04/04/the-paradox-of-soil) gives similarly stratified figures, which [I'm told](https://www.reddit.com/r/georgism/comments/pryhtf/land_value_ownership_inequality_stats/hdqf9m7/?context=3) ultimately come from [here](https://eml.berkeley.edu/~saez/SaezZucman2015.pdf).
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0eacbb7f-fbbf-4004-889f-027dfeafee3b_300x328.png) 
+ ![](economist_housing_wealth.png) 
  
 Rich people own a lot of the country's land value, and in fact, they own most of it. On top of that, [housing is the world's biggest asset class](https://www.economist.com/special-report/2020/01/16/how-housing-became-the-worlds-biggest-asset-class).
 
 The really troubling bit is the generational gap. Every generation has lower homeownership rates than the previous one.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F60d392e5-685d-4fa2-9a71-33d44a8ceed8_738x395.png) 
+ ![](homeownership.png) 
  
 Okay, but Millennials are younger. Obviously they have lower homeownership rates than older people. Maybe they'll catch up?
 
 Evidence suggests they won't.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fed36a731-d171-478c-8a8d-ab334343fad7_728x436.png) 
+ ![](homeownership_decline.png) 
  
 Not only is land ownership concentrated among the wealthy, it's concentrated among the _old_ and wealthy. [Life expectancies for the old and rich are increasing](https://www.nber.org/papers/w27509), delaying both inheritances and estate taxes past the point where it would do the most good–while members of the next generation are still establishing themselves and/or trying to build families.
 
@@ -625,4 +625,4 @@ Land is not some minor concern that only matters in pre-industrial agricultural 
 
 By George, Land Value Tax would solve this.
 
-_\[…to be continued\]_
+Next: [Part II - Can Land Value Tax be Passed on to Tenants?](can_lvt_be_passed_on_to_tenants)  
