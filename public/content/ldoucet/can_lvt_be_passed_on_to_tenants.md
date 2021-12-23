@@ -1,4 +1,4 @@
-#Can Land Value Tax Be Passed On To Tenants?
+# Can Land Value Tax Be Passed On To Tenants?
 
 by [Lars A. Doucet](lars_a_doucet), 2021
 
@@ -21,8 +21,7 @@ By George, if Land Value Tax is easily passed on to tenants, then it has no powe
 
 First, let's explain the theoretical model for why this isn't supposed to be possible, and then let's see if it actually works that way in the real world.
 
-1\. Theory
-==========
+# 1. Theory
 
 Imagine I'm a landlord, and I have a vacant lot I'm renting to a tenant who's got a mobile home parked there. What's going to happen if a Land Value Tax is imposed on me? Well, I'm already charging as much as the market will bear. If I charge any more, my tenant will move out. But why shouldn't I be able to pass on the tax to the tenant? If you tax gasoline or cigarettes, the prices go up and are ultimately borne by the customer. Why should land be any different?
 
@@ -40,12 +39,13 @@ That's the theory at least. Does it hold up in real life?
 
 According to the evidence, the answer is yes.
 
-2\. Empirics
-============
+# 2. Empirics
 
 Let's try to envision what it would take to test this. Imagine a hypothetical country with a decent property assessment scheme already in place. Land and improvements are assessed separately to an objective and equalized standard, and each is taxed at a separate rate. Let's further say this country's assessments are widely considered to be fair and well-tested against market values. As a starting condition, each of the counties in this country has its own independent land tax rate. Then, for our experimental intervention, we'll have all of the counties raise or lower the tax rate on land values randomly within a predefined range, all at the same time. Then we'll observe what happens to land prices.
 
 Unfortunately for us, countries with the necessary prerequisite assessment policy are few and far between, and sovereign states don't typically run randomly controlled economic experiments on their population, so I'm afraid–wait, something almost exactly like this happened in Denmark in 2007.
+
+## The Danish Paper
 
 What happened in Denmark was an accident, but you'd be hard pressed to design a better experimental setup if you tried. A 2017 working paper by Høj, Jørgensen, and Schou, entitled "[Land Taxes and Housing Prices](https://web.archive.org/web/20201108135554/https://dors.dk/files/media/publikationer/arbejdspapirer/2017/02_arbejdspapir_land_tax.pdf)," published at the Danish Secretariat of Economic Councils, has the full story.
 
@@ -75,6 +75,8 @@ The authors measure the before-and-after changes, apply a bunch of econometric t
 
 This just means that if you tax land, absent any other interventions, the price of land goes down. The rental income of the land available to the landlord goes down too, which means the landlord is eating the tax and can't pass it on to the tenant. If the landlord could successfully pass on the tax, we wouldn't see a decrease in the price of land that amounts to "full capitalization."
 
+## Other Studies
+
 Now, [beware the man of one study](https://slatestarcodex.com/2014/12/12/beware-the-man-of-one-study/). Høj, Jørgensen, and Schou cite five other prior studies that support their findings: [Oates (1969)](https://doi.org/10.1086/259584), [Borge & Rattsø](https://doi.org/10.1177/1091142113489845) (2014), [Capozza, Green and Hendershot (1996)](https://www.google.com/books/edition/Economic_Effects_of_Fundamental_Tax_Refo/7bxfBHcgrtEC?hl=en&gbpv=1&dq=Taxes,+Mortgage+Borrowing,+and+Residential+Land+Prices&pg=PA171&printsec=frontcover), [Palmon and Smith (1998)](https://doi.org/10.1086/250041), and [Hilber (2015)](https://doi.org/10.1111/1540-6229.12129).
 
 All of these studies support the same conclusion but are not as well controlled and have to do various fancy tests to deal with endogeneity. The Danish study seems like a capstone that replicates the findings of a string of prior studies and puts to rest lingering doubts about endogeneity. If we take the authors' literature review at face value, it would be a robust finding for the full capitalization hypothesis.
@@ -83,7 +85,7 @@ But let's be thorough. It's possible these supporting studies are misrepresented
 
 That still leaves the possibility that the Danish authors cherry-picked their supporting studies and ignored everyone who found the opposite conclusions, so I tried to see what a general search for research papers on this subject would turn up and if any papers would _not_ support full capitalization of Land Value Taxes into property prices. Searching Google Scholar for property tax and Land Value Tax capitalization effects, I found nine additional papers.
 
-**Supporting:**
+### Supporting:
 
 [Bourassa (1987)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-2257.1987.tb00087.x) studies a Land Value Tax system in Pittsburgh and finds that "the incentive effect is significant but the liquidity effect is not. The incentive effect is found to encourage increases in the number of new units constructed in Pittsburgh rather than increases in the average cost of new units"  
   
@@ -99,11 +101,11 @@ That still leaves the possibility that the Danish authors cherry-picked their su
 
 [Mills (1981)](https://www.journals.uchicago.edu/doi/abs/10.1086/NTJ41862356?journalCode=ntj) is an interesting study, titled _The Non-Neutrality of Land Value Taxation,_ and frames itself in opposition to LVT. It's a theoretical paper rather than an empirical one and makes a curious claim: "It is true that a (less than 100 percent) tax on land income is neutral, but this does not extend necessarily to a tax on capitalized land value, or changes therein. The reason is that the discounted sum of payments with the latter tax is not invariant to the intertemporal characteristics of the income stream produced by land. Among options with equal present value, it is greater for income streams skewed to the distant future than for those skewed to the near future." Mills seems to be arguing that if a piece of land is subject to LVT, people will be willing to pay less to buy it, since it generates less rental income. This sounds like a full capitalization argument to me, which Mills apparently thinks is a bad thing. Regardless of how he feels about it, though, he's arguing that it _happens_, ironically putting this paper in the "support" column.
 
-**Mixed:**
+### Mixed: 
 
 [King (1977)](https://doi.org/10.1086/260574) doesn't have a knock-down argument for or against the full capitalization hypothesis, except to point out some quibbles with the analysis methods used in prior studies (including Oates, the seminal paper). King concludes, "our knowledge of the extent of tax capitalization is very much less than is commonly supposed." One would hope King would have been more impressed by all of the studies that have come out since.
 
-**Opposed:**  
+### Opposed: 
   
 I found one study that clearly and confidently rejects the hypothesis that LVT is fully capitalized into land values.
 
