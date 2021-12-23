@@ -1199,7 +1199,7 @@ George gets _really_ mad about this, and calls out John Stuart Mill and Henry Th
 
 [Return to III. The Laws of Distribution](#iii-the-laws-of-distribution)
 
-<span id="appendix-b-george-dunks-on-the-convential-laws-of-distribution"></span>
+<span id="appendix-b-george-dunks-on-the-conventional-laws-of-distribution"></span>
 ## Appendix B: George dunks on the Conventional Laws of Distribution  
 
 **Conventional Law 1: Wages** aredetermined by the ratio between capital devoted to the payment & subsistence of labor, divided up by the number of laborers.  
