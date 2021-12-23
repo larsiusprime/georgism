@@ -1,11 +1,11 @@
 # Book Review: Progress and Poverty
 
+by [Lars A. Doucet](lars_a_doucet), 2021
+
 **Part 0 - Book Review: Progress & Poverty 👈** (You are here)  
 [Part I  - Is Land Really a Big Deal?](is_land_a_big_deal)  
 [Part II - Can Land Value Tax be Passed on to Tenants?](can_lvt_be_passed_on_to_tenants)  
 [Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings?](can_land_be_accurately_assessed)
-
-by Lars A. Doucet, 2021
 
 <span id="introduction"></span>
 ## Introduction

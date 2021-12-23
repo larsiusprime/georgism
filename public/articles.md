@@ -2,7 +2,7 @@
 
 Writings on Georgism and related topics by various authors
 
-## Lars Doucet
+## [Lars A. Doucet](lars_a_doucet)
 
 Series: "Does Georgism Work?":
 
