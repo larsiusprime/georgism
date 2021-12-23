@@ -2,9 +2,9 @@
 
 Writings on Georgism and related topics by various authors
 
-## [Lars A. Doucet](lars_a_doucet)
+### by [Lars A. Doucet](content/ldoucet/lars_a_doucet):
 
-Series: "Does Georgism Work?":
+*Does Georgism Work?*, a series:
 
 - Part 0: [Book Review: Progress and Poverty](content/ldoucet/progress_and_poverty_review)
 - Part 1: [Is Land a Really Big Deal?](content/ldoucet/is_land_a_big_deal)
