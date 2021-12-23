@@ -27,6 +27,7 @@ by Lars A. Doucet, 2021
   - [Appendix B: George Dunks on the Conventional Laws of Distribution](#appendix-b-george-dunks-on-the-conventional-laws-of-distribution)
   - [Appendix C: The Insufficiency of Remedies Currently Advocated](#appendix-c-the-insufficiency-of-remedies-currently-advocated)
 
+<span id="introduction"></span>
 ## Introduction
 
 In 1879, a man asked "How come all this new economic development and industrialized technology hasn't eliminated poverty and oppression?" That man was Henry George, his answer came in the form of a book called Progress & Poverty, and this is a review of that book.
@@ -45,6 +46,7 @@ If I had to summarize the book in a single sentence I would put it this way:
 
 > Poverty and wealth disparity appear to be perversely linked with progress, The Rent is Too Damn High, and it's all because of land.
 
+<span id="the-book-as-a-book"></span>
 # The Book as a Book
 
 *Progress and Poverty* is quite readable compared to other 19th-century economic tomes, but has a tendency to repeat itself. This isn't without purpose – George goes to great pains not to be misunderstood; rather than expecting his readers to tease out the meaning of dense prose and spending the next century arguing with each other about what he "really meant", he goes on for pages and pages beating a single concept to absolute death, just to be sure.
@@ -61,6 +63,7 @@ Special thanks to my friend Adam Perry for helping me edit this piece, as well a
 
 Alright, let's dive in.
 
+<span id="0-the-problem"></span>
 # 0. The Problem
 
 George opens by observing an unkept promise made by Industrialists:
@@ -141,10 +144,12 @@ I'll just leave this here:
 
 [Number of Homeless Children in U.S. At All-Time High; California Among Worst States.](https://web.archive.org/web/20160324104539/https://sanfrancisco.cbslocal.com/2014/11/17/number-of-homeless-children-in-u-s-at-all-time-high-california-among-worst-states/)
 
+<span id="i-wages-and-capital"></span>
 # I. Wages and Capital
 
 George insists sloppy terminology leads to sloppy thinking. Naturally, he spends an entire chapter beating words to death to correct this.
 
+<span id="the-meaning-of-the-terms"></span>
 ## The Meaning of the Terms
 
 Let's start with **Wealth.**
@@ -306,6 +311,7 @@ Well, by George, if you treat land the same way you would a bar of pig iron, an 
 
 With terminology now firmly established, George moves on to the relationship between wages and capital.
 
+<span id="3-for-1-special-on-wages-capital-and-labor"></span>
 ## 3-for-1 special on Wages, Capital, and Labor
 
 I'm condensing three chapters here because they all deal with the same basic thing.
@@ -394,6 +400,7 @@ At least some of George's ideas will not seem so radical to modern readers (espe
 
 Political Cartoon literally demonizing Henry George – Puck magazine Oct. 20, 1886
 
+<span id="the-real-functions-of-capital"></span>
 ## The Real Functions of Capital
 
 Okay, Mr. George. You've spent three whole chapters beating me over the head with what the functions of capital _aren't_. So what _are_ the functions of capital?
@@ -443,6 +450,7 @@ In short, more investment, more protectionism, and more efficiency programs can'
 
 Having finally beaten the nexus of wages, capital, and labor into a bloody pulp, George turns his eyes towards another leading theory for why everything is terrible: the specter of overpopulation.
 
+<span id="ii-population-and-subsistence"></span>
 # II. Population and Subsistence
 
 The entire second book might as well be titled "Why Malthus is Dumb and Wrong and Bad."
@@ -459,6 +467,7 @@ Given that Malthusianism is now widely discredited I'm just going to skip this c
 
 * * *
 
+<span id="iii-the-laws-of-distribution"></span>
 # III. The Laws of Distribution
 
 When society produces wealth, who gets different shares of it, and why?
@@ -510,6 +519,7 @@ Therefore, we should always put land first in all our inquiries rather than capi
 
 George then sets out his three laws of distribution.
 
+<span id="the-law-of-rent"></span>
 ## The Law of Rent
 
 Let's be careful about the word "Rent." In modern usage, there is the concept of "Economic Rent" as well as "Rent" in the everyday sense of regular payments you make in exchange for the use of something that you are "renting." The modern definition of "Economic Rent", per Wikipedia is:
@@ -590,6 +600,7 @@ My landlord raises the rent, of course!
 
 The only way wages (the return to labor) and interest (the return to capital) can go up as productivity increases, is if land values fail to rise at the same rate.
 
+<span id="the-law-of-interest"></span>
 ## The Law of Interest
 
 George wants to find the fundamental reason capital is able to produce wealth and justly claim a fair share of production.  
@@ -608,6 +619,7 @@ As for how it relates to the other two returns to production – the more powerf
 
 This is because the net "reproductive" value of capital goes down given rent is a general tax on overall productivity. The amount I would have gained by using the thing productively over the period of time it was out on loan (the amount I can justly charge in interest) is reduced by how much I have to pay in rent.
 
+<span id="the-law-of-wages"></span>
 ## The Law of Wages
 
 Wages, like interest, are limited by the margin of production. Within that limit there's not much to understand about how wages work except that people seek to satisfy their desires "with the least exertion," which is a fancy way of saying people don't like to get ripped off. If two bosses offer the same exact job, but one offers higher pay, I'm taking that gig. If two bosses pay the same, but one is asking for twice as much work, I'll tell that boss where he can stick it.
@@ -634,6 +646,7 @@ And:
 
 > where the value of land is highest, civilization exhibits the greatest luxury side by side with the most piteous destitution
 
+<span id="iv-effect-of-material-progress-upon-the-distribution-of-wealth"></span>
 # IV. Effect of Material Progress upon the Distribution of Wealth
 
 As a society undergoes material progress, the rent goes up. Why?
@@ -718,6 +731,7 @@ Here's George:
 
 I don't think it's a coincidence that real estate is one of the oldest investments on Earth and the principal concern of basically every war ever.
 
+<span id="v-the-problem-solved"></span>
 # V. The Problem Solved
 
 We had two questions at the beginning of this book: why are there industrial depressions, and why poverty seems to advance alongside progress.
@@ -760,16 +774,19 @@ He sums it all up like this:
 
 So there's our answer: the monkey wrench that causes the boom-bust cycle of industrial depressions is rent, and even though we have more than enough material wealth to provide for everybody's needs, rent prevents us from distributing it fairly and equitably.
 
+<span id="volume-ii"></span>
 # Volume II
 
 Okay, The Rent Is Too Damn High, and now we finally know why. What are we going to do about it?
 
+<span id="insufficiences-of-remedies-currently-advocated"></span>
 ## Insufficiencies of Remedies Currently Advocated
 
 George goes down the list of everything we've already tried and why it hasn't worked (or has worked, but less well than we hoped), which you can read about in Appendix C (there's a link that returns here at the end):
 
 [Appendix C: The Insufficiency of Remedies Currently Advocated](#appendix-c-the-insufficiency-of-remedies-currently-advocated)
 
+<span id="the-remedy"></span>
 ## The Remedy
 
 George says the solution is to make land common property.
@@ -784,7 +801,7 @@ He anticipates a lot of pushback on this, and promises that his remedy:
     
 *   Will solve all our problems once and for all
     
-
+<span id="why-the-remedy-is-just"></span>
 ## Why the Remedy is Just
 
 George asks, "what constitutes the rightful basis of property?" What gives you the right to say "this is mine?"
@@ -821,6 +838,7 @@ Mr. Slumlord puts in as little work as he can get away with and invests as littl
 
 And that's the real injustice of land rent – the community produces the value, but the landlord charges rent to access it.
 
+<span id="practical-application-of-the-remedy"></span>
 ## Practical Application of the Remedy
 
 Okay, land as common property, rent must die, I'm sold. How do we actually do it?
@@ -857,6 +875,7 @@ By George, _One Hundred Percent_.
 
 Take the rent the tenant has to pay each month, calculate the portion attributable to the value of the unimproved land itself, and send it to the taxing agency.
 
+<span id="effects-of-the-remedy"></span>
 ## Effects of the Remedy
 
 Wow! 100% tax rate on ground rent! Can we really do that? In practice Georgists often talk about rates closer to 85+% given real-world limitations in assessment, but the point is to hit it as hard as you possibly can. Get close enough and you still have good effects.  
@@ -871,6 +890,7 @@ Land can't move or hide, and nowadays we have tools like [GIS](https://en.wikipe
 
 * * *
 
+<span id="a-brief-interlude-from-the-future"></span>
 ### A Brief Interlude From the Future
 
 Today land value tax is widely considered to be the only tax that doesn't suffer from [Deadweight Loss](https://en.wikipedia.org/wiki/Deadweight_loss).
@@ -1025,10 +1045,12 @@ it doesn't have to be.
 
 * * *
 
+<span id="further-reading"></span>
 # Further reading:
 
 ----------------
 
+<span id="on-georgism"></span>
 ## on Georgism:
 
 *   [Complete list of works](https://web.archive.org/web/20210220202946/https://www.biblio.com/henry-george/author/42457) by Henry George
@@ -1047,6 +1069,7 @@ it doesn't have to be.
     and Slums and Luxury in the Cities](https://books.google.com/books?id=isYCAAAAMAAJ&pg=PA2&lpg=PA2&dq=The+Consequences+of+Land+Speculationare+Tenantry+and+Debt+on+the+Farms,and+Slums+and+Luxury+in+the+Cities&source=bl&ots=95-zsanxSs&sig=ACfU3U3lkh9lRjX7cwynf0psfQIFTLmhVw&hl=en&sa=X&ved=2ahUKEwjU6tuHqPnuAhUBGs0KHXPqC2YQ6AEwAnoECAUQAw#v=onepage&q=upton%20sinclair&f=false) by Upton Sinclair
     
 
+<span id="on-distributism-a-close-cousin-to-georgism"></span>
 ## on Distributism (a close cousin to Georgism):
 
 *   [Wikipedia article on Distributism](https://en.wikipedia.org/wiki/Distributism)
@@ -1060,10 +1083,12 @@ it doesn't have to be.
 
 * * *
 
+<span id="appendices"></span>
 # Appendices
 
 These are optional elaborations on sections I glossed over because the Book Review Is Too Damn Long.
 
+<span id="appendix-a-george-dunks-on-malthusianism"></span>
 ## Appendix A: George Dunks on Malthusianism  
 
 Malthusianism in George's time was wildly popular, and often invoked by the ascendant proponents of [Social Darwinism](https://www.britannica.com/topic/social-Darwinism) who took Charles Darwin's theory of "survival of the fittest" and recast it as a moral justification for the [Just World Hypothesis](https://en.wikipedia.org/wiki/Just-world_hypothesis/). Essentially, those that are doing well do so because they are more "fit", and those that are less "fit" tend to perish, and furthermore, this brutal process will actively "improve" the human race. This philosophy was the energizing intellectual force behind both the [Eugenics](https://en.wikipedia.org/wiki/Eugenics) movement and Nazi Germany.
@@ -1100,6 +1125,7 @@ Now let's establish that it's _wrong_.
 
 * * *
 
+<span id="a-brief-interlude-from-the-future"></span>
 ### A Brief Interlude from the Future
 
 From where we're sitting in 2021, we don't even need George to refute Malthusianism, history has done that for us.
@@ -1164,6 +1190,7 @@ George gets _really_ mad about this, and calls out John Stuart Mill and Henry Th
 
 [Return to III. The Laws of Distribution](#iii-the-laws-of-distribution)
 
+<span id="appendix-b-george-dunks-on-the-convential-laws-of-distribution"></span>
 ## Appendix B: George dunks on the Conventional Laws of Distribution  
 
 **Conventional Law 1: Wages** aredetermined by the ratio between capital devoted to the payment & subsistence of labor, divided up by the number of laborers.  
@@ -1211,6 +1238,7 @@ That leaves return for the use of capital, which George calls **interest.**
 
 [Return to III. The Laws of Distribution](#iii-the-laws-of-distribution)
 
+<span id="appendix-c-the-insufficiency-of-remedies-currently-advocated"></span>
 ## Appendix C: The Insufficiency of Remedies Currently Advocated
 
 Things we've already tried that George says aren't sufficient:
