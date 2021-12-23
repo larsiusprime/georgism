@@ -279,7 +279,7 @@ In short, the cost approach is flawed because subtracting the inflated building 
 
 But what about the other figure in the equation–the full market value of the real estate (land + buildings)? If the Federal Reserve is basing those figures off of assessed values, we have good reason to believe they are too low. For one, only a minority of US states and Canadian provinces [re-assess property values annually](https://www.iaao.org/wcm/Resources_Content/PTAPP.aspx).
 
- ![](ptap_reassessment.png) 
+ ![](ptapp_reassessment.png) 
  
 Source: [2017 PTAPP survey](https://www.iaao.org/wcm/Resources_Content/PTAPP.aspx) from the International Association of Assessment Officers
 
