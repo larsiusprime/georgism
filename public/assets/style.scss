@@ -70,6 +70,13 @@ header {
   a:link, a:visited {
     color: $textColor;
   }
+  
+  hr {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	top: -10px;
+	position:relative;
+  }
 }
 
 nav {
