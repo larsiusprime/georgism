@@ -7,13 +7,27 @@ by [Lars A. Doucet](lars_a_doucet), 2021
 **Part II - Can Land Value Tax be passed on to Tenants? 👈** (You are here)  
 [Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings?](can_land_be_accurately_assessed)  
 
-* * *
+----
 
+<span id="introduction"></span>
 There were a lot of great comments to Part I. Most zeroed in on the practical aspects of implementing Georgism, such as how to deal with what Gordon Tullock calls [The Transitional Gains Trap](https://www.jstor.org/stable/3003249). Others brought up various perceived political obstacles and a few other topics (yes, I know about zoning, which is also a big deal). With a few exceptions, I didn't see much pushback on the core thesis of Part I, that land is a really big deal. In fact, many of the strongest opponents of LVT seem opposed precisely because they _agree_ that land is a big deal.
 
 I can't respond to everything people have said without spending another few months researching, but rest assured I will briefly address the most common points at the end of Part III. Anything that remains unanswered after that will have to wait for future articles.
 
-* * *
+----
+
+## Table of Contents
+
+- [Introduction](#introduction)  
+- [1. Theory](#1-theory)  
+- [2. Empirics](#2-empirics)  
+- [The Danish paper](#the-danish-paper)  
+- [Other Studies](#other-studies)  
+- [Supporting](#supporting)  
+- [Mixed](#mixed)  
+- [Opposed](#opposed)  
+
+----
 
 Georgists assert that landlords cannot pass Land Value Tax (LVT) on to their tenants. (Land Value Tax is a tax on the unimproved value of land alone, excluding all the buildings and other improvements.) Many critics are skeptical of this, because just about every other tax in the world _is_ passed on. Why should LVT be so special?  
   
@@ -21,6 +35,7 @@ By George, if Land Value Tax is easily passed on to tenants, then it has no powe
 
 First, let's explain the theoretical model for why this isn't supposed to be possible, and then let's see if it actually works that way in the real world.
 
+<span id="1-theory"></span>
 # 1. Theory
 
 Imagine I'm a landlord, and I have a vacant lot I'm renting to a tenant who's got a mobile home parked there. What's going to happen if a Land Value Tax is imposed on me? Well, I'm already charging as much as the market will bear. If I charge any more, my tenant will move out. But why shouldn't I be able to pass on the tax to the tenant? If you tax gasoline or cigarettes, the prices go up and are ultimately borne by the customer. Why should land be any different?
@@ -39,12 +54,14 @@ That's the theory at least. Does it hold up in real life?
 
 According to the evidence, the answer is yes.
 
+<span id="2-empirics"></span>
 # 2. Empirics
 
 Let's try to envision what it would take to test this. Imagine a hypothetical country with a decent property assessment scheme already in place. Land and improvements are assessed separately to an objective and equalized standard, and each is taxed at a separate rate. Let's further say this country's assessments are widely considered to be fair and well-tested against market values. As a starting condition, each of the counties in this country has its own independent land tax rate. Then, for our experimental intervention, we'll have all of the counties raise or lower the tax rate on land values randomly within a predefined range, all at the same time. Then we'll observe what happens to land prices.
 
 Unfortunately for us, countries with the necessary prerequisite assessment policy are few and far between, and sovereign states don't typically run randomly controlled economic experiments on their population, so I'm afraid–wait, something almost exactly like this happened in Denmark in 2007.
 
+<span id="the-danish-paper"></span>
 ## The Danish Paper
 
 What happened in Denmark was an accident, but you'd be hard pressed to design a better experimental setup if you tried. A 2017 working paper by Høj, Jørgensen, and Schou, entitled "[Land Taxes and Housing Prices](https://web.archive.org/web/20201108135554/https://dors.dk/files/media/publikationer/arbejdspapirer/2017/02_arbejdspapir_land_tax.pdf)," published at the Danish Secretariat of Economic Councils, has the full story.
@@ -53,7 +70,7 @@ One day, Denmark decided to redraw all its municipal boundaries. Regions that ha
 
 Crucially, tax assessment _policy_ was pretty much uniform throughout the country. The only thing this shakeup changed with regard to land policy was the actual individual rates of tax on land, set by the local governments. This gives us a nice big N of 250 individual areas, each with a clear before and after change in land tax rate. All of these changes came into being at exactly the same time from a single swift outside intervention, and the overall change in aggregate tax rate was close to zero:
 
- [![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ad635fd-877b-4ab7-a6d6-9a74a64b31fe_943x286.png) a.image2.image-link.image2-286-728 { display: inline; padding-bottom: 39.285714285714285%; padding-bottom: min(39.285714285714285%, 286px); width: 100%; height: 0; } a.image2.image-link.image2-286-728 img { max-width: 728px; max-height: 286px; }](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ad635fd-877b-4ab7-a6d6-9a74a64b31fe_943x286.png)
+ ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ad635fd-877b-4ab7-a6d6-9a74a64b31fe_943x286.png)
 
 Note the "per mille" – 20.6 per mille = 2.6 per cent, etc.
 
@@ -75,6 +92,7 @@ The authors measure the before-and-after changes, apply a bunch of econometric t
 
 This just means that if you tax land, absent any other interventions, the price of land goes down. The rental income of the land available to the landlord goes down too, which means the landlord is eating the tax and can't pass it on to the tenant. If the landlord could successfully pass on the tax, we wouldn't see a decrease in the price of land that amounts to "full capitalization."
 
+<span id="other-studies"></span>
 ## Other Studies
 
 Now, [beware the man of one study](https://slatestarcodex.com/2014/12/12/beware-the-man-of-one-study/). Høj, Jørgensen, and Schou cite five other prior studies that support their findings: [Oates (1969)](https://doi.org/10.1086/259584), [Borge & Rattsø](https://doi.org/10.1177/1091142113489845) (2014), [Capozza, Green and Hendershot (1996)](https://www.google.com/books/edition/Economic_Effects_of_Fundamental_Tax_Refo/7bxfBHcgrtEC?hl=en&gbpv=1&dq=Taxes,+Mortgage+Borrowing,+and+Residential+Land+Prices&pg=PA171&printsec=frontcover), [Palmon and Smith (1998)](https://doi.org/10.1086/250041), and [Hilber (2015)](https://doi.org/10.1111/1540-6229.12129).
@@ -85,6 +103,7 @@ But let's be thorough. It's possible these supporting studies are misrepresented
 
 That still leaves the possibility that the Danish authors cherry-picked their supporting studies and ignored everyone who found the opposite conclusions, so I tried to see what a general search for research papers on this subject would turn up and if any papers would _not_ support full capitalization of Land Value Taxes into property prices. Searching Google Scholar for property tax and Land Value Tax capitalization effects, I found nine additional papers.
 
+<span id="supporting"></span>
 ### Supporting:
 
 [Bourassa (1987)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-2257.1987.tb00087.x) studies a Land Value Tax system in Pittsburgh and finds that "the incentive effect is significant but the liquidity effect is not. The incentive effect is found to encourage increases in the number of new units constructed in Pittsburgh rather than increases in the average cost of new units"  
@@ -101,10 +120,12 @@ That still leaves the possibility that the Danish authors cherry-picked their su
 
 [Mills (1981)](https://www.journals.uchicago.edu/doi/abs/10.1086/NTJ41862356?journalCode=ntj) is an interesting study, titled _The Non-Neutrality of Land Value Taxation,_ and frames itself in opposition to LVT. It's a theoretical paper rather than an empirical one and makes a curious claim: "It is true that a (less than 100 percent) tax on land income is neutral, but this does not extend necessarily to a tax on capitalized land value, or changes therein. The reason is that the discounted sum of payments with the latter tax is not invariant to the intertemporal characteristics of the income stream produced by land. Among options with equal present value, it is greater for income streams skewed to the distant future than for those skewed to the near future." Mills seems to be arguing that if a piece of land is subject to LVT, people will be willing to pay less to buy it, since it generates less rental income. This sounds like a full capitalization argument to me, which Mills apparently thinks is a bad thing. Regardless of how he feels about it, though, he's arguing that it _happens_, ironically putting this paper in the "support" column.
 
+<span id="mixed"></span>
 ### Mixed: 
 
 [King (1977)](https://doi.org/10.1086/260574) doesn't have a knock-down argument for or against the full capitalization hypothesis, except to point out some quibbles with the analysis methods used in prior studies (including Oates, the seminal paper). King concludes, "our knowledge of the extent of tax capitalization is very much less than is commonly supposed." One would hope King would have been more impressed by all of the studies that have come out since.
 
+<span id="opposed"></span>
 ### Opposed: 
   
 I found one study that clearly and confidently rejects the hypothesis that LVT is fully capitalized into land values.
@@ -121,11 +142,11 @@ Hagman isn't clear on why this is. Did land become less important, were assessme
 
 We've already shown in Part I that it can't be that land's importance in the economy has declined since the 19th century. Concerning New Zealand specifically, [Tideman, et al.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3954888) says that today over half the share of non-produced assets for households is due to land.
 
- [![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8c810871-c8d1-41f3-9406-507644fe8006_911x867.png) a.image2.image-link.image2-867-728 { display: inline; padding-bottom: 119.0934065934066%; padding-bottom: min(119.0934065934066%, 867px); width: 100%; height: 0; } a.image2.image-link.image2-867-728 img { max-width: 728px; max-height: 867px; }](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8c810871-c8d1-41f3-9406-507644fe8006_911x867.png)
+ ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8c810871-c8d1-41f3-9406-507644fe8006_911x867.png)
 
 And it's worth reiterating that New Zealand banks put most of their loans towards real estate.
 
- [![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F99ae7cc7-aacf-4f89-bad8-1e6da4474fb2_939x361.png) a.image2.image-link.image2-361-728 { display: inline; padding-bottom: 49.58791208791209%; padding-bottom: min(49.58791208791209%, 361px); width: 100%; height: 0; } a.image2.image-link.image2-361-728 img { max-width: 728px; max-height: 361px; }](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F99ae7cc7-aacf-4f89-bad8-1e6da4474fb2_939x361.png)
+ ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F99ae7cc7-aacf-4f89-bad8-1e6da4474fb2_939x361.png)
 
 Source: [Interest.co.nz](https://www.interest.co.nz/banking/112371/nz-banks-housing-lending-continues-rising-percentage-their-overall-lending-business)
 
@@ -203,19 +224,19 @@ This falls well short of 100% LVT, and leaves the harmful tax on improvements un
 
 There are two ways land can be chronically underassessed. The first is when the assessed value of the property is way below market value, and the primary deficit is because the land value is underestimated. This isn't uncommon in big cities in the midst of housing crises.
 
- [![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F038e1616-19d3-4dbc-88b8-b03928562cec_845x160.png) a.image2.image-link.image2-160-728 { display: inline; padding-bottom: 21.978021978021978%; padding-bottom: min(21.978021978021978%, 160px); width: 100%; height: 0; } a.image2.image-link.image2-160-728 img { max-width: 728px; max-height: 160px; }](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F038e1616-19d3-4dbc-88b8-b03928562cec_845x160.png)
+ ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F038e1616-19d3-4dbc-88b8-b03928562cec_845x160.png)
 
 In this example, raising the assessed value of land to its true value more than triples the effective rate of the hidden land tax, _without_ raising the amount of tax on the building.
 
 The second way land can be chronically underassessed is when the total value of the property is properly assessed close to market value, but the value of the land is understated relative to the building. This often happens with the "cost approach" method we discussed in Part I. If you just improve the land assessment, you _shift_ the tax burden off of the building and on to the land.
 
- [![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9da6721d-63c9-4d11-a8c0-837a679aaa32_858x169.png) a.image2.image-link.image2-169-728 { display: inline; padding-bottom: 23.214285714285715%; padding-bottom: min(23.214285714285715%, 169px); width: 100%; height: 0; } a.image2.image-link.image2-169-728 img { max-width: 728px; max-height: 169px; }](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9da6721d-63c9-4d11-a8c0-837a679aaa32_858x169.png)
+ ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9da6721d-63c9-4d11-a8c0-837a679aaa32_858x169.png)
 
 Okay, but in this second chart isn't the owner paying $2,000 no matter what? Why should they care what the tax internally "falls" on? There's a couple reasons. For one, although it won't have any immediate effect on an individual whose total property value doesn't change, for many people it _will_ change. Some will go up, some will go down, and the resulting taxes will encourage putting land to its highest and best use. And for those whose property values don't change at all, now there is no disincentive to build improvements. Build a big multifamily unit? Put in a pool? Remodel your bathroom? Go nuts, you won't be punished for it with increased taxes.
 
 Here's a simple visualization of how an LVT paired with a Citizen's Dividend compares to conventional property taxes. It's just an illustration meant to make a rhetorical point, but now I'm curious to see a real-world version of this superimposed over, say, Houston or Philadelphia or New York City, and based on actual data.  
 
- [![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8d0764b-1ce5-4156-a10b-c323ee654c1a_830x586.png) a.image2.image-link.image2-586-728 { display: inline; padding-bottom: 80.4945054945055%; padding-bottom: min(80.4945054945055%, 586px); width: 100%; height: 0; } a.image2.image-link.image2-586-728 img { max-width: 728px; max-height: 586px; }](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8d0764b-1ce5-4156-a10b-c323ee654c1a_830x586.png)
+ ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8d0764b-1ce5-4156-a10b-c323ee654c1a_830x586.png)
 
 Source: [this tweet](https://twitter.com/cgusaofficial/status/1460672622153195524?s=21) from Common Ground USA
 
@@ -223,4 +244,4 @@ Ideally, the next step after shifting taxes from buildings to land is to abolish
 
 This leads directly to our next question, and the last and greatest objection to Georgism: can we actually perform accurate assessments that meaningfully and cleanly separate land value from improvements, such as buildings?
 
-See you in Part III.
+Next: [Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings?](can_land_be_accurately_assessed)  
