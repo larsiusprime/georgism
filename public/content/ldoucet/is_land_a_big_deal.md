@@ -1,9 +1,9 @@
 #Is Land a Really Big Deal?
 
-[Part 0 - Book Review: Progress & Poverty](content/ldoucet/progress_and_poverty_review)  
+[Part 0 - Book Review: Progress & Poverty](progress_and_poverty_review)  
 **Part I  - Is Land Really a Big Deal? 👈** (You are here)  
-[Part II - Can Land Value Tax be Passed on to Tenants?](content/ldoucet/can_lvt_be_passed_on_to_tenants)  
-[Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings?] (content/ldoucet/can_land_be_accurately_assessed)
+[Part II - Can Land Value Tax be Passed on to Tenants?](can_lvt_be_passed_on_to_tenants)  
+[Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings?] (can_land_be_accurately_assessed)
 
 _Extremely special thanks to Count Bla and Alexandra Elbakyan_
 
