@@ -64,7 +64,7 @@ header {
 
   img {
     max-width: 100px;
-    vertical-align: middle;
+    float: left;
   }
 
   a:link, a:visited {
@@ -79,25 +79,20 @@ header {
   }
 }
 
-nav {
-	text-align:center;
+hr {
+  border: 0 none;
+  border-bottom: 1px #777 solid;
 }
 
-nav a {
-  display: inline;
+nav {
+  display: flex;
+  justify-content: space-evenly;
 }
 
 span.titletext {
   font-size:65px;
   position:relative;
-  display:inline-block;
-}
-
-span.subtitletext {
-	display:inline-block;
-	position:relative;
-	left:105px;
-	top:-30px;
+  display:block;
 }
 
 p {
