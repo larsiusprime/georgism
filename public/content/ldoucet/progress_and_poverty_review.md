@@ -1,6 +1,30 @@
 # Book Review: Progress and Poverty
 
+**[Part 0 - Book Review: Progress & Poverty](content/ldoucet/progress_and_poverty_review) 👈** (You are here)  
+[Part I  - Is Land Really a Big Deal?](content/ldoucet/is_land_a_big_deal)
+[Part II - Can Land Value Tax be Passed on to Tenants?](content/ldoucet/can_lvt_be_passed_on_to_tenants)  
+[Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings?] (content/ldoucet/can_land_be_accurately_assessed)
+
 by Lars A. Doucet, 2021
+
+<span id="introduction"></span>
+## Introduction
+
+In 1879, a man asked "How come all this new economic development and industrialized technology hasn't eliminated poverty and oppression?" That man was Henry George, his answer came in the form of a book called Progress & Poverty, and this is a review of that book.
+
+Henry George is variously known for leading an early movement that popularized Universal Basic Income, sporting a fancy beard while shouting "The Rent Is Too Damn High!" and [inspiring a popular board game](https://web.archive.org/web/20210111131436/https://landlordsgame.info/) that was shamelessly ripped off and repackaged as Monopoly.
+
+But he didn't just write a book. He also [ran for Mayor of New York city in 1886](https://web.archive.org/web/20200926024934/https://www.city-journal.org/html/1886-men-who-would-be-mayor-12622.html), beating out some rando Republican named "Theodore Roosevelt," but ultimately losing to the favored candidate of Tammany Hall, who saw George's radical economic ideas as a threat to their well-oiled political machine (Andrew Yang take note). He ran again in 1897 but died just 4 days before the election, prompting a national outpouring of mourning. According to Ralph Gabriel's Course of American Democratic Thought, in New York alone 200,000 people came to see his body lying in repose, half of which had to be turned away. For context, that one crowd was roughly the size of [10% of the entire population of New York at the time](https://web.archive.org/web/20210217140046/http://demographia.com/db-nyuza1800.htm).
+
+I'm writing this book review for three reasons:
+
+- George's arguments about land, labor, and capital present a fresh alternative to conventional ideas about "Capitalism" and "Socialism" (and whatever we mean by those on any given day)
+- The book has timeless advice for navigating modern crises such as ever-rising rents, homelessness, and the [NIMBY](https://en.wikipedia.org/wiki/NIMBY) vs. [YIMBY](https://en.wikipedia.org/wiki/YIMBY) wars.
+- This is a golden opportunity to shamelessly over-use the catchy phrase "By George!"
+
+If I had to summarize the book in a single sentence I would put it this way:
+
+> Poverty and wealth disparity appear to be perversely linked with progress, The Rent is Too Damn High, and it's all because of land.
 
 ## Table of Contents
 
@@ -24,24 +48,6 @@ by Lars A. Doucet, 2021
   - [Appendix B: George Dunks on the Conventional Laws of Distribution](#appendix-b-george-dunks-on-the-conventional-laws-of-distribution)
   - [Appendix C: The Insufficiency of Remedies Currently Advocated](#appendix-c-the-insufficiency-of-remedies-currently-advocated)
 
-<span id="introduction"></span>
-## Introduction
-
-In 1879, a man asked "How come all this new economic development and industrialized technology hasn't eliminated poverty and oppression?" That man was Henry George, his answer came in the form of a book called Progress & Poverty, and this is a review of that book.
-
-Henry George is variously known for leading an early movement that popularized Universal Basic Income, sporting a fancy beard while shouting "The Rent Is Too Damn High!" and [inspiring a popular board game](https://web.archive.org/web/20210111131436/https://landlordsgame.info/) that was shamelessly ripped off and repackaged as Monopoly.
-
-But he didn't just write a book. He also [ran for Mayor of New York city in 1886](https://web.archive.org/web/20200926024934/https://www.city-journal.org/html/1886-men-who-would-be-mayor-12622.html), beating out some rando Republican named "Theodore Roosevelt," but ultimately losing to the favored candidate of Tammany Hall, who saw George's radical economic ideas as a threat to their well-oiled political machine (Andrew Yang take note). He ran again in 1897 but died just 4 days before the election, prompting a national outpouring of mourning. According to Ralph Gabriel's Course of American Democratic Thought, in New York alone 200,000 people came to see his body lying in repose, half of which had to be turned away. For context, that one crowd was roughly the size of [10% of the entire population of New York at the time](https://web.archive.org/web/20210217140046/http://demographia.com/db-nyuza1800.htm).
-
-I'm writing this book review for three reasons:
-
-- George's arguments about land, labor, and capital present a fresh alternative to conventional ideas about "Capitalism" and "Socialism" (and whatever we mean by those on any given day)
-- The book has timeless advice for navigating modern crises such as ever-rising rents, homelessness, and the [NIMBY](https://en.wikipedia.org/wiki/NIMBY) vs. [YIMBY](https://en.wikipedia.org/wiki/YIMBY) wars.
-- This is a golden opportunity to shamelessly over-use the catchy phrase "By George!"
-
-If I had to summarize the book in a single sentence I would put it this way:
-
-> Poverty and wealth disparity appear to be perversely linked with progress, The Rent is Too Damn High, and it's all because of land.
 
 <span id="the-book-as-a-book"></span>
 # The Book as a Book
