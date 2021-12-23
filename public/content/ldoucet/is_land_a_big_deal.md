@@ -41,7 +41,7 @@ If you haven't read [the Book Review](https://astralcodexten.substack.com/p/your
 - [A Brief Recap](#a-brief-recap)  
 - [Is Land Really a Big Deal?](#is-land-really-a-big-deal)  
 - [1. Most of the Value of Urban Real Estate Is Land](#1-most-of-the-value-of-urban-real-estate-is-land)  
-- [2. America's Land Rents Equal a Sizeable % of Government Spending)[#2-americas-land-rents-equal-a-sizable-of-government-spending]
+- [2. America's Land Rents Equal a Sizeable % of Government Spending](#2-americas-land-rents-equal-a-sizable-of-government-spending)  
   - [Land rents vs. Budgets](#land-rents-vs-budgets)
   - [How Much Money Can We Raise From Land Rents?](#how-much-money-can-we-raise-from-land-rents)
   - [ATCOR and the Henry George Theorem](#atcor-and-the-henry-george-theorem)
