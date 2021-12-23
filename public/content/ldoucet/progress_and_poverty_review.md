@@ -68,6 +68,7 @@ For the sake of the reader's attention span, I'll just cover the chapters that c
 
 Special thanks to my friend Adam Perry for helping me edit this piece, as well as to Nate Blair and blogger [BlueRepublik](https://bluerepublik.wordpress.com/) (who have actual degrees in this sort of thing) for fact checking and answering my technical questions in the vain pursuit of not embarrassing myself.
 
+<span id="volume-i"></span>
 Alright, let's dive in.
 
 <span id="0-the-problem"></span>
