@@ -12,6 +12,16 @@ by Lars A. Doucet, 2021
 - [III. The Laws of Distribution](#iii-the-laws-of-distribution)
 - [IV. Effect of Material Progress upon the Distribution of Wealth](#iv-effect-of-material-progress-upon-the-distribution-of-wealth)
 - [V. The Problem Solved](#v-the-problem-solved)
+- [Volume II](#volume-ii)
+- [Insufficiencies of Remedies Currently Advocated](#insufficiencies-of-remedies-currently-advocated)
+- [The Remedy](#the-remedy)
+- [Why The Remedy is Just](#why-the-remedy-is-just)
+- [Practical Application of the Remedy](#practical-application-of-the-remedy)
+- [Effects of the Remedy](#effects-of-the-remedy)
+- [Further Reading](#further-reading)
+- [On Georgism](#on-georgism)
+- [On Distributism](#on-distributism-a-close-cousin-to-georgism)
+- [Appendices](#appendices)
 - [Appendix A: George Dunks on Malthusianism](#appendix-a-george-dunks-on-malthusianism)
 - [Appendix B: George Dunks on the Conventional Laws of Distribution](#appendix-b-george-dunks-on-the-conventional-laws-of-distribution)
 - [Appendix C: The Insufficiency of Remedies Currently Advocated](#appendix-c-the-insufficiency-of-remedies-currently-advocated)
@@ -1014,11 +1024,11 @@ it doesn't have to be.
 
 * * *
 
-Further reading:
+# Further reading:
 
 ----------------
 
-### on Georgism:
+## on Georgism:
 
 *   [Complete list of works](https://web.archive.org/web/20210220202946/https://www.biblio.com/henry-george/author/42457) by Henry George
     
@@ -1036,7 +1046,7 @@ Further reading:
     and Slums and Luxury in the Cities](https://books.google.com/books?id=isYCAAAAMAAJ&pg=PA2&lpg=PA2&dq=The+Consequences+of+Land+Speculationare+Tenantry+and+Debt+on+the+Farms,and+Slums+and+Luxury+in+the+Cities&source=bl&ots=95-zsanxSs&sig=ACfU3U3lkh9lRjX7cwynf0psfQIFTLmhVw&hl=en&sa=X&ved=2ahUKEwjU6tuHqPnuAhUBGs0KHXPqC2YQ6AEwAnoECAUQAw#v=onepage&q=upton%20sinclair&f=false) by Upton Sinclair
     
 
-### on Distributism (a close cousin to Georgism):
+## on Distributism (a close cousin to Georgism):
 
 *   [Wikipedia article on Distributism](https://en.wikipedia.org/wiki/Distributism)
     
@@ -1049,7 +1059,7 @@ Further reading:
 
 * * *
 
-#Appendices
+# Appendices
 
 These are optional elaborations on sections I glossed over because the Book Review Is Too Damn Long.
 
