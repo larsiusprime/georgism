@@ -11,6 +11,7 @@ _Extremely special thanks to Count Bla and Alexandra Elbakyan_
 
 * * *
 
+<span id="introduction"></span>
 I originally reviewed Henry George's [Progress & Poverty](progress_and_poverty_review) for [Astral Codex Ten](https://www.astralcodexten.com)'s book review contest. Henry George is the founder of an economic philosophy known as [Georgism](https://en.wikipedia.org/wiki/Georgism) which is principally concerned with the deprivations caused by unchecked rentiers. George is famous for promoting two specific policies, the Land Value Tax (LVT) and the Citizen's Dividend (what we would now call a Universal Basic Income).
 
 I was shocked and humbled when Astral Codex Ten's readership [selected me as the winner](https://astralcodexten.substack.com/p/book-review-contest-winners). Even more shocking was how many people from around the world wrote to me about their interest in the article. Family, friends, and acquaintances for sure, but also a lot of total strangers–including business owners, activists, podcasters, online game designers, investors, even government officials from around the world. Scott's blog has _way_ more reach than I realized.
@@ -34,7 +35,22 @@ Today we'll start with point 1, and subsequent articles posted in the next two d
 
 If you haven't read [the Book Review](https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty) yet, I've posted a brief recap of the relevant concepts below. Otherwise, feel free to skip directly to the subsequent section.
 
-# 0. A Brief Recap
+## Table of Contents
+
+- [Introduction](#introduction)  
+- [A Brief Recap](#a-brief-recap)  
+- [Is Land Really a Big Deal?](#is-land-really-a-big-deal)  
+- [1. Most of the Value of Urban Real Estate Is Land](#1-most-of-the-value-of-urban-real-estate-is-land)  
+- [2. America's Land Rents Equal a Sizeable % of Government Spending)[#2-americas-land-rents-equal-a-sizable-of-government-spending]
+  - [Land rents vs. Budgets](#land-rents-vs-budgets)
+  - [How Much Money Can We Raise From Land Rents?](#how-much-money-can-we-raise-from-land-rents)
+  - [ATCOR and the Henry George Theorem](#atcor-and-the-henry-george-theorem)
+- [3. Land Represeents a Significant % of all Major Bank Loans](#3-land-represents-a-significant-of-all-major-bank-loans)
+- [4. Land Represents a Significant % of all Gross Personal Assets](#4-land-represents-a-significant-of-all-gross-personal-assets)
+- [5. Land Ownership is Highly Concentrated Among the Wealthy](#5-land-ownership-is-highly-concentrated-among-the-wealthy)  
+
+<span id="a-brief-recap"></span>
+# A Brief Recap
 
 Georgism is a school of [political economy](https://en.wikipedia.org/wiki/Political_economy) that is really upset about, among other things, the Rent Being Too Damn High. It seeks to liberate labor and capital alike from those who gatekeep access to scarce "non-produced assets," such as land and natural resources, while still affirming the virtues of hard work and free enterprise. George uses the term "Land" to mean not just regular land, but everything that is external to human beings and the things they produce–nature itself, really.
 
@@ -62,7 +78,8 @@ And if you have my day job as an analyst for the video games industry, one day y
 
 Some people come to Georgism because of their aversion to income and capital taxes, some want to use LVT to fund generous social programs, some are motivated by the beneficial environmental effects, and some just think the Rent is Too Damn High. No matter where you come from on the political compass, there's probably a way to mix up a club soda and Georgism that's right for you.
 
-# 1. Is Land Really a Big Deal?
+<span id="is-land-a-really-big-deal"></span>
+# Is Land Really a Big Deal?
 
 [Paul Krugman](https://psmag.com/news/this-land-is-your-land-3392) speaks for many mainstream economists when he admits that Georgist analysis is sound, but he insists that it's a moot point because land just isn't important anymore in the modern economy:
 
@@ -95,7 +112,8 @@ Here are a few testable hypotheses that capture different aspects of land being 
 
 Note that I'm not trying to prove each of these absolutely unequivocally. I'm just trying to see whether the preponderance of evidence counters the dismissal of land as being only a minor concern in the modern economy.
 
-## 1.1. Most of the value of urban real estate is land
+<span id="1-most-of-the-value-of-urban-real-estate-is-land"></span>
+## 1. Most of the value of urban real estate is land
 
 It's more expensive to live in the heart of New York City than in the middle of Nebraska. That's not because construction costs are orders of magnitude more expensive in New York, but because the land is orders of magnitude more expensive.
 
@@ -139,7 +157,8 @@ Given the evidence from the various land value estimation studies and databases 
 
 **Conclusion:** Most of the value of urban real estate is, in fact, land.
 
-## 1.2. America's land rents equal a sizable % of government spending
+<span id="2-americas-land-rents-equal-a-sizable-of-government-spending"></span>
+## 2. America's land rents equal a sizable % of government spending
 
 Krugman and other skeptics don't believe you can raise enough with LVT alone to fund a modern state. Noah Smith, on the other hand, claims that [Land is Underrated as a Source of Wealth](https://www.bloomberg.com/opinion/articles/2018-01-02/land-is-underrated-as-a-source-of-wealth). Regardless of who's right, LVT doesn't need to replace all other taxes to still be worth doing, as long as it can raise a significant enough chunk. So how much can it raise? Let's do the math and find out.
 
@@ -211,7 +230,8 @@ The middle values in red include Larson (2015), who uses a "hedonic regression" 
 
 Long story short, I found numerous persuasive criticisms of the cost approach. Ultimately, I think Smith's estimate is most likely closest to the truth. Let's dig into Larson, Albouy, and the Federal Reserve figures to understand why.
 
-**A Tale of Two Larsons**
+<span id="a-tale-of-two-larsons"></span>
+### A Tale of Two Larsons
 
 Larson disagrees with himself. Let me grey out most of the other lines to highlight this discrepancy.
 
@@ -221,7 +241,8 @@ Larson (2015) was written by Larson alone and uses a "hedonic regression" approa
 
 Larson (2019), on the other hand, was co-written with Davis, Oliner, and Shui and uses the cost approach exclusively. Crucially, Larson (2019) explicitly and intentionally _excludes_ all vacant land sales from the dataset. This estimate thus has the _least_ direct contact with ground truth data from the market concerning land.
 
-**Albouy's Astounding Appendix**
+<span id="albouys-astounding-appendix"></span>
+### Albouy's Astounding Appendix
 
 I think we can all agree that the purest way to measure the value of land is to find a piece of land with nothing on it and observe the price it sells for on the market. With enough of these data points, you could interpolate between them to create a smooth gradient map of land values, which could be good enough for estimating the aggregate value of large areas.
 
@@ -235,7 +256,8 @@ This startling figure is from the "[online appendix](https://mitp.silverchair-cd
 
 Both Albouy and Larson (2015) use regression models that include vacant land sales, but Albouy _only_ considers vacant land sales. By contrast, Larson (2019) uses the cost approach and explicitly _excludes_ vacant land sales. What about the Federal Reserve Method?
 
-**The Fuzzy Fed**
+<span id="the-fuzzy-fed"></span>
+### The Fuzzy Fed
 
 The "Federal Reserve" line is my own construction. Matthew Yglesias described this method in _[What's All the Land in America worth?](https://slate.com/business/2013/12/value-of-all-land-in-the-united-states.html)_ in 2013, arriving at $15 trillion. In this method, you look at the balance sheets on the Federal Reserve's annual [flow of funds report](https://www.federalreserve.gov/releases/z1/) and subtract the replacement values of all structures from the total value of real estate holdings. There's good reason to believe this method produces estimates that are too low.
 
@@ -276,7 +298,8 @@ If the Federal Reserve's data for total real estate values is at all based on pr
 
 Taken together with the fact that improvements are likely being over-valued based on naïve replacement costs + depreciation formulas instead of the actual present market value, this would imply that the Federal Reserve method for estimating all of America's land values at $24 Trillion is a **conservative lower bound,** and the same goes for all the other methods using the cost approach.
 
-**From Albouy to Smith**
+<span id="from-albouy-to-smith"></span>
+### From Albouy to Smith
 
 Okay, so let's look at Smith's method. Instead of doing a whole new study, he singles out Albouy as having the best methodology and makes some adjustments. You see, Albouy estimated the value of urban land _alone,_ leaving out federal lands, agricultural lands, and things like water rights and natural resources, which accrue rental income and are considered "Economic Land" by Georgists.
 
@@ -298,7 +321,8 @@ Of the original studies, Albouy has the most convincing methodology, and Smith's
 
 I should note here that a lot of this land is already paying property taxes, which is at least partially a Land Value Tax. Research shows that Land Value Taxes are "capitalized" into land prices. I'll explain this next time in Part II, but for now, suffice it to say that if an income-generating piece of land produced $10,000 a year for you, and you knew you had to pay $5,000 a year for the privilege of holding it, you'd probably only be willing to buy it for half as much as you would if the tax didn't exist. Since the point of this exercise is to estimate how much a blanket LVT could raise, a more rigorous study would work out how much present land prices have been depressed by existing land taxes and adjust these figures upwards accordingly to get a more accurate estimate of the full land rents.
 
-**Land Rents vs. Budgets**
+<span id="land-rents-vs-budgets"></span>
+### Land Rents vs. Budgets
 
 Now we have to convert land values to land rents–the amount of income the land is capable of generating each year.
 
@@ -318,7 +342,8 @@ Now we just need to compare that to America's budget figures.
 
 * * *
 
-**How Much Money Can We Raise from Land Rents?**  
+<span id="how-much-money-can-we-raise-from-land-rents"></span>
+### How Much Money Can We Raise from Land Rents?
   
 America's annual land rents are sufficient to cover between 18%-40% (Fed) and 34-78% (Smith) of annual federal spending. The low-end figures come from 2020, which was a major outlier in federal spending thanks to COVID.
 
@@ -368,7 +393,8 @@ If you believe in [Modern Monetary Theory](https://www.investopedia.com/modern-m
 
 But what if MMT is bunk, and if we also insist on the Fed's figures? Then we're left with two options: either accept that doctrinaire Single-Taxism is done for (in the USA, at least) while still accepting LVT as part of this balanced budget breakfast, or else look into those "dynamic effects" that Dwyer's Australian figures intentionally left out, particularly a tantalizing theory most commonly associated with [Mason Gaffney](https://www.masongaffney.org/workpapers/WP096%202005%20The%20Physiocratic%20Concept%20of%20ATCOR.pdf) called [ATCOR](http://www.wealthandwant.com/themes/ATCOR.html)–"All Taxes Come Out of Rents."
 
-**ATCOR and the Henry George Theorem**
+<span id="atcor-and-the-henry-george-theorem"></span>
+### ATCOR and the Henry George Theorem
 
 ATCOR supposes that a reduction in taxes on income and capital–independent any other policy interventions–will actually cause land values to _rise_ by a proportionate amount. This means that Georgists who suppose that any old LVT policy will cause land prices to go down need to be careful. If you un-tax labor and capital, but don't _also_ sufficiently raise taxes on land, land prices (and rents) will actually go _up,_ because someone working on that land is now taking home more income and therefore capable of paying more in rent (see [Ricardo's Law of Rent](https://www.youtube.com/watch?v=jiGKwi43R0Q)). However, with the right policy, this can be a good thing_._
 
@@ -409,7 +435,8 @@ And if you think all taxation is theft, well, Land Value Tax is a tax, so presum
 
 So, we’ve established that land value is the bulk of urban real estate values (and urban real estate values are the bulk of total real estate values), and land rents are large enough to make a big dent in any budget. But here’s something you can be sure affects everyone: the share of land value represented in bank loans.
 
-## 1.3. Land represents a significant % of all major bank loans
+<span id="3-land-represents-a-significant-of-all-major-bank-loans"></span>
+## 3. Land represents a significant % of all major bank loans
 
 Banks exist for at least two stated purposes–to give people a safe place to store their money and to provide capital in the form of loans to people engaged in productive activities. This song from Mary Poppins is a decent summary of the Econ 101 story we're told about what banks do with their money.
 
@@ -465,7 +492,8 @@ Rognlie pointed out [in his paper](https://www.brookings.edu/bpea-articles/decip
  
 The unaffordability of housing appears to be not a mere symptom of inequality but rather a key driver of it. And banks contribute to that unaffordability by acting as the shadow rentiers of the entire economy.
 
-## 1.4. Land represents a significant % of all gross personal assets
+<span id="4-land-represents-a-significant-of-all-gross-personal-assets"></span>
+## 4. Land represents a significant % of all gross personal assets
 
 Here are two graphs that you might remember from the book review. The first shows that something like 40% of all gross personal assets in Spain represent land. About 25-30% are "financial assets" that must ultimately cash out to some mixture of real assets (land and capital), so the true percentage due to land is probably higher than 40%.
 
@@ -526,7 +554,8 @@ This is not a recipe for bankrupting the middle class. In fact, it compensates e
 
 Also, keep in mind that LVT would see the elimination of the portion of property tax that falls on buildings. I just checked my own property tax records (I live in the suburbs of a medium-sized town far from any major urban cores). If the assessed land share more than doubled to 40%, under a 100% LVT regime I'd actually save $545.05 on my property taxes every year–and that's _without_ a Citizen's Dividend.
 
-## 1.5. Land ownership is highly concentrated among the wealthy
+<span id="5-land-ownership-is-highly-concentrated-among-the-wealthy"></span>
+## 5. Land ownership is highly concentrated among the wealthy
 
 Bill Gates, the world's fourth richest person, owns 242,000 acres of farmland across the U.S., making him the [#1 owner of private farmland in the USA](https://www.forbes.com/sites/arielshapiro/2021/01/14/americas-biggest-owner-of-farmland-is-now-bill-gates-bezos-turner/). But that's just farmland. If you're talking about [all land in the USA](https://landreport.com/americas-100-largest-landowners/), Gates ranks #49. Jeff Bezos is #25, and Ted Turner is #4. Rich people own a lot of land.
 
@@ -586,8 +615,10 @@ We've established the following well beyond the preponderance of evidence:
 ✅ Land represents a significant % of all major bank loans  
 ✅ Land represents a significant % of the value of gross personal assets  
 ✅ Land ownership is highly concentrated among the wealthy  
-  
-**Conclusion**  
+
+<span id="conclusion"></span>
+# Conclusion
+
 By George, land is a really big deal.
 
 Land is not some minor concern that only matters in pre-industrial agricultural economies. Everybody needs land, but nobody can make any more of it. You can't work, eat, sleep, or even poop without access to land (try doing any one of those things in a forbidden location and see what happens to you). The housing crisis is driven by inflated land prices, which in turn drives poverty, homelessness, and all other manner of social ills. And when we try to fix those social ills with public spending, land often soaks up and privatizes the value the spending creates. This subsidizes private actors who turn right around and use those gains to jack up everybody's rent, and the vicious cycle continues. And all the while banks continue to pour fuel on the fire.
