@@ -95,7 +95,7 @@ These are the basic methods that we've used to value properties "by hand" over t
 
 But let's dive deeper.
 
-<span id="2-assessing-the-assessment"></span>
+<span id="2-assessing-the-assessments"></span>
 # 2. Assessing the Assessments
 
 Okay, so once you've made all your assessments, how do you ensure they're accurate? You test them.
@@ -470,10 +470,10 @@ I'm sorry you feel that way, but...
 
 by George,
 
-t[he people have spoken](https://twitter.com/larsiusprime/status/1463030608184107009):
+[the people have spoken](https://twitter.com/larsiusprime/status/1463030608184107009):
 
- [![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd56e9475-5ec5-4122-a9c3-38eaa388d7e7_594x504.png) a.image2.image-link.image2-504-594 { display: inline; padding-bottom: 84.84848484848484%; padding-bottom: min(84.84848484848484%, 504px); width: 100%; height: 0; } a.image2.image-link.image2-504-594 img { max-width: 594px; max-height: 504px; }](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd56e9475-5ec5-4122-a9c3-38eaa388d7e7_594x504.png)
-
+ ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd56e9475-5ec5-4122-a9c3-38eaa388d7e7_594x504.png) 
+ 
 ## 6.6. Future Direction
 
 This won't be my last article on Georgism, but I haven't yet decided whether to post them on my own blog, [Fortress Of Doors](https://www.fortressofdoors.com/p/cdb948d9-ddec-494d-a742-8884fc968c48/www.fortressofdoors.com), or some standalone site. Nor have I decided what topic should come next.
