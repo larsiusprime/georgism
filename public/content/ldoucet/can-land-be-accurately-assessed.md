@@ -122,7 +122,7 @@ If land is under-assessed, then we basically have the same problem as the status
 
 Georgists often talk about "100% LVT," but during practical discussions, it seems that their wildest dream is just to get as high as 85%. That would leave a pretty big safety margin for not over-taxing the land, even if you over-assessed it. Here's a graph.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4271230f-2919-4531-8d7f-84c74eda87ac_1200x742.png) 
+ ![](lvt_85_chart.png) 
 
 If you under-assess a property's land by 15%, the assessed value is 85% of the true value. Take 85% of that and now you're collecting 72.25% of land rents. If you over-assess a property's land by 15%, the assessed value is 115% of the true value. If you take 85% of that, you get 97.75%. Collect all that and you're still leaving 2.25% of the land rents on the table, but you're not going over. This is comforting, but frankly, all the evidence I've seen so far suggests that we're chronically and consistently _under_\-assessing the value of land.
 
@@ -137,7 +137,7 @@ Another critique about assessment is that you're going to need an army of proper
 
 Here's a slide from Gwartney's presentation, which is itself taken from an IAAO conference.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9e476075-8e0d-49a7-b431-235e68ff9770_1171x657.png) 
+ ![](agency_staff_sizes.png) 
  
 Gwartney says that when he was the assessment commissioner and chief executive officer in British Columbia, he had a staff of 690, and that this number has not changed significantly since then. British Columbia has a population of about 5 million, so that's 1 assessment officer for every 7,250 British Columbians. For context, the IRS has a staff size of 74,454, or about one IRS agent for every 4,425 Americans. I don't have data on how many property tax assessors the USA has in total, but the above slide suggests British Columbia's figure is on the high end.
 
@@ -185,19 +185,19 @@ For those of you who didn't study math, let me explain regression analysis. This
 
 The simplest example is using linear regression on a scatterplot of observed data points to fit a trend line. This is a common exercise in freshman physics and statistics classes.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fef4c64b9-38bc-43c8-aa83-05eae3576e03_923x600.png) 
+ ![](linear_regression.png) 
  
 You can use more complicated versions of this numerical method to take a big bag of observations (real estate sales) and use "multiple regression" to tease out  dependent variables (land value and improvements value) based on the independent variables (size, location, age, number of bedrooms) of your observations.
 
 In this case the team identified about a hundred different factors that can affect the price of a property:
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd98e114-7eb2-4566-a979-1f2f2dd27c22_701x867.png) 
+ ![](land_value_criteria.png) 
  
 Then you create an entry for each property, fill in the values for each of those characteristics, and run it through the regressor. Take note of how many of these factors start with the words "proximity to." Each of these can be calculated automatically just by knowing where the property is on a map, and each of them is an independent contributor to the value of the property's location.
 
 The next step is to generate individual "index maps" that combine various related features into combined heat maps.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1232522-51e0-4438-998a-b0be4615df6b_534x806.png) 
+ ![](land_value_heatmap.png) 
  
 Then you run everything through and see if it works. You can get the land share of the final value by combining the contributions of all the individual factors that you associate with "land," such as proximity to important things.
 
@@ -205,7 +205,7 @@ In the verification section the authors say:
 
 > As a result of the analysis, since the significance level (0.000) p <.05, corresponding to the F values in the ANOVA test, indicates that the regression analysis is appropriate and the models are significant. The criteria that make up the model account for about 85% of the market value and 15% cannot be explained for reasons such as economic, non-existent data and unearned income.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5836457-7642-4235-9410-00906f043428_662x357.png) 
+ ![](mra_chart.png) 
  
 Unfortunately, they don't say anything about how accurate their model is for assessing land values specifically. Otherwise, this is a pretty good example of using the Multiple Regression method for estimating the individual contributions of various factors to overall property values. Gwartney says Multiple Regression Analysis was a standard method he typically used, of which this specific paper is just one example.
 
@@ -213,7 +213,7 @@ Unfortunately, they don't say anything about how accurate their model is for ass
 
 This will be a method familiar to the programmers in the audience who have any experience with image processing algorithms. Here's an example from this old [Gamasutra article](https://www.gamasutra.com/view/feature/3102/four_tricks_for_fast_blurring_in_.php?print=1):
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff74d378c-39b7-49f9-9655-8cbbf7c89ff5_592x270.png) 
+ ![](kernel_regression.png) 
  
 The basic idea here is to take a matrix of numbers, called a "kernel", and run that over every pixel in a source image. The kernel tells you how strongly to weight all of the source pixel's neighbors to compute a final result for that position. A simple "box blur" is a kernel where every value is 1 (meaning it averages the values of all neighboring pixels within a range). The more subtle gaussian blur illustrated above uses a two-dimensional normal distribution of values so that each pixel is most affected by those nearest to it.
 
@@ -223,7 +223,7 @@ So you basically have a smooth curve that mostly favors close-by points, tapers 
 
 Here's an illustration. The outer box is the entire search distance that the kernel considers, and the circles represent the falloff of the curve itself. The size of the box is called the "bandwidth" and is set by the user. Everything outside of it will have zero influence on the kernel's output at any given location.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F458458cc-614e-4ab3-a57b-3f28b70db6c3_458x317.png) 
+ ![](kernel_map.png) 
  
 This method operates on the same basic logic that I used when I hand-estimated the land value of that San Francisco house in Part I based on the value of the empty lot next door. However, it makes the whole procedure systematic. It can easily and accurately estimate the land value of a property with a big fat building on it simply by smoothly interpolating the known values of the nearby parking lots.
 
@@ -235,7 +235,7 @@ In the end, basic kernel estimation just fills in the land value of unmeasured l
 
 Kolbe, et al. build on the kernel regression method with a technique called Adaptive Weights Smoothing (AWS), which runs in several iterations and adds additional weight to any observed data points that are sufficiently close to the point being estimated. I'm not 100% sure about what all the math means, but it seems like it's basically a "smarter" version of the basic kernel method.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F77ea4f72-0e51-4c63-b14b-15c603ac2500_901x418.png) 
+ ![](nonparametric_kernel.png) 
  
 Left: Nonparametric kernel regression, Right: Adaptive Weights Smoothing. I think the authors goofed and printed the same figure twice with different headings because they're identical if you overlay them in Photoshop.
 
@@ -247,7 +247,7 @@ The model described in Kolbe et al. seems like a flavor of multiple regression a
 
 But we've got "semi" parametric here. What does that mean? Well, if you already know how certain relationships between the data work a priori, it's better to enforce those relationships yourself rather than leave it to the computer. Here, we enforce the assumption that if two properties are right next to each other, then the value due to location is going to be essentially identical. This algorithm starts by ordering things geographically and then working out the differences in observed price by regressing on the difference between remaining property characteristics. In this method, the power of "location, location, location" is not something we're leaving to the regressor to discover by itself.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fed78916c-12c5-42ca-b581-7b59aa25bbd5_757x718.png) 
+ ![](semiparametric_kernel.png) 
  
 Results of the Semiparametric regression method, we can see some significant differences from the simple kernel-based model.
 
@@ -255,15 +255,15 @@ As you can see above, this gives you more detailed and likely more accurate resu
 
 Okay great, but how accurate are the above three methods? Their main point of comparison is this thing called the "Bodenrichtwerte," or BRW. I think that means "ground-level-values" in English, and it's an expert-assessed map of land values for Berlin done the traditional way.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8fe15dbb-181f-46ae-bdde-840bdd6a2064_752x735.png) 
+ ![](brw.png) 
  
 The nonparametric kernel regression method has a correlation of 0.704 with the traditional method and has the added disadvantage that it's not able to produce estimates for the city center, only the outlying areas. Furthermore, the BRW map does show sharp discontinuities, which is another knock against the kernel method, at least for the city center.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F958762f1-a425-4017-86cf-058cb3eb4d59_713x389.png) 
+ ![](brw_map.png) 
  
 What about the iterative method? Kolbe et al. find that "the agreement between \[Adaptive Weights Smoothing\] land value estimates and, both, land prices and BRW land values is fairly good for all values of λ."
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff37696ef-7a6a-48ae-8169-734b875b0b57_800x319.png) 
+ ![](kernel_vs_brw.png) 
  
 Doing some quick checks, their values seem to be within about 85% of the BRW values. A different Kolbe et al. paper called _[Identifying Berlin's land value map using adaptive weights smoothing](https://link.springer.com/article/10.1007/s00180-015-0559-9)_ goes into more detail and claims to give "similar" values to that of the BRW.
 
@@ -281,7 +281,7 @@ Whereas the previous models are very "hands-off" and let the computer work out t
 
 Here, look at this big complicated flowchart.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0489e086-69ae-4840-b658-59fee6b3af44_2000x1672.png) 
+ ![](ilvm_1.png) 
  
 The "Analytic Hierarchy Process" in the box on the left is a particular kind of method for getting experts to set weights. The authors give this reason for using it:
 
@@ -289,29 +289,29 @@ The "Analytic Hierarchy Process" in the box on the left is a particular kind of 
 
 After identifying a list of "factors" that can affect land value, they group them into taxonomical buckets:
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5d39769d-46e2-4891-92aa-cb3766068204_2000x978.png) 
+ ![](ilvm_2.png) 
  
 Note that certain factors like "Coastline" appear in multiple buckets; this captures the various influences a characteristic can have. For instance, land on the coast tends to be more economically valuable because of tourism, shipping, fishing, etc., so that goes under "economic." But land that's next to the coast is also more likely to flood, so it also goes under "environmental." And then there are various land use restrictions that apply specifically to coastal areas, so it goes under "legal" as well. In this way, a single factor like "the property is on the coastline" can have both positive and negative effects on land value (e.g., it's more economically valuable but it also might flood, and there are certain things you aren't allowed to do there).
 
 The next step is to set down some rules for how sensitive each factor is to location and distance.  
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5d1a519c-93d7-4bed-9577-7478fb239bca_1968x3548.png) 
+ ![](ilvm_3.png) 
  
 So here we can see that the economic benefit of being on the coast is most strongly felt if you're within half a kilometer of the ocean, but the environmental effect (e.g., risk of flooding) is most strongly felt when you're within 0.03 kilometers. And so on and so forth. Your experts help you work out all these rules. Note that for a few of these factors (such as land use and slope), you use metrics other than distance (e.g. land use classification and grade).
 
 Then you take all that stuff and assign everything a value between 0 and 5.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff59cb148-e0da-456b-b205-973e04239be7_587x647.png) 
+ ![](ilvm_4.png) 
  
 Your team of experts then uses this table to come up with a set of weights for everything.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fee7b484b-3be8-4363-bcb8-1cb4fb4a7c01_661x655.png) 
+ ![](ilvm_5.png) 
  
 What essentially comes out of this is a big linear equation with a bunch of coefficients for every one of your factors, which is then broadly fit to the observed market prices. When you're done, you can take any property on your list, multiply each of its characteristics by its respective weight, run that through your equation, and calculate the predicted price of the land.
 
 So how accurate is it? The authors compare it to standard Multiple Regression Analysis and claim it fares better.
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a84b431-1250-427e-a67a-b3e2b8a3c0dd_896x623.png) 
+ ![](ilvm_6.png) 
  
 The Root Mean Square Error is quite a bit less than MRA.  In addition, I _think_ it's also saying that the MRA algorithm decided that only four of the factors were significant and basically ignored all the rest. By contrast, iLVM was able to maintain contributions from all the factors, because it doesn't leave that decision to the computer. I'm not 100% sure; it's not clear from the paper.
 
@@ -319,7 +319,7 @@ The authors claim that about 67% of the variability is explained by their model,
 
 One thing that's kind of fun about this model is that you can make neat graphs like this that show the individual contribution of each factor:
 
- ![](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb71526d0-736c-45d7-ad14-36e5670f78ab_1153x881.png) 
+ ![](ilvm_7.png) 
  
 The main downside to this model is that it relies on a whole lot of subjective expert opinion and can be questioned on that basis. That said, it can be cheaply deployed in a transparent and consistent way across a large area. You can see why that's attractive for a developing nation with weak institutions and poor market transaction records; the argument is that this is a significant improvement over the former status quo.
 
