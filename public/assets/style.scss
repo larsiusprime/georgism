@@ -107,17 +107,6 @@ ol {
 
 blockquote {
 	font-style:italic;
-	::before { 
-		content: "“";
-		font-size: 20px;
-		font-weight: bold;
-	}
-	::after {
-		content: "”";
-		font-size: 20px;
-		font-weight: bold;
-	}
-
 }
 
 p img {
