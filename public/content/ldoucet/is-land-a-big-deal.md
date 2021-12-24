@@ -1,18 +1,18 @@
 # Is Land a Really Big Deal?
 
-by [Lars A. Doucet](lars_a_doucet), 2021
+by [Lars A. Doucet](lars-a-doucet), 2021
 
-[Part 0 - Book Review: Progress & Poverty](progress_and_poverty_review)  
+[Part 0 - Book Review: Progress & Poverty](progress-and-poverty-review)  
 **Part I  - Is Land Really a Big Deal? 👈** (You are here)  
-[Part II - Can Land Value Tax be Passed on to Tenants?](can_lvt_be_passed_on_to_tenants)  
-[Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings?](can_land_be_accurately_assessed)  
+[Part II - Can Land Value Tax be Passed on to Tenants?](can-lvt-be-passed-on-to-tenants)  
+[Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings?](can-land-be-accurately-assessed)  
 
 _Extremely special thanks to Count Bla and Alexandra Elbakyan_
 
 * * *
 
 <span id="introduction"></span>
-I originally reviewed Henry George's [Progress & Poverty](progress_and_poverty_review) for [Astral Codex Ten](https://www.astralcodexten.com)'s book review contest. Henry George is the founder of an economic philosophy known as [Georgism](https://en.wikipedia.org/wiki/Georgism) which is principally concerned with the deprivations caused by unchecked rentiers. George is famous for promoting two specific policies, the Land Value Tax (LVT) and the Citizen's Dividend (what we would now call a Universal Basic Income).
+I originally reviewed Henry George's [Progress & Poverty](progress-and-poverty-review) for [Astral Codex Ten](https://www.astralcodexten.com)'s book review contest. Henry George is the founder of an economic philosophy known as [Georgism](https://en.wikipedia.org/wiki/Georgism) which is principally concerned with the deprivations caused by unchecked rentiers. George is famous for promoting two specific policies, the Land Value Tax (LVT) and the Citizen's Dividend (what we would now call a Universal Basic Income).
 
 I was shocked and humbled when Astral Codex Ten's readership [selected me as the winner](https://astralcodexten.substack.com/p/book-review-contest-winners). Even more shocking was how many people from around the world wrote to me about their interest in the article. Family, friends, and acquaintances for sure, but also a lot of total strangers–including business owners, activists, podcasters, online game designers, investors, even government officials from around the world. Scott's blog has _way_ more reach than I realized.
 
@@ -625,4 +625,4 @@ Land is not some minor concern that only matters in pre-industrial agricultural 
 
 By George, Land Value Tax would solve this.
 
-Next: [Part II - Can Land Value Tax be Passed on to Tenants?](can_lvt_be_passed_on_to_tenants)  
+Next: [Part II - Can Land Value Tax be Passed on to Tenants?](can-lvt-be-passed-on-to-tenants)  

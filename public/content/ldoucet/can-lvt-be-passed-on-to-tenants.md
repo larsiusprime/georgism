@@ -1,11 +1,11 @@
 # Can Land Value Tax Be Passed On To Tenants?
 
-by [Lars A. Doucet](lars_a_doucet), 2021
+by [Lars A. Doucet](lars-a-doucet), 2021
 
-[Part 0 - Book Review: Progress & Poverty](progress_and_poverty_review)  
-[Part I  - Is Land Really a Big Deal?](is_land_a_big_deal)  
+[Part 0 - Book Review: Progress & Poverty](progress-and-poverty-review)  
+[Part I  - Is Land Really a Big Deal?](is-land-a-big-deal)  
 **Part II - Can Land Value Tax be passed on to Tenants? 👈** (You are here)  
-[Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings?](can_land_be_accurately_assessed)  
+[Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings?](can-land-be-accurately-assessed)  
 
 ----
 
@@ -244,4 +244,4 @@ Ideally, the next step after shifting taxes from buildings to land is to abolish
 
 This leads directly to our next question, and the last and greatest objection to Georgism: can we actually perform accurate assessments that meaningfully and cleanly separate land value from improvements, such as buildings?
 
-Next: [Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings?](can_land_be_accurately_assessed)  
+Next: [Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings?](can-land-be-accurately-assessed)  
