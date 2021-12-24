@@ -71,6 +71,10 @@ header {
     color: $textColor;
   }
   
+  a:hover, a:active {
+	text-decoration: none;
+  }
+  
   hr {
 	position:relative;
   }
