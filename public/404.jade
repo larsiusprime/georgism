@@ -1,2 +1,9 @@
-h1 404 Not Found
-p The document you requested could not be found.
+doctype
+html
+  head!= partial("partials/_head", { title: "404 Not Found", description: "", img: "", alt: "" })
+  body
+    != partial("partials/_header")
+    main
+      h1 404 Not Found
+      p The document you requested could not be found.
+    != partial("partials/_footer")

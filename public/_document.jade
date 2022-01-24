@@ -1,0 +1,11 @@
+// This is the standard layout included by all other .jade files
+doctype
+html
+  head
+    != partial("partials/_head", { title: title, description: description, img: img, alt: alt })
+  body
+    != partial("partials/_header")
+    main
+      != partial(body)
+    != partial("partials/_footer")
+    script(src="/assets/editButton.js")
