@@ -250,7 +250,7 @@ Unfortunately, this method isn't going to work to model urban land values becaus
 
 Or are there?
 
- ![](usa_land_value_5.png) 
+ ![](albouy_appendix.png) 
  
 This startling figure is from the "[online appendix](https://mitp.silverchair-cdn.com/mitp/content_public/journal/rest/100/3/10.1162_rest_a_00710/2/rest_a_00710-esupp.pdf?Expires=1640585859&Signature=gnRHP4gjxtsswGVrzQOb98gdycV2TnrrU0Yn5u4C2v7anb7GB-QGQLL7ULbfdAqPDBawButRVxu4PeN35kWbJz5He1I66v02mATLL-MZ6YpoyVWizynxpUq4~I8wfF~yCEaIK5fsVgTOg45xemzQLXWpI311M2I5NBCyz~A2mWV0s8hI71wURagJ-aksPe0F-Wv~xbTZaN2yAAPNbsJxQ4sf8nZl2~1tjLN~h9keA6MU4d70v~gk~7GL9B3dnnfBpLggb1oU3JLZMd5IT1zzG56gVrV-tbZRiXqh05mI8GbixZOYyGVVLXWTP-zVhlEjyPZj9ziDBaN7AYsxEE4GKA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)" to Albouy's paper, briefly referenced in a footnote in the main paper. Apparently, there are _more_ pure land sales in urban areas than there are in outlying areas. As far as I can tell, Albouy builds his statistical model using _nothing_ but pure land sales, excluding anything that has a structure on it. And yet his data points are most densely clustered around major city centers, when I had expected this approach would yield the exact opposite.
 
