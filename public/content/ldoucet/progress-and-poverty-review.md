@@ -570,7 +570,7 @@ Notice that I as the landlord am not really doing anything here other than ownin
 
 In the popular imagination we pit "capitalists" against "laborers" but a lot of those "capitalists" are landowners in disguise, because in non-Georgist frameworks land is typically considered a kind of capital. George says landowners oppress both labor _and_ capital, cheating both hard work and investment out of their fair share.
 
-![](landlords_fight.png)
+![](landlord_fight.jpg)
 
 Source: can't find the author of this image, closest I can get to its origin is [this blog](https://henrygeorgedevon.wordpress.com/2014/02/02/the-left-and-an-anti-rentier-agenda/)
 
@@ -964,7 +964,7 @@ As BlueRepublik observes in _[No, Georgism is Still Sane](https://bluerepublik.w
 
 In a fit of performance art, a Georgist by the name of Fay Lewis once famously bought an empty lot and stuck a big sign on it to demonstrate the principle in action:
 
-![](fay_lewis.png)
+![](fay_lewis.jpg)
 
 Okay, but isn't building too much stuff bad for the environment? Won't this encourage over-development?
 
