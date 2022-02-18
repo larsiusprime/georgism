@@ -12,7 +12,10 @@
     buttonEl.setAttribute('target', '_blank');
     mainEl.prepend(buttonEl);
 
-    const href = (location.pathname === '/') ? '/index.md' : location.pathname + '.md';
+    const pathname = location.pathname;
+    const href = (location.pathname === '/')
+        ? '/_index.md'
+        : location.pathname.split('/').map((p, n) => n === pathname.replace(/[^\/]/g, '').length ? '_' + p : p).join('/') + '.md';
     buttonEl.setAttribute('href', baseUrl + href);
   }
 })();
