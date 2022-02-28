@@ -8,7 +8,7 @@ Some resources on Georgism that I recommend
     
 *   [/r/georgism subreddit](https://reddit.com/r/georgism)
 
-{Georgism discord) (https://discord.gg/6ZAkeMJUc3) -general Georgism discussion
+*   [Georgism discord](https://discord.gg/6ZAkeMJUc3) -general Georgism discussion
     
 
 ## Organizations:
@@ -30,7 +30,7 @@ Some resources on Georgism that I recommend
     
 *   [Wealth and Want](http://www.wealthandwant.com) -excellent site with tags for all kinds of topics related to Georgism
 
-Saving Communities (http://savingcommunities.org/) -site created by old-school Georgist Dan Sullivan with articles on Georgist themes
+*   [Saving Communities](http://savingcommunities.org/) -site created by old-school Georgist Dan Sullivan with articles on Georgist themes
     
 *   [Mason Gaffney's site](https://www.masongaffney.org) -Prominent Georgist economist endorsed by Joseph Stiglitz with a trove of articles and papers
     
@@ -45,8 +45,6 @@ Saving Communities (http://savingcommunities.org/) -site created by old-school G
     
 *   [The Hidden Taxable Capacity of Land: Enough and to Spare](https://economics.ucr.edu/papers/papers08/08-12old.pdf) by Mason Gaffney -essential paper
 
-Land as a Distinctive Factor of Production (http://www.wealthandwant.com/docs/Gaffney_LaaDFoP.html) -essential paper
+*   [Land as a Distinctive Factor of Production](http://www.wealthandwant.com/docs/Gaffney_LaaDFoP.html) -essential paper
     
-    
-    
-*   [The Unknown Revenue Potential of Land: Fifteen Hidden Elements](https://www.masongaffney.org/workpapers/WP097%202004%20Unknown%20revenue%20potential%20of%20land%2015%20hidden%20elements.pdf) by Mason Gaffney
+*   [The Unknown Revenue Potential of Land: Fifteen Hidden Elements](ttps://www.masongaffney.org/workpapers/WP097%202004%20Unknown%20revenue%20potential%20of%20land%2015%20hidden%20elements.pdf) by Mason Gaffney
