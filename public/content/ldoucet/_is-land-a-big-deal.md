@@ -54,21 +54,25 @@ If you haven't read [the Book Review](https://astralcodexten.substack.com/p/your
 
 Georgism is a school of [political economy](https://en.wikipedia.org/wiki/Political_economy) that is really upset about, among other things, the Rent Being Too Damn High. It seeks to liberate labor and capital alike from those who gatekeep access to scarce "non-produced assets," such as land and natural resources, while still affirming the virtues of hard work and free enterprise. George uses the term "Land" to mean not just regular land, but everything that is external to human beings and the things they produce–nature itself, really.
 
-Georgism's chief insight is to move economic thinking from a two-factor model (Labor and Capital) to a three-factor model (Land, Labor, and Capital). It's chief (but not only) policy prescription is the **Land Value Tax** (LVT), which taxes real estate at as close to 100% of its "land rent" as possible (the amount of rent due to the land alone apart from "improvements" such as buildings). In actual practice, most Georgists seem to think 85% is a reasonable figure to target.
+Georgism's chief insight is to move economic thinking from a two-factor model (Labor and Capital) to a three-factor model (Land, Labor, and Capital). Its chief (but not only) policy prescription is the **Land Value Tax** (LVT), which taxes real estate at as close to 100% of its "land rent" as possible (the amount of rent due to the land alone apart from "improvements" such as buildings). In actual practice, most Georgists seem to think 85% is a reasonable figure to target.
 
-Let's carefully unpack what those terms means. "**Land value**" refers to the full market value of a property, _excluding_ all of its improvements, such as buildings. This is the portion of a property's value arising solely from its location and natural attributes (agricultural fertility, endowment of stuff like water, minerals, etc.). "**Land rent**" (AKA "ground rent") refers to the _recurring rental income_ a property is capable of generating from the market because of its land value.
+There’s often a lot of confusion around these terms so let's carefully unpack what they mean. 
 
-It is Land Rent which Land Value Tax is intended to capture.  You can think of it as a _Location_ or _Site_ Value Tax if that's more helpful. It's not a tax on the full market purchase price of a property, nor is it a fixed amount of tax per acre of land, but rather a tax proportional to the market value of the land alone (or better yet, the land rent). When assessed correctly, as LVT approaches 100% the market _selling price_ of the land itself will approach zero.
+"**Land value**" is a term used in multiple conflicting ways in different contexts. When we use the term "land value tax", the "land value" part refers to the *rental value* of the land. This is the _recurring income_ land is capable of generating from the market. This income (land rent or "geo-rent") is what people are willing to pay for the exclusive use of land alone apart from improvements like buildings. This also includes “imputed” rents (the rent an owner-occupier effectively pays to themselves as a simultaneous landlord and tenant). People are willing to pay to use land because of its location and natural attributes (agricultural fertility, endowment of stuff like water, minerals, etc.). 
 
-Don't let the "100%" confuse you, either. If a piece of land costs $10,000 to buy, and is leased for $500/year, then an LVT that captures 100% of the land rent is $500/year, which works out to a 5% annual tax of the land value.
+Rental value is related to but distinct from *selling value*. Selling value is often what people mean when they use the term "land value" colloquially. The selling value of the land is the land price. Full selling value however, is equivalent to the use of "full market value" as a term of art in modern assessing, referring to the price a property would fetch in an open market at an arms-length sale, between well informed uncoerced parties. The fair selling-value of the land is thus the purchase-price of land under "fair" and open market conditions.
 
-LVT should not be confused with a _property tax._ Property taxes consider land plus improvements (typically buildings).  An LVT considers land value alone.
+It is the rental value which Land Value Tax is intended to capture. It's not a tax on the market purchase price of a property, nor is it a fixed amount of tax per acre of land, but rather a tax which redirects the flow of land rents. When assessed correctly, as LVT approaches 100% the market selling value of the land will approach zero but the rental value will remain the same (more detail on the relationship between land price and land rents in the next article). 
+
+Don't let the "100%" confuse you, either. If a piece of land costs $10,000 to buy, and is leased for $500/year, then an LVT that captures 100% of the land rent is $500/year, which works out to a 5% annual tax of the selling value.
+
+LVT should not be confused with a _property tax._ Property taxes consider land plus improvements (typically buildings).  An LVT considers land alone.
 
 Georgists assert that if we sufficiently tax land in this manner, we'll not only end the housing crisis but also fix a bunch of misaligned incentives that cause poverty to persist alongside economic progress, _while_ raising a bunch of revenue that can lower or even eliminate other less efficient taxes, such as sales and income taxes.
 
 This is because virtually all economists agree that LVT has zero "deadweight loss"–a fancy word for a drag on the economy that makes certain activities no longer profitable. Other taxes with no deadweight loss include [Pigouvian](https://www.investopedia.com/terms/p/pigoviantax.asp) taxes on bad things, like congestion and pollution.
 
-But won't landlords just raise the rent to make up for the LVT, passing the burden of the tax on to the tenants? Georgists say no, because land is special in that it is scarce and nobody can make any more of it. Indeed, LVT is a rare form of taxation that actually _boosts_ the economy, because it discourages rent-seeking and speculation. Some Georgists even go so far as to say that LVT can raise enough revenue to replace all other less efficient taxes, becoming the so-called "Single Tax," but this is not a universally held position among modern Georgists. To be clear, proponents of the "Single Tax" believe that LVT is _sufficient_ for all public purposes and that no other taxes (such as income tax, capital taxes, and tariffs) are _necessary_ for revenue generation, although they still might support carbon taxes or "sin taxes" on things they want to discourage.
+But won't landlords just raise the rent to make up for the LVT, passing the burden of the tax on to the tenants? Georgists say no, because land is special in that it is scarce and nobody can make any more of it. Indeed, LVT is a rare form of taxation that actually _boosts_ the economy, because it discourages rent-seeking and speculation. Some Georgists even go so far as to say that LVT can raise enough revenue to replace all other less efficient taxes, becoming the so-called "Single Tax," but this is not a universally held position among modern Georgists. To be clear, modern proponents of the "Single Tax" believe that LVT is _sufficient_ for all public purposes and that no other taxes (such as income tax, capital taxes, and tariffs) are _necessary_ for revenue generation, although they still might support other taxes for various reasons-for example, carbon taxes or "sin taxes" on things they want to discourage.
 
 Georgism doesn't begin and end with the LVT, however, and the movement isn't solely concerned with real estate and tax revenue. Henry George was an early proponent of what we now call "Universal Basic Income," or as he called it, the "Citizen's Dividend" (funded by LVT, naturally). But even if you threw every penny of LVT revenue into the sea, the anti-sprawl effects of the policy are appealing enough by themselves to earn the endorsement of [YIMBY's](https://en.wikipedia.org/wiki/YIMBY) and urbanists like [Strong Towns](https://www.strongtowns.org/landvaluetax).
 
@@ -133,7 +137,7 @@ Even so, maybe you don't trust the American Enterprise Institute's figures and w
 
 In 2014, the "developable land" on Manhattan island alone was estimated to be worth about $1.74 trillion, according to [Barr, Smith, and Kulkarni](https://www.sciencedirect.com/science/article/abs/pii/S0166046217300820) (just the land).
 
-Between 2005-2010, the urban land value for _all_ of New York City was worth about $2.5 trillion, according to [Albouy, Ehrlich, and Shin](https://web.archive.org/web/20180517024758/http://davidalbouy.net/landvalue_index.pdf) (just the land).
+Between 2005-2010, the urban land (selling) value for _all_ of New York City was worth about $2.5 trillion, according to [Albouy, Ehrlich, and Shin](https://web.archive.org/web/20180517024758/http://davidalbouy.net/landvalue_index.pdf) (just the land).
 
 In 2020, all real estate in NYC was worth about $2.7 trillion, according to [LendingTree](https://web.archive.org/web/20200716152956/https://www.lendingtree.com/home/mortgage/lendingtree-reveals-the-most-valuable-cities-in-america/) (the land + the buildings).  
   
@@ -153,7 +157,7 @@ Our spot check confirms the findings from the studies and AEI's dataset. Real es
 
 And if you don't believe me, I have an empty lot in [Gerlach, Nevada](https://web.archive.org/web/20210809032137/https://landequities.com/nevada/061-020-55) to sell you. But don't worry–it's only $0.0054/sqft. Meanwhile, our empty lot in San Francisco is going for $865.21/sqft, which is over 159,000 times as expensive.
 
-Given the evidence from the various land value estimation studies and databases like AEI's, as well as how easy it is to run spot checks, I'm convinced.
+Given the evidence from the various land (selling) value estimation studies and databases like AEI's, as well as how easy it is to run spot checks, I'm convinced.
 
 **Conclusion:** Most of the value of urban real estate is, in fact, land.
 
@@ -170,23 +174,23 @@ We're about to dive into all the research papers and calculations that back up t
 
 * * *
 
-Let's start by defining some terms very precisely:
+Let's start by defining certain terms very precisely again:
 
-**Land Income** or **Land Rent** is the recurring amount of revenue that the land itself is capable of generating. It's the market value that derives from the benefits the land itself provides (crops it can grow, proximity to a desirable job, etc) and the most anybody is willing to pay to access that land for a while (conventional "rent"). It is ultimately land income that drives land value, not the other way around.
+To recap, **Land Income** or **Land Rent** is the recurring amount of revenue that the land itself is capable of generating. It's the rental value that derives from the benefits the land itself provides (crops it can grow, proximity to a desirable job, etc) and the most anybody is willing to pay to access that land for a while (conventional "rent"). It is ultimately land income that drives selling-value, not the other way around.
 
-**Land Price** or **Land Value** is how much it costs to buy a piece of land. **Full Market Value,** however, is specifically the land price under "fair" and open market conditions. What are "unfair" conditions? I mean, your dad could sell you a valuable property for $1 as an obvious gift, but if he put it on the open market, it would go for much more than that. Likewise, it's not uncommon for a property that's been foreclosed on and hastily auctioned off to be re-listed publicly by the auction winner for a higher price.
+**Land Price** or **Selling Value** is how much it costs to buy a piece of land. **Full Selling Value,** however, is specifically the land price under "fair" and open market conditions. What are "unfair" conditions? I mean, your dad could sell you a valuable property for $1 as an obvious gift, but if he put it on the open market, it would go for much more than that. Likewise, it's not uncommon for a property that's been foreclosed on and hastily auctioned off to be re-listed publicly by the auction winner for a higher price.
 
-Cool, so how much is all the land in America worth? Or more precisely, what is the **full market value** of all of America's land?
+Cool, so how much is all the land in America worth? Or more precisely, what is the **full selling value** of all of America's land?
 
-Here's a graph of America's total aggregate land value over time, according to twelve different estimation methods. My sources are The [Lincoln Institute](https://web.archive.org/web/20171121002821/http://datatoolkits.lincolninst.edu/subcenters/land-values), [Larson (2015)](https://www.bea.gov/system/files/papers/WP2015-3.pdf), [Albouy, Ehrlich, and Shin (2018)](https://web.archive.org/web/20191217113256/http://davidalbouy.net/landvalue_index.pdf), [The American Enterprise Institute](https://www.aei.org/housing/land-price-indicators//), [PLACES Lab](https://placeslab.org/fmv_usa/), the [Federal Reserve](https://web.archive.org/web/20131211071139/http://www.federalreserve.gov/releases/z1/Current/z1.pdf) via a method worked out by [Matt Yglesias](https://slate.com/business/2013/12/value-of-all-land-in-the-united-states.html), [Larson (2019/2020)](https://www.fhfa.gov/PolicyProgramsResearch/Research/PaperDocuments/wp1901-1028.pdf), and Jeffrey Johnson Smith's 2020 book _[Counting Bounty: The Quest to Know the Worth of the Earth](https://bookshop.org/books/counting-bounty-the-quest-to-know-the-worth-of-earth/9781634242981)._
+Here's a graph of America's total aggregate selling value over time, according to twelve different estimation methods. My sources are The [Lincoln Institute](https://web.archive.org/web/20171121002821/http://datatoolkits.lincolninst.edu/subcenters/land-values), [Larson (2015)](https://www.bea.gov/system/files/papers/WP2015-3.pdf), [Albouy, Ehrlich, and Shin (2018)](https://web.archive.org/web/20191217113256/http://davidalbouy.net/landvalue_index.pdf), [The American Enterprise Institute](https://www.aei.org/housing/land-price-indicators//), [PLACES Lab](https://placeslab.org/fmv_usa/), the [Federal Reserve](https://web.archive.org/web/20131211071139/http://www.federalreserve.gov/releases/z1/Current/z1.pdf) via a method worked out by [Matt Yglesias](https://slate.com/business/2013/12/value-of-all-land-in-the-united-states.html), [Larson (2019/2020)](https://www.fhfa.gov/PolicyProgramsResearch/Research/PaperDocuments/wp1901-1028.pdf), and Jeffrey Johnson Smith's 2020 book _[Counting Bounty: The Quest to Know the Worth of the Earth](https://bookshop.org/books/counting-bounty-the-quest-to-know-the-worth-of-earth/9781634242981)._
 
  ![](usa_land_value_1.png) 
  
 The data points for Foldvary, Smith, Tideman, Gaffney and Cord all come from _Counting Bounty._ Smith gives his own estimate of $44 trillion and notes an estimate of $31 trillion that Nicolaus Tideman sent him via private correspondence.
 
-Smith further mentions that Fred Foldvary was constantly saying that land rents equal about 1/3 of national income, and a cursory googling of Foldvary's writings confirms this. The "Foldvary" line here is my own construction that takes a third of [GNI](https://fred.stlouisfed.org/series/A023RX1Q020SBEA) for each year and then multiplies it by 10 (Smith's method for converting land rents to land value). Smith also cites a land rent estimate by Mason Gaffney at $5.3 trillion, or $53T in total value, though I've not been able to track down the primary source for that. Finally, I've extrapolated Smith's estimate five years back from his single 2020 data point according to the observed growth line from the other data sets.
+Smith further mentions that Fred Foldvary was constantly saying that land rents equal about 1/3 of national income, and a cursory googling of Foldvary's writings confirms this. The "Foldvary" line here is my own construction that takes a third of [GNI](https://fred.stlouisfed.org/series/A023RX1Q020SBEA) for each year and then multiplies it by 10 (Smith's method for converting land rents to land (selling) value). Smith also cites a land rent estimate by Mason Gaffney at $5.3 trillion, or $53T in total value, though I've not been able to track down the primary source for that. Finally, I've extrapolated Smith's estimate five years back from his single 2020 data point according to the observed growth line from the other data sets.
 
-That gives us a massive spread of anywhere between $19 trillion to $65 trillion in 2020 for all of America's land values.
+That gives us a massive spread of anywhere between $19 trillion to $65 trillion in 2020 for all of America's land (selling) value.
 
 So...whom do we trust here?
 
@@ -220,7 +224,7 @@ Indeed.
  
 In part III, we'll dig into how to accurately assess land values in detail, but for now, let's look at the broad strokes differences between the estimation methods used here.
 
-The bearish values in purple all rely on a method called the "cost approach," or "land residual" method. This is where you take the estimated cost it would take to replace a building, multiply that against depreciation based on the building's age, and then subtract that from the total market value of the property to get the land value.
+The bearish values in purple all rely on a method called the "cost approach," or "land residual" method. This is where you take the estimated cost it would take to replace a building, multiply that against depreciation based on the building's age, and then subtract that from the total market value of the property to get the land (selling) value.
 
 Larson (2019) uses this method, and AEI's figures are based directly on those results with a slight upward correction. The Lincoln Institute and the Federal Reserve's figures use the same basic approach, relying on official estimates of construction costs and housing prices. The one outlier is the PLACES lab estimate, which uses a machine learning model but gives a single-year result that tracks with the four cost approach lines.
 
@@ -244,9 +248,9 @@ Larson (2019), on the other hand, was co-written with Davis, Oliner, and Shui an
 <span id="albouys-astounding-appendix"></span>
 ### Albouy's Astounding Appendix
 
-I think we can all agree that the purest way to measure the value of land is to find a piece of land with nothing on it and observe the price it sells for on the market. With enough of these data points, you could interpolate between them to create a smooth gradient map of land values, which could be good enough for estimating the aggregate value of large areas.
+I think we can all agree that the purest way to measure the selling value of land is to find a piece of land with nothing on it and observe the price it sells for on the market. With enough of these data points, you could interpolate between them to create a smooth gradient map of land (selling) values, which could be good enough for estimating the aggregate selling value of large areas.
 
-Unfortunately, this method isn't going to work to model urban land values because there just aren't enough pure-land sales in the city center.
+Unfortunately, this method isn't going to work to model urban land (selling) values because there just aren't enough pure-land sales in the city center.
 
 Or are there?
 
@@ -265,11 +269,11 @@ Smith spends a lot of time attacking the Federal Reserve's figures, with argumen
 
 > When the Fed’s methodology was examined on a sector by sector basis, serious problems were found in the breakdown between land and structures. For instance, by 1993 the FRB estimated that the land held by all nonfinancial corporations had a negative value of $4 billion.
 
-This does, in fact, check out. The Fed was apparently so embarrassed by this that they stopped reporting land value estimates in subsequent reports, which is why you now have to derive them yourself.
+This does, in fact, check out. The Fed was apparently so embarrassed by this that they stopped reporting land (selling) value estimates in subsequent reports, which is why you now have to derive them yourself.
 
-This raises two questions: 1) are these problems still in effect today, and 2) if the Fed was so incompetent in the past, how can we trust that later estimates are not just as wrong, but in the other direction, i.e. wildly _over_\-stated land values?
+This raises two questions: 1) are these problems still in effect today, and 2) if the Fed was so incompetent in the past, how can we trust that later estimates are not just as wrong, but in the other direction, i.e. wildly _over_\-stated land (selling) values?
 
-Based on Smith and Hudson's critiques, as well as my own analysis of the data, the answers seem to be that: 1) the problems seem less worse today (no more negative land values!) but are probably still present to some degree, and 2) any bias is most likely in the downward direction.
+Based on Smith and Hudson's critiques, as well as my own analysis of the data, the answers seem to be that: 1) the problems seem less worse today (no more negative land [selling] values!) but are probably still present to some degree, and 2) any bias is most likely in the downward direction.
 
 It all has to do with the limitations of the cost approach, a problem many of these papers raise explicitly–including Larson (2019). Buildings naturally depreciate over time, while land tends to appreciate. The cost to _replace_ your building with a new one of identical design is on average going to be a lot more than what your old building is actually worth, even after factoring in depreciation. That's because the market doesn't care what you spent to build it, it only cares how much value it provides under current conditions.
 
@@ -290,20 +294,20 @@ And for two, property tax assessments have all kinds of exemptions and carve-out
 Assessed values less than 10% of the extremely obvious full market value
 
 It sold for 5.8 million 10 years ago, and now it's listed for 9 million. And yet the  
-"assessed value" is a mere $600K. What's going on? The assessor is probably _not_ saying that the full market value of this obviously multi-million dollar property is $600K. Most likely the assessor gave their best guess of "full market value," and then state statutes forced the assessor to also write down a separate "assessed value" that applies some markdown percentage. But the really damning part of these tax assessment records is that the land value assessment hasn't budged. The price has gone up over 3 million dollars in ten years, and you're telling me the land value hasn't changed at _all_? Fuhgeddaboudit.
+"assessed value" is a mere $600K. What's going on? The assessor is probably _not_ saying that the full market value of this obviously multi-million dollar property is $600K. Most likely the assessor gave their best guess of "full market value," and then state statutes forced the assessor to also write down a separate "assessed value" that applies some markdown percentage. But the really damning part of these tax assessment records is that the land value assessment hasn't budged. The price has gone up over 3 million dollars in ten years, and you're telling me the land (selling) value hasn't changed at _all_? Fuhgeddaboudit.
 
 Agencies that don't collect much property tax don't have strong incentives to strive for accurate assessments. This creates a vicious cycle where official statistics are severely depressed, and those same statistics are then used as proof that land just isn't a big deal.
 
 If the Federal Reserve's data for total real estate values is at all based on property values from official sources, we would expect them to be 1) out of date and 2) discounting the property's total market value because of exemptions, caps, and other issues (Smith makes this same critique of both the Fed and Larson's data as well).
 
-Taken together with the fact that improvements are likely being over-valued based on naïve replacement costs + depreciation formulas instead of the actual present market value, this would imply that the Federal Reserve method for estimating all of America's land values at $24 Trillion is a **conservative lower bound,** and the same goes for all the other methods using the cost approach.
+Taken together with the fact that improvements are likely being over-valued based on naïve replacement costs + depreciation formulas instead of the actual present market value, this would imply that the Federal Reserve method for estimating all of America's land (selling) values at $24 Trillion is a **conservative lower bound,** and the same goes for all the other methods using the cost approach.
 
 <span id="from-albouy-to-smith"></span>
 ### From Albouy to Smith
 
-Okay, so let's look at Smith's method. Instead of doing a whole new study, he singles out Albouy as having the best methodology and makes some adjustments. You see, Albouy estimated the value of urban land _alone,_ leaving out federal lands, agricultural lands, and things like water rights and natural resources, which accrue rental income and are considered "Economic Land" by Georgists.
+Okay, so let's look at Smith's method. Instead of doing a whole new study, he singles out Albouy as having the best methodology and makes some adjustments. You see, Albouy estimated the selling value of urban land _alone,_ leaving out federal lands, agricultural lands, and things like water rights and natural resources, which accrue rental income and are considered "Economic Land" by Georgists.
 
-Smith starts by extrapolating Albouy's last given figure to the present day by applying the observed growth in the housing market (presumably due to appreciation of land values). He then adds on values for the missing types of land by using other existing estimates. It all comes to $44 trillion.
+Smith starts by extrapolating Albouy's last given figure to the present day by applying the observed growth in the housing market (presumably due to appreciation of land [selling] values). He then adds on values for the missing types of land by using other existing estimates. It all comes to $44 trillion.
 
 We can check his work pretty quickly. All the figures we have for the last decade that don't come from Smith grow at a very similar rate, with the Federal Reserve line growing at a steady ~$1.4T a year on average. So let's extrapolate Albouy at the same rate:
 
@@ -315,7 +319,7 @@ If we just pop $2.8T + $6.6T on top of the extrapolated line from Albouy, that g
 
  ![](usa_land_value_6.png) 
  
-Which gets us pretty close to Smith's figure. The USDA figure seems reliable, because most farmland doesn't have structures on it and is just pure land. The USDA can value the land just by observing market transactions. As for Ebeling, you kind of have to take his word for it, as he doesn't give a methodology. Ebeling is also a hardcore libertarian who advocates selling off all federal lands to reimburse taxpayers (wonder how he'd feel seeing Smith use his estimates to advocate Georgism!). But in any case, if you buy all of that, you get pretty close to Smith's $44T figure, which is itself close to Dwyer's observed ratio in Australia of land rents as 21% of national income (provided you use Smith's 10:1 ratio to convert land rents to land values).
+Which gets us pretty close to Smith's figure. The USDA figure seems reliable, because most farmland doesn't have structures on it and is just pure land. The USDA can value the land just by observing market transactions. As for Ebeling, you kind of have to take his word for it, as he doesn't give a methodology. Ebeling is also a hardcore libertarian who advocates selling off all federal lands to reimburse taxpayers (wonder how he'd feel seeing Smith use his estimates to advocate Georgism!). But in any case, if you buy all of that, you get pretty close to Smith's $44T figure, which is itself close to Dwyer's observed ratio in Australia of land rents as 21% of national income (provided you use Smith's 10:1 ratio to convert land rents to land [selling] values).
 
 Of the original studies, Albouy has the most convincing methodology, and Smith's additions and extrapolations seem plausible. But to be fair, let's set Smith ($44T) as an upper bound, and the Federal Reserve figure ($24T) as a lower bound.
 
@@ -324,13 +328,13 @@ I should note here that a lot of this land is already paying property taxes, whi
 <span id="land-rents-vs-budgets"></span>
 ### Land Rents vs. Budgets
 
-Now we have to convert land values to land rents–the amount of income the land is capable of generating each year.
+Now we have to convert land (selling) values to land rents–the amount of income the land is capable of generating each year.
 
-To convert between land values and land rents, we need to use the **[capitalization rate](https://en.wikipedia.org/wiki/Capitalization_rate),** or "cap rate." If your land costs $1M and earns $50K/year, the cap rate is $50K/$1M, or 5%. This is the ratio between the net operating income produced by a plot of land ($50k) and its market value ($1M).
+To convert between land (selling) values and land rents, we need to use the **[capitalization rate](https://en.wikipedia.org/wiki/Capitalization_rate),** or "cap rate." If your land costs $1M and earns $50K/year, the cap rate is $50K/$1M, or 5%. This is the ratio between the net operating income produced by a plot of land ($50k) and its market value ($1M).
 
-[According](https://arbor.com/research/q1-2021-single-family-rental-investment-trends-report/#leadbot-0e2c1a70-f989dce9-fb3c0420-b714fff4) to [various](https://mapping.cbre.com/maps/caprate/app/) [sources](https://web.archive.org/web/20210806054719/http://cbre.vo.llnwd.net/grgservices/secure/US%20Cap%20Rate%20Survey%20Q3%202020.pdf?e=1628228873&h=a614ce876e66ea42c9785fbba27a658c), cap rates in the USA range between 3.5% on the low end to as much as 11% on the high end, depending on the type of property (offices have a higher rate, residential has a lower rate, etc). However, the vast majority of land values in the United States are urban, so we should weight our cap rates towards urban figures. Call it a low of 5% and a high of 8%. Smith suggests a blanket cap rate of 10%, but I'm erring on the conservative side.
+[According](https://arbor.com/research/q1-2021-single-family-rental-investment-trends-report/#leadbot-0e2c1a70-f989dce9-fb3c0420-b714fff4) to [various](https://mapping.cbre.com/maps/caprate/app/) [sources](https://web.archive.org/web/20210806054719/http://cbre.vo.llnwd.net/grgservices/secure/US%20Cap%20Rate%20Survey%20Q3%202020.pdf?e=1628228873&h=a614ce876e66ea42c9785fbba27a658c), cap rates in the USA range between 3.5% on the low end to as much as 11% on the high end, depending on the type of property (offices have a higher rate, residential has a lower rate, etc). However, the vast majority of land (selling) values in the United States are urban, so we should weight our cap rates towards urban figures. Call it a low of 5% and a high of 8%. Smith suggests a blanket cap rate of 10%, but I'm erring on the conservative side.
 
-The 2005 federal budget had $2.5 Trillion in expenditures, increasing to $4.4 Trillion in 2019, with a sharp jump to $6.6 Trillion in 2020 thanks to COVID ([source](https://www.presidency.ucsb.edu/statistics/data/federal-budget-receipts-and-outlays)). It's immediately clear that regardless of valuation method, America's total land values ($24-44T) are significantly higher than the annual federal budget. But we care about land _rents_, not land _values._ It's not like the plan is to sell off all of America's land just to pay for a few years' spending.
+The 2005 federal budget had $2.5 Trillion in expenditures, increasing to $4.4 Trillion in 2019, with a sharp jump to $6.6 Trillion in 2020 thanks to COVID ([source](https://www.presidency.ucsb.edu/statistics/data/federal-budget-receipts-and-outlays)). It's immediately clear that regardless of valuation method, America's total land (selling) values ($24-44T) are significantly higher than the annual federal budget. But we care about land _rents_, not land _selling values._ It's not like the plan is to sell off all of America's land just to pay for a few years' spending.
 
 If we plug in the figures from the Federal Reserve and Smith, that gives us the following figures for America's annual land rents (in trillions of dollars):
 
@@ -349,7 +353,7 @@ America's annual land rents are sufficient to cover between 18%-40% (Fed) and 34
 
  ![](land_rent_vs_federal_spending.png) 
  
-To put those amounts in context, in the [2019 federal budget](https://www.cbo.gov/publication/56324), total spending was $4.4 trillion. We spent $676 billion on defense (15%), Social Security was $1 trillion (23%), and Medicare + Medicaid together were $1.05 trillion (24%). Let's compare those to our four individual estimates for annual land rent values:
+To put those amounts in context, in the [2019 federal budget](https://www.cbo.gov/publication/56324), total spending was $4.4 trillion. We spent $676 billion on defense (15%), Social Security was $1 trillion (23%), and Medicare + Medicaid together were $1.05 trillion (24%). Let's compare those to our four individual estimates for annual land rental values:
 
  ![](2019_federal_vs_2019_land_rent.png) 
  
