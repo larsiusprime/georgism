@@ -70,7 +70,7 @@ One day, Denmark decided to redraw all its municipal boundaries. Regions that ha
 
 Crucially, tax assessment _policy_ was pretty much uniform throughout the country. The only thing this shakeup changed with regard to land policy was the actual individual rates of tax on land, set by the local governments. This gives us a nice big N of 250 individual areas, each with a clear before and after change in land tax rate. All of these changes came into being at exactly the same time from a single swift outside intervention, and the overall change in aggregate tax rate was close to zero:
 
- ![](danish_paper_table.png)
+ ![](images/danish_paper_table.png)
 
 Note the "per mille" – 20.6 per mille = 2.6 per cent, etc.
 
@@ -142,11 +142,11 @@ Hagman isn't clear on why this is. Did land become less important, were assessme
 
 We've already shown in Part I that it can't be that land's importance in the economy has declined since the 19th century. Concerning New Zealand specifically, [Tideman, et al.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3954888) says that today over half the share of non-produced assets for households is due to land.
 
- ![](oecd_six_economies.png)
+ ![](images/oecd_six_economies.png)
 
 And it's worth reiterating that New Zealand banks put most of their loans towards real estate.
 
- ![](nz_lending_2.png)
+ ![](images/nz_lending_2.png)
 
 Source: [Interest.co.nz](https://www.interest.co.nz/banking/112371/nz-banks-housing-lending-continues-rising-percentage-their-overall-lending-business)
 
@@ -224,19 +224,19 @@ This falls well short of 100% LVT, and leaves the harmful tax on improvements un
 
 There are two ways land can be chronically underassessed. The first is when the assessed value of the property is way below market value, and the primary deficit is because the land value is underestimated. This isn't uncommon in big cities in the midst of housing crises.
 
- ![](table_underassessed_1.png)
+ ![](images/table_underassessed_1.png)
 
 In this example, raising the assessed value of land to its true value more than triples the effective rate of the hidden land tax, _without_ raising the amount of tax on the building.
 
 The second way land can be chronically underassessed is when the total value of the property is properly assessed close to market value, but the value of the land is understated relative to the building. This often happens with the "cost approach" method we discussed in Part I. If you just improve the land assessment, you _shift_ the tax burden off of the building and on to the land.
 
-![](table_underassessed_2.png)
+![](images/table_underassessed_2.png)
 
 Okay, but in this second chart isn't the owner paying $2,000 no matter what? Why should they care what the tax internally "falls" on? There's a couple reasons. For one, although it won't have any immediate effect on an individual whose total property value doesn't change, for many people it _will_ change. Some will go up, some will go down, and the resulting taxes will encourage putting land to its highest and best use. And for those whose property values don't change at all, now there is no disincentive to build improvements. Build a big multifamily unit? Put in a pool? Remodel your bathroom? Go nuts, you won't be punished for it with increased taxes.
 
 Here's a simple visualization of how an LVT paired with a Citizen's Dividend compares to conventional property taxes. It's just an illustration meant to make a rhetorical point, but now I'm curious to see a real-world version of this superimposed over, say, Houston or Philadelphia or New York City, and based on actual data.  
 
- ![](lvt_and_dividend.png)
+ ![](images/lvt_and_dividend.png)
 
 Source: [this tweet](https://twitter.com/cgusaofficial/status/1460672622153195524?s=21) from Common Ground USA
 

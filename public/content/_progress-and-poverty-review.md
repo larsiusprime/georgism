@@ -101,7 +101,7 @@ Back then, the United States was still in the throes of the [Long Depression](ht
 
 Below is a graph ([source](https://web.archive.org/web/20210216220345/https://www.nber.org/research/business-cycle-dating)) of the boom-bust business cycle going back to the 1870's - clearly, recessions were much more frequent and severe in George's time than they are today. The late 1800's were wracked with so many panics and crises in quick succession that some historians count the Long Depression as lasting for a full 23 years from 1873 to 1896!
 
-![](book_review_recessions.png)
+![](images/book_review_recessions.png)
 
 After the Great Depression in the 1930's, we see a sharp decrease in the duration and frequency of recessions. They're still with us now (and the one we're currently in is the worst since the Great Depression), but you'd still rather be living in 2021 than 1879.
 
@@ -109,31 +109,31 @@ So, have we solved the problem? Is George's complaint obsolete?
 
 I mean, this graph of GDP per capita from Stephen Pinker's Enlightenment Now makes it look like in many ways things are getting better:
 
-![](book_review_gdp.png)
+![](images/book_review_gdp.png)
 
 And heck, [extreme poverty has been going down everywhere](https://ourworldindata.org/extreme-poverty):
 
-![](book_review_extreme_poverty.png)
+![](images/book_review_extreme_poverty.png)
 
 But this can't be the entire picture, or nobody would be complaining about poverty and inequality.
 
 Here - this graph ([source](https://web.archive.org/web/20210112150023/https://howmuch.net/articles/price-changes-in-usa-in-past-20-years)), shows that as consumer goods have gotten cheaper in the United States, health care, higher education, child care, etc., have skyrocketed in price, as examined in great detail in the article [Considerations on Cost Disease](https://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/).
 
-![](book_review_consumer_prices.png)
+![](images/book_review_consumer_prices.png)
 
 And what about Inequality? In the USA it seems to have reverted to levels not seen since the Great Depression, and even when it was at its lowest in 1978, the top 0.1% (not even the top 1%!) still enjoyed a massively disproportionate share of Wealth ([source](https://web.archive.org/web/20210202081558/http://gabriel-zucman.eu/files/SaezZucman2016QJE.pdf)):
 
-![](book_review_wealth_inequality.png)
+![](images/book_review_wealth_inequality.png)
 
 And of course, The Rent Is Too Damn High:
 
 ([source](https://web.archive.org/web/20210216184021/https://www.apartmentlist.com/research/rent-growth-since-1960)):
 
-![](book_review_rent_graph.png)
+![](images/book_review_rent_graph.png)
 
 ([source](https://web.archive.org/web/20210208185441/https://observationsandnotes.blogspot.com/2011/06/us-housing-prices-since-1900.html)):
 
-![](book_review_housing_prices.png)
+![](images/book_review_housing_prices.png)
 
 Although 2021 seems better than 1879 in absolute material terms, George's complaint still rings true: healthcare and higher education are increasingly unaffordable, inequality is as bad as it ever was, and The Rent Is Too Damn High.
 
@@ -221,7 +221,7 @@ Again, this isn't saying the IOUs aren't valuable, they are. But they're only va
 
 Now what about digital goods? Leaving things like Bitcoin aside for the moment, let's consider the case of a digital image file:
 
-![](isthiswealth.png)
+![](images/isthiswealth.png)
 
 By George, this is **wealth**.
 
@@ -289,9 +289,9 @@ Come again?
 
 Land is the ultimate source of all wealth, but it's most useful to think of it as a _generator,_ acompletely separate entity from the wealth that human labor and desire draws from it. Players of _Magic: the Gathering_ and _Settlers of Catan_ should already have a solid grasp of this distinction:
 
-![](land_mtg.png)
+![](images/land_mtg.png)
 
-![](land_catan.png)
+![](images/land_catan.png)
 
 In modern times, George would grant electromagnetic spectrum and orbital real estate for satellites the same status of "land" that already applies to farmland and terrestrial real estate. We don't even need to speculate about whether he'd attach this status to sunlight because he straight-up predicted solar power:
 
@@ -401,7 +401,7 @@ He goes on for another chapter on "The Maintenance of Laborers Not Drawn From Ca
 
 At least some of George's ideas will not seem so radical to modern readers (especially those already critical of capitalism or neoclassical economics), but it's important to understand that at the time almost everything he was saying was considered deeply radical and shocking. Capital was the fundamental driving force of the economy and labor was utterly dependent on it, and the Malthusian theory of overpopulation was the accepted explanation for why wages were low and workers were starving.
 
-![](puck_demon_george.png)
+![](images/puck_demon_george.png)
 
 Political Cartoon literally demonizing Henry George – Puck magazine Oct. 20, 1886
 
@@ -554,11 +554,11 @@ Lot C is crappy land worth 10 utils.
   
 Let's say I own Lot A. I won't be able to charge you any rent to work on Lot A, if Lot B is freely available for anyone to use. Why would you pay even 1 util worth of rent if you could just work on Lot B, earn 100 utils, and keep it all?
 
-![](ricardos_law_of_rent_1.png)
+![](images/ricardos_law_of_rent_1.png)
 
 But once I buy Lot B, now if you want access to 100-util Land you have to pay me. How much can I charge? Well, you could always work on Lot C for free, and it'll yield 10 utils. So the most I can charge is 90 utils (100 - 90 = 10).
 
-![](ricardos_law_of_rent_2.png)
+![](images/ricardos_law_of_rent_2.png)
 
 So here's the Law of Rent – **rent is determined by the** "**margin of production"** (AKA the "margin of cultivation") – the difference between how much you can produce from a particular piece of land (Lot A or B) compared to the least productive alternative (Lot C).
 
@@ -570,7 +570,7 @@ Notice that I as the landlord am not really doing anything here other than ownin
 
 In the popular imagination we pit "capitalists" against "laborers" but a lot of those "capitalists" are landowners in disguise, because in non-Georgist frameworks land is typically considered a kind of capital. George says landowners oppress both labor _and_ capital, cheating both hard work and investment out of their fair share.
 
-![](landlord_fight.jpg)
+![](images/landlord_fight.jpg)
 
 Source: can't find the author of this image, closest I can get to its origin is [this blog](https://henrygeorgedevon.wordpress.com/2014/02/02/the-left-and-an-anti-rentier-agenda/)
 
@@ -578,13 +578,13 @@ Okay, but is this still relevant in the modern age, with the internet and work-f
 
 Here, take a look at this chart ([source](https://web.archive.org/web/20200519142916/https://wid.world/news-article/new-paper-long-run-accumulation-wealth-spain-1900-2014-wid-world-working-paper-2018-5/)):
 
-![](assets_spain.png)
+![](images/assets_spain.png)
 
 I found this in a tweet by [Thomas Piketty](https://twitter.com/PikettyLeMonde/status/963093728150933505), and it shows the breakdown of personal assets in Spain over the last 100+ years. The bulk of the value of personal assets is from landownership. This is still the case even though the chart includes "financial assets" – which are just IOUs that ultimately have something real (e.g. land or wealth) underpinning their value. If we exclude those, the true portion of overall value represented by land is even higher than this graph first implies.
 
 And this isn't just Spain. Here's a graph Nate Blair made for the UK, excluding all financial instruments and only looking at real assets:
 
-![](assets_uk.png)
+![](images/assets_uk.png)
 
 Based on data from the United Kingdom National Accounts: The Blue Book 2017. Published Oct 31, 2017. Revision Period: Beginning of each time series. Date of next release: July 2018. The "privileges" in "Land and privileges" are things like taxi medallions and patents, that were worth "almost zero" according to Nate.
 
@@ -601,7 +601,7 @@ Let's go back to Lot A and Lot B, both 100-util fields. Let's say they belong to
   
 My landlord raises the rent, of course!
 
-![](ricardos_law_of_rent_3.png)
+![](images/ricardos_law_of_rent_3.png)
 
 The only way wages (the return to labor) and interest (the return to capital) can go up as productivity increases, is if land values fail to rise at the same rate.
 
@@ -710,7 +710,7 @@ Now, let's talk about the **expectations raised by material progress**.
 
 What happens when people _know_ something will increase in value?
 
-![](hodl_mtg.png)
+![](images/hodl_mtg.png)
 
 That's right, they buy it up in a speculative frenzy and hold on to it forever, further driving the price up. With conventional speculative instruments like [beanie babies](https://web.archive.org/web/20210214110406/https://slate.com/technology/2015/02/beanie-babies-bubble-economics-and-psychology-of-a-plush-toy-investment-craze.html) or [tulips](https://web.archive.org/web/20210216123829/https://www.investopedia.com/terms/d/dutch_tulip_bulb_market_bubble.asp), the bubble eventually pops. But Land has unique properties that allow this vicious cycle to continue more or less indefinitely.
 
@@ -722,7 +722,7 @@ Georgist pundit geoliberal explains the mindset of a speculator:
 
 > The only thing investors actually maximize is risk adjusted rate of return. When you know rents will increase, your best return comes from buying extra land, not improving the land you have
 
-![](rate_of_return.png)
+![](images/rate_of_return.png)
 
 Illustration courtesy of geoliberal
 
@@ -835,7 +835,7 @@ Okay, but excluding evil Southern plantation owners, don't landlords deserve com
 
 I like Ms. Nguyen too, but let's contrast her with Mr. Slumlord, who owns the apartment block next door that's superficially identical, but who _won't_ help you when your A/C goes out in the middle of summer.
 
-![](ms_nguyen.png)
+![](images/ms_nguyen.png)
 
 Ms. Nguyen charges higher "rent" for her much better maintained units because part of that "rent" is actually her justly compensated _wages_ for her _labor_ in managing them, as well as _interest_ from returns on the _capital_ she's invested in their ongoing improvement and maintenance. She also collects a good bit of true Georgian rent because she is, after all, a landlord.
 
@@ -858,7 +858,7 @@ What's an **improvement**?
 
 By George, a little green house is an improvement. A fancy red hotel is an improvement. A garage, a sidewalk, a public park, a Starbucks, a hotdog stand, are all improvements. Installing a bunch of dikes in the Netherlands and dumping landfill into the seabed to turn wet land into dry is an improvement. All improvements come from labor, and optionally capital, and so its fair for those factors to take their return. If I "rent" you my hotdog stand (but _not_ the lot it sits on) my return would be classified as interest in George's framework because the hotdog stand isn't land, it's capital – the stored-up fruits of my labor that I'm using to get more wealth.
 
-![](improvements_vs_land.png)
+![](images/improvements_vs_land.png)
 
 (Modified from [source](https://www.flickr.com/photos/9731367@N02/6988181354/in/photolist-bDwfRq-bSr87x-QkCs2c-cvB5Dd-5AauFs-6sC1An-6H2XFG-2i7YxPR-iKTC2Q-9VxavH-eZmHq7-qhw3QS-5VUCha-2iQHBP3-2iWFjty-8p4miF-fJNDWe-cCNRHd-5VUCbT-5VUCjv-6KqdcF-pb33VZ-UDTXXN-a4MWP9-iUZh8o-fJNFje-mPqyQn-bQwKik-mPsa89-24hisqk-mPs6Jq-mPqvo2-fQ59KS-fK6ecC-3JKX1h-2LEWJW-9VzZf3-mPqwtD-mPqh7K-b385pi-5VYXA9-mPqs3z-az2VaR-mB8hbY-mPs5bL-bDwk63-jaQiXT-jaP52F-jaQzUT-jaPeu8), CC BY 2.0, author: [Philip Taylor](https://www.flickr.com/photos/9731367@N02/))
 
@@ -904,7 +904,7 @@ Deadweight Loss is the lost economic activity or value caused by some policy. It
 
 Look at this chart, for example:
 
-![](deadweight_loss.png)
+![](images/deadweight_loss.png)
 
 ([source](https://commons.wikimedia.org/wiki/File:Deadweight-loss-price-ceiling.svg), CC BY-SA 2.5, author: [SilverStar](https://en.wikipedia.org/wiki/User:SilverStar))
 
@@ -912,7 +912,7 @@ The place where the demand curve (red) and supply curve (blue) meet is the equil
 
 But here's how things look with a land value tax, notice that the supply curve is _vertical_ – that's weird, what does that mean?
 
-![](deadweight_loss_land.png)
+![](images/deadweight_loss_land.png)
 
 ([source](https://en.wikipedia.org/wiki/File:Perfectly_inelastic_supply.svg), CC BY-SA 3.0, author: Explodicle)
 
@@ -950,7 +950,7 @@ Land in Times Square will still be a lot more _valuable_ than land in Podunk, Sa
 
 But... doesn't this mean that if people aren't putting land to productive use, they'll eventually be pressured to sell it off to someone who will?
 
-![](george_yes.png)
+![](images/george_yes.png)
 
 George sees this as a _good_ thing.
 
@@ -964,7 +964,7 @@ As BlueRepublik observes in _[No, Georgism is Still Sane](https://bluerepublik.w
 
 In a fit of performance art, a Georgist by the name of Fay Lewis once famously bought an empty lot and stuck a big sign on it to demonstrate the principle in action:
 
-![](fay_lewis.jpg)
+![](images/fay_lewis.jpg)
 
 Okay, but isn't building too much stuff bad for the environment? Won't this encourage over-development?
 
@@ -972,11 +972,11 @@ By George, no. What's bad for the environment is _sprawl_, which the current sys
 
 A stronger objection to land value tax is when it's not some shifty speculator or a genocidal English landlord who suffers the brunt of it, but, say, this guy:
 
-![](carl.png)
+![](images/carl.png)
 
 The premise of Pixar's movie _Up_ is that Carl Fredricksen, a lovably grumpy pensioner, is the last holdout standing in the way of developers bulldozing the rest of his neighborhood in the name of Progress™. He refuses to sell because he can't bear to part with the house which for him is tied up with all the cherished memories of his departed wife.
 
-![](carls_house.png)
+![](images/carls_house.png)
 
 This isn't just sentimental fiction, this is something that [really does happen](https://www.goodthingsguy.com/people/house-inspired-disney/).
 
