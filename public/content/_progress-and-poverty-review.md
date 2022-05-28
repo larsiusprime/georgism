@@ -2,6 +2,8 @@
 
 by [Lars A. Doucet](lars_a_doucet), 2021
 
+<iframe src="https://www.listennotes.com/podcasts/astral-codex-ten/your-book-review-progress-QFbzxZteIBS/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
+
 **Part 0 - Book Review: Progress & Poverty 👈** (You are here)  
 [Part I  - Is Land Really a Big Deal?](is-land-a-big-deal)  
 [Part II - Can Land Value Tax be Passed on to Tenants?](can-lvt-be-passed-on-to-tenants)  
