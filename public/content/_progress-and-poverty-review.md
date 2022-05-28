@@ -10,6 +10,7 @@ by [Lars A. Doucet](lars_a_doucet), 2021
 ## Listen
 <iframe src="https://www.listennotes.com/podcasts/astral-codex-ten/your-book-review-progress-QFbzxZteIBS/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
 <span id="introduction"></span>
+
 ## Introduction
 
 In 1879, a man asked "How come all this new economic development and industrialized technology hasn't eliminated poverty and oppression?" That man was Henry George, his answer came in the form of a book called Progress & Poverty, and this is a review of that book.
