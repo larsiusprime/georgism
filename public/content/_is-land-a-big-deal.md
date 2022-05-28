@@ -9,9 +9,10 @@ by [Lars A. Doucet](lars-a-doucet), 2021
 
 _Extremely special thanks to Count Bla and Alexandra Elbakyan_
 
-* * *
-
+## Listen
+<iframe src="https://www.listennotes.com/podcasts/astral-codex-ten/does-georgism-work-is-land-wpAtQT8zYbM/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
 <span id="introduction"></span>
+
 I originally reviewed Henry George's [Progress & Poverty](progress-and-poverty-review) for [Astral Codex Ten](https://astralcodexten.substack.com/)'s book review contest. Henry George is the founder of an economic philosophy known as [Georgism](https://en.wikipedia.org/wiki/Georgism) which is principally concerned with the deprivations caused by unchecked rentiers. George is famous for promoting two specific policies, the Land Value Tax (LVT) and the Citizen's Dividend (what we would now call a Universal Basic Income).
 
 I was shocked and humbled when Astral Codex Ten's readership [selected me as the winner](https://astralcodexten.substack.com/p/book-review-contest-winners). Even more shocking was how many people from around the world wrote to me about their interest in the article. Family, friends, and acquaintances for sure, but also a lot of total strangers–including business owners, activists, podcasters, online game designers, investors, even government officials from around the world. Scott's blog has _way_ more reach than I realized.

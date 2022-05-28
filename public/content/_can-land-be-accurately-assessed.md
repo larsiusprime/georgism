@@ -7,6 +7,9 @@ by [Lars A. Doucet](lars_a_doucet), 2021
 [Part II - Can Land Value Tax be Passed on to Tenants?](can-lvt-be-passed-on-to-tenants)  
 **Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings? 👈** (You are here)
 
+## Listen
+<iframe src="https://www.listennotes.com/podcasts/astral-codex-ten/does-georgism-work-part-3-pbd3vSnEBKe/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
+
 <span id="introduction"></span>
 # Introduction
 
