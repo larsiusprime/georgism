@@ -20,3 +20,4 @@ Georgism and Norway:
 
 - [Norway's Sovereign wealth fund: a Georgist success story](https://progressandpoverty.substack.com/p/norways-sovereign-wealth-fund?s=w)
 - [Norway, the Once and Future Georgist Kingdom](https://slimemoldtimemold.com/2022/05/17/norway-the-once-and-future-georgist-kingdom/) (translation of "The New Oil" by Anne Margrethe Brigham and Jonathon W. Moses)
+
