@@ -2,6 +2,10 @@
 
 Some resources on Georgism that I recommend
 
+## Blogs:
+
+*   [Progress & Poverty Substack](https://progressandpoverty.substack.com) - Group blog / Newsletter on Georgism
+
 ## Discussion:
 
 *   [Geopraxis discord](https://discord.com/invite/CXf5RDxfZ6) -Georgist organizing and projects to contribute to
