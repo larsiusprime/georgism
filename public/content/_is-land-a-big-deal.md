@@ -432,6 +432,10 @@ America's land rents are, in fact, equal to a sizable % of the annual budget.
 
 Ironically, by demonstrating that land taxes can raise a large amount of money, I've actually set up another criticism; land taxes don't raise too _little_ revenue, they raise _too much._ This critique is mostly made on moral/ideological grounds and typically comes from the right–to which I'll just let arch-conservative William F. Buckley (apparently both a Georgist _and_ a full-on Single-Taxer) make the case.
 
+
+<iframe width="728" height="410" src="https://www.youtube.com/embed/SRnTesZNH_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    
 At the end of the day, you either accept the moral arguments for making land value common property or you don't. If Buckley's argument that "a parking lot next to the Empire State building should be in principle taxed at the same rate as the skyscraper" doesn't sit right with you, I'm not sure appealing to empirics is going to convince you, as the disagreement likely comes from a much more fundamental place.
 
 And if you think all taxation is theft, well, Land Value Tax is a tax, so presumably you have a problem with it on those grounds. But if you accept that you live in a society that occasionally taxes things, you might opt for what Milton Friedman called "the least bad tax."
