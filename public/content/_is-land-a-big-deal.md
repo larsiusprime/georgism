@@ -453,6 +453,10 @@ So, we’ve established that land value is the bulk of urban real estate values 
 
 Banks exist for at least two stated purposes–to give people a safe place to store their money and to provide capital in the form of loans to people engaged in productive activities. This song from Mary Poppins is a decent summary of the Econ 101 story we're told about what banks do with their money.
 
+
+<iframe width="728" height="410" src="https://www.youtube.com/embed/XxyB29bDbBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Banking is obviously way more complicated than "you give the bank your money and then they lend it out to people," what with fractional reserve banking, the Federal Reserve, and all the rest of it. But we don't really care about that side of things for the purposes of this question. All we want to know is _given that banks have money, what do they do with it?_
 
 Lately, they lend it out to people who want to buy real estate, according to _[The Great Mortgaging: Housing Finance, Crises, and Business Cycles](https://www.nber.org/system/files/working_papers/w20501/w20501.pdf)_ by Jordà, Schularick, and Taylor. This chart shows three snapshots from 1928, 1970, and 2007 of the share of all bank lending that goes to real estate for a selection of major countries around the world.
