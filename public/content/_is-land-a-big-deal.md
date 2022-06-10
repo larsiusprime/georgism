@@ -440,6 +440,10 @@ At the end of the day, you either accept the moral arguments for making land val
 
 And if you think all taxation is theft, well, Land Value Tax is a tax, so presumably you have a problem with it on those grounds. But if you accept that you live in a society that occasionally taxes things, you might opt for what Milton Friedman called "the least bad tax."
 
+
+<iframe width="728" height="410" src="https://www.youtube.com/embed/yS7Jb58hcsc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 * * *
 
 So, we’ve established that land value is the bulk of urban real estate values (and urban real estate values are the bulk of total real estate values), and land rents are large enough to make a big dent in any budget. But here’s something you can be sure affects everyone: the share of land value represented in bank loans.
