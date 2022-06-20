@@ -4,6 +4,8 @@
 
 <iframe src="https://www.listennotes.com/podcasts/narratives/60-henry-george-land-and-wI-udzejD4v/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
 
+<iframe src="https://www.listennotes.com/podcasts/narratives-wwill/99-daryl-fairweather-the-g8BZd6iPFD7/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
+
 <iframe src="https://www.listennotes.com/podcasts/narratives/86-arbitrary-lines-with-AFb6L1h9KNf/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
 
 <iframe src="https://www.listennotes.com/podcasts/narratives/88-land-value-taxes-with-zMW4OxT2bVf/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
