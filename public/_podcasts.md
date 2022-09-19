@@ -3,7 +3,7 @@
 ### Video podcasts:
 
 "What is Georgism?" with <a href="https://www.youtube.com/c/Econoboi">Econoboi</a>:
-<iframe width="1903" height="796" src="https://www.youtube.com/embed/anrWTf1brSE" title="What is Georgism? | Land Value Tax, Resource Wealth, and more ft. Lars Doucet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="432" src="https://www.youtube.com/embed/anrWTf1brSE" title="What is Georgism? | Land Value Tax, Resource Wealth, and more ft. Lars Doucet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
