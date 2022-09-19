@@ -16,6 +16,8 @@ Interview with an expert in property tax reform:
 
 ### Appearances by [Lars A. Doucet](content/lars-a-doucet):
 
+<iframe src="https://www.youtube.com/embed/anrWTf1brSE" title="What is Georgism? | Land Value Tax, Resource Wealth, and more ft. Lars Doucet" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
+
 <iframe src="https://www.listennotes.com/podcasts/overpriced-jpegs/are-metaverse-land-sales-a-LAM63Jg4Wvk/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
 
 <iframe src="https://www.listennotes.com/podcasts/the-henry-george/lars-doucet-on-real-life-H7kq6czynT3/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
