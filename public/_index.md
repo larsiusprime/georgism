@@ -4,6 +4,9 @@ Writings on Georgism and related topics by various authors
 
 ### by [Lars A. Doucet](content/lars-a-doucet):
 
+- **[*Land is a Big Deal*](https://www.landisabigdeal.com)**, a published book that collects the writings found on this site.
+
+
 *Does Georgism Work?*, a series:
 
 - Part 0: [Book Review: Progress and Poverty](content/progress-and-poverty-review)
