@@ -49,6 +49,6 @@ Some resources on Georgism that I recommend
     
 *   [The Hidden Taxable Capacity of Land: Enough and to Spare](https://economics.ucr.edu/papers/papers08/08-12old.pdf) by Mason Gaffney -essential paper
 
-*   [Land as a Distinctive Factor of Production](http://www.wealthandwant.com/docs/Gaffney_LaaDFoP.html) -essential paper
+*   [Land as a Distinctive Factor of Production](content/land-as-distinctive-factor-of-production-gaffney) -essential paper
     
 *   [The Unknown Revenue Potential of Land: Fifteen Hidden Elements](https://www.masongaffney.org/workpapers/WP097%202004%20Unknown%20revenue%20potential%20of%20land%2015%20hidden%20elements.pdf) by Mason Gaffney
