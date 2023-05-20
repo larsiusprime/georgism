@@ -5,7 +5,17 @@
 "What is Georgism?" with <a href="https://www.youtube.com/c/Econoboi">Econoboi</a>:
 <iframe width="100%" height="432px" src="https://www.youtube.com/embed/anrWTf1brSE" title="What is Georgism? | Land Value Tax, Resource Wealth, and more ft. Lars Doucet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+"Land Is a (Very) Big Deal" with <a href="https://www.youtube.com/c/discourseza6003">DiscourseZA</a>:
+<iframe width="100%" height="432px" src="https://www.youtube.com/watch?v=ZtbMly_haTo" title="Land Is a (Very) Big Deal | Bronwyn Williams & Lars Doucet | The Small Print" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+"Why Rent is too High & Wages too Low" with <a href="https://www.youtube.com/c/therealignment">The Realignment Podcast</a>:
+<iframe width="100%" height="432px" src="https://youtu.be/4fKfz9Mkzv4" title="#311 | Lars Doucet on Georgism: Why Rent is too High & Wages too Low - The Realignment Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+"Progress, Poverty, Georgism, & Why Rent is Too Damn High" with <a href="https://www.youtube.com/c/DwarkeshPatel">Dwarkesh Patel</a>:
+<iframe width="100%" height="432px" src="https://youtu.be/sL-qkv7Pzxo" title="Lars Doucet - Progress, Poverty, Georgism, & Why Rent is Too Damn High" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+"Is Land a Big Deal? ft. Lars Doucet" with <a href="https://www.youtube.com/c/DwarkeshPatel">Dwarkesh Patel</a>:
+<iframe width="100%" height="432px" src="https://youtu.be/ymGD8HR2rY8" title="Is Land a Big Deal? ft. Lars Doucet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### "Narratives" with Will Jarvis on Georgism, Housing, & Land Economy:
 
