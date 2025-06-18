@@ -14,6 +14,15 @@ Writings on Georgism and related topics by various authors
 - Part 2: [Can Land Value Tax Be Passed on to Tenants?](content/can-lvt-be-passed-on-to-tenants)
 - Part 3: [Can Unimproved Land Value Be Accurately Assessed Separately From Buildings?](content/can-land-be-accurately-assessed)
 
+From Progress & Poverty substack:
+
+- [How Georgists valued land in the 1900s](https://progressandpoverty.substack.com/p/how-georgists-valued-land-in-the)
+- [Want to Model a Land Value Tax Shift in Your City? Here's How](https://progressandpoverty.substack.com/p/want-to-model-a-land-value-tax-shift)
+- [Mass Appraisal for the Masses](https://progressandpoverty.substack.com/p/mass-appraisal-for-the-masses-the)
+- [Announcing the Center for Land Economics](https://progressandpoverty.substack.com/p/announcing-the-center-for-land-economics)
+- [No Silver Bullet Solutions to the Werewolf Crisis](https://progressandpoverty.substack.com/p/no-silver-bullets-to-the-werewolf)
+- [Why Georgists use the 🔰 Mark](https://progressandpoverty.substack.com/p/why-georgists-use-the-mark)
+
 Georgism and Game Design:
 
 - [Land Speculators will kill your game's growth](https://www.gamedeveloper.com/business/digital-real-estate-and-the-digital-housing-crisis)
