@@ -872,7 +872,7 @@ Ms. Nguyen은 훨씬 잘 관리된 유닛에 더 높은 '임대료'를 받습니
 
 ![](../images/improvements_vs_land.png)
 
-(출처: [https://www.flickr.com/photos/9731367@N02/6988181354/in/photolist-bDwfRq-bSr87x-QkCs2c-cvB5Dd-5AauFs-6sC1An-6H2XFG-2i7YxPR-iKTC2Q-9VxavH-eZmHq7-qhw3QS-5VUCha-2iQHBP3-2iWFjty-8p4miF-fJNDWe-cCNRHd-5VUCbT-5VUCjv-6KqdcF-pb33VZ-UDTXXN-a4MWP9-iUZh8o-fJNFje-mPqyQn-bQwKik-mPsa89-24hisqk-mPs6Jq-mPqvo2-fQ59KS-fK6ecC-3JKX1h-2LEWJW-9VzZf3-mPqwtD-mPqh7K-b385pi-5VYXA9-mPqs3z-az2VaR-mB8hbY-mPs5bL-bDwk63-jaQiXT-jaP52F-jaQzUT-jaPeu8), CC BY 2.0, 저자: [Philip Taylor](https://www.flickr.com/photos/9731367@N02/))
+([소스](https://www.flickr.com/photos/9731367@N02/6988181354/in/photolist-bDwfRq-bSr87x-QkCs2c-cvB5Dd-5AauFs-6sC1An-6H2XFG-2i7YxPR-iKTC2Q-9VxavH-eZmHq7-qhw3QS-5VUCha-2iQHBP3-2iWFjty-8p4miF-fJNDWe-cCNRHd-5VUCbT-5VUCjv-6KqdcF-pb33VZ-UDTXXN-a4MWP9-iUZh8o-fJNFje-mPqyQn-bQwKik-mPsa89-24hisqk-mPs6Jq-mPqvo2-fQ59KS-fK6ecC-3JKX1h-2LEWJW-9VzZf3-mPqwtD-mPqh7K-b385pi-5VYXA9-mPqs3z-az2VaR-mB8hbY-mPs5bL-bDwk63-jaQiXT-jaP52F-jaQzUT-jaPeu8)에서 수정됨, CC BY 2.0, 저자: [Philip Taylor](https://www.flickr.com/photos/9731367@N02/))
 
 현재 시스템의 문제는 커뮤니티 내에서 누군가가 개선을 진행하면 인접한 땅의 가치가 상승하고, 그 결과 인접한 땅 소유주들이 임대료를 인상한다는 점입니다. 이는 땅 소유주들을 제외한 모든 사람에게 불리합니다. 조지의 통찰은 제 개선으로 인한 추가 가치가 제 땅에서 '유출'되어 귀하의 땅의 지대 속에 흡수된다는 점입니다.
 
@@ -882,7 +882,7 @@ Ms. Nguyen은 훨씬 잘 관리된 유닛에 더 높은 '임대료'를 받습니
 
 당신은 땅 위에 있는 모든 개선물에 대해 100% 소유권을 가집니다. 이 개선물은 세금 대상이 아닙니다. 이것이 바로 조지즘이 땅이 '공동 소유'라고 해도 사람들이 밤중에 당신의 집에 무단으로 들어갈 권리가 없다는 이유입니다. 당신의 집은 여전히 사적 재산이지만, 그 집이 서 있는 땅의 가치는 공동 재산입니다.
 
-만약 제가 아름다운 나무를 심고, 침식을 방지하기 위해 조경에 투자한다면요? '개량물'과 '지대'의 경계는 어디에 있을까요? 대부분의 경우, 토지의 가치와 그 위에 있는 것의 가치를 분리하여 평가하는 것은 비교적 간단합니다(현대적인 재산세 평가관들은 이미 이를 수행하고 있습니다](https://web.archive.org/web/20201215230813/https://www.investopedia.com/articles/tax/09/calculate-property-tax.asp)), 하지만 조지(George)는 시간이 지나면서 일부 개선물이 토지 가치에 흡수될 수 있다는 점을 인정하며, 이는 허용된다고 설명합니다:
+만약 제가 아름다운 나무를 심고, 침식을 방지하기 위해 조경에 투자한다면요? '개량물'과 '지대'의 경계는 어디에 있을까요? 대부분의 경우, 토지의 가치와 그 위에 있는 것의 가치를 분리하여 평가하는 것은 비교적 간단합니다[현대적인 재산세 평가관들은 이미 이를 수행하고 있습니다](https://web.archive.org/web/20201215230813/https://www.investopedia.com/articles/tax/09/calculate-property-tax.asp)), 하지만 조지(George)는 시간이 지나면서 일부 개선물이 토지 가치에 흡수될 수 있다는 점을 인정하며, 이는 허용된다고 설명합니다:
 
 > 하지만 이렇게 말할 것입니다: 시간이 지나면 토지와 구분할 수 없게 되는 개선물이 있습니다! 좋습니다; 그러면 개선물의 소유권은 토지의 소유권과 혼합됩니다; 개인의 권리는 공동의 권리에 흡수됩니다. 큰 것이 작은 것을 삼키는 것이지, 작은 것이 큰 것을 삼키는 것이 아닙니다.
 
@@ -952,7 +952,7 @@ Ms. Nguyen은 훨씬 잘 관리된 유닛에 더 높은 '임대료'를 받습니
 
 현대 경제학자들도 조지의 아이디어에 대해 흥미로운 의견을 제시합니다. 1977년 조셉 스티글리츠는 토지 임대료가 공공재 투자 가치와 거의 완벽하게 일치하는 경향이 있음을 입증했습니다. 그는 이를 [헨리 조지 정리](https://web.archive.org/web/20201226155417/https://link.springer.com/chapter/10.1007%2F978-1-349-02917-4_12)라고 명명했습니다. 밀턴 프리드먼은 토지 가치 세금을 “가장 나쁜 것 중 가장 나은” 세금이라고 유명하게 불렀습니다.
 
-하지만 제 인생에서 가장 좋아하는 지지 발언 중 하나는 경제학자 라민 쇼크리자데가 우연히 토지 가치 세금을 기본 원리에서 재도출해 [EVE Online의 경기 침체를 성공적으로 해결하기 위해] 사용한 경우입니다.(https://www.gamasutra.com/blogs/RaminShokrizade/20130405/189984/How_I_Used_EVE_Online_to_Predict_the_Great_Recession.php).
+하지만 제 인생에서 가장 좋아하는 지지 발언 중 하나는 경제학자 라민 쇼크리자데가 우연히 토지 가치 세금을 기본 원리에서 재도출해 [EVE Online의 경기 침체를 성공적으로 해결하기 위해](https://www.gamasutra.com/blogs/RaminShokrizade/20130405/189984/How_I_Used_EVE_Online_to_Predict_the_Great_Recession.php) 사용한 경우입니다..
 
 * * *
 
@@ -970,9 +970,9 @@ Ms. Nguyen은 훨씬 잘 관리된 유닛에 더 높은 '임대료'를 받습니
 
 또는 아파트 건물을 구매해 세입자들이 참을 수 있는 최소한의 관리만 하고, 도시가 성장함에 따라 임대료를 계속 인상하면 슬럼화가 발생합니다.
 
-BlueRepublik은 _[No, Georgism is Still Sane](https://bluerepublik.wordpress.com/2020/04/28/no-georgism-is-still-sane/):_에서 다음과 같이 지적합니다:
+BlueRepublik은 *[No, Georgism is Still Sane](https://bluerepublik.wordpress.com/2020/04/28/no-georgism-is-still-sane/):* 에서 다음과 같이 지적합니다:
 
-> 뉴욕 시의 상업적 쇠퇴를 보면 ([http://www.vacantnewyork.com/](http://www.vacantnewyork.com/)) 90% 이상은 소규모 기업에 임대하지 않고 더 큰 은행이나 대기업이 더 높은 임대료를 지불할 때까지 기다리는 임대주들 때문입니다. 이는 인근 기업의 재산 가치를 떨어뜨리고, 자산 가치를 감소시키며, 기업들이 도시 중심부에서 이주하게 되어 도시 확산과 도시 쇠퇴를 가속화합니다. 이는 개인 재산에 대한 엄청난 유출이며, 빈곤과 범죄율 상승과 매우 밀접하게 연관되어 있습니다. 또한 안정적인 사회 구조를 유지하는 데 좋은 모델도 아닙니다.
+> 뉴욕 시의 상업적 쇠퇴를 보면 ( [https://www.vacantnewyork.com](https://www.vacantnewyork.com/) ) 90% 이상은 소규모 기업에 임대하지 않고 더 큰 은행이나 대기업이 더 높은 임대료를 지불할 때까지 기다리는 임대주들 때문입니다. 이는 인근 기업의 재산 가치를 떨어뜨리고, 자산 가치를 감소시키며, 기업들이 도시 중심부에서 이주하게 되어 도시 확산과 도시 쇠퇴를 가속화합니다. 이는 개인 재산에 대한 엄청난 유출이며, 빈곤과 범죄율 상승과 매우 밀접하게 연관되어 있습니다. 또한 안정적인 사회 구조를 유지하는 데 좋은 모델도 아닙니다.
 
 퍼포먼스 예술의 일환으로, 조지주의자 페이 루이스는 한 번 유명하게 빈 땅을 사서 그 위에 큰 표지판을 세워 이 원칙을 실천으로 보여줬습니다:
 
