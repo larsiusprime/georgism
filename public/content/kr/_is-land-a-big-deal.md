@@ -39,18 +39,17 @@ _특별한 감사를 드립니다: Count Bla와 Alexandra Elbakyan_
 
 ## 목차
 
-- [소개](#introduction)
-- [간단한 요약](#a-brief-recap)
-- [토지는 정말 중요한 문제인가?](#is-land-a-really-big-deal)
-- [1. 도시 부동산의 가치 대부분은 토지입니다](#1-most-of-the-value-of-urban-real-estate-is-land) 
-- [2. 미국의 토지 임대료는 정부 지출의 상당 부분을 차지합니다](#2-americas-land-rents-equal-a-sizable-of-government-spending)
- 
-- [토지 임대료 vs. 예산](#land-rents-vs-budgets)
-- [토지 임대료로 얼마나 많은 돈을 모을 수 있을까요?](#how-much-money-can-we-raise-from-land-rents)
-- [ATCOR와 헨리 조지 이론](#atcor-and-the-henry-george-theorem)
-- [3. 토지는 주요 은행 대출의 상당 부분을 차지합니다](#3-land-represents-a-significant-of-all-major-bank-loans)
-- [4. 토지는 개인 총자산의 상당 부분을 차지합니다](#4-land-represents-a-significant-of-all-gross-personal-assets)
-- [5. 토지 소유권은 부유층에 극도로 집중되어 있습니다](#5-land-ownership-is-highly-concentrated-among-the-wealthy)
+- [소개](#introduction)  
+- [간단한 요약](#a-brief-recap)  
+- [토지는 정말 중요한 문제인가?](#is-land-a-really-big-deal)  
+- [1. 도시 부동산의 가치 대부분은 토지입니다](#1-most-of-the-value-of-urban-real-estate-is-land)  
+- [2. 미국의 토지 임대료는 정부 지출의 상당 부분을 차지합니다](#2-americas-land-rents-equal-a-sizable-of-government-spending)  
+  - [토지 임대료 vs. 예산](#land-rents-vs-budgets)  
+  - [토지 임대료로 얼마나 많은 돈을 모을 수 있을까요?](#how-much-money-can-we-raise-from-land-rents)  
+  - [ATCOR와 헨리 조지 이론](#atcor-and-the-henry-george-theorem)  
+- [3. 토지는 주요 은행 대출의 상당 부분을 차지합니다](#3-land-represents-a-significant-of-all-major-bank-loans)  
+- [4. 토지는 개인 총자산의 상당 부분을 차지합니다](#4-land-represents-a-significant-of-all-gross-personal-assets)  
+- [5. 토지 소유권은 부유층에 극도로 집중되어 있습니다](#5-land-ownership-is-highly-concentrated-among-the-wealthy)  
  
 
 <span id="a-brief-recap"></span>
