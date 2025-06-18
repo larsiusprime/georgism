@@ -130,13 +130,13 @@ LVT는 _재산세_와 혼동해서는 안 됩니다. 재산세는 토지와 개�
 
 미국 최대 100개 메트로 지역의 토지 가격 지도를 미국 기업 연구소(American Enterprise Institute)에서 제공했습니다. 가장 가치 있는 부동산은 해안 도시 지역에 집중되어 있음을 확인할 수 있습니다.
 
-![](images/aei_land_price.png)
+![](../images/aei_land_price.png)
 
 출처: [미국 기업 연구소](https://www.aei.org/housing/land-price-indicators/) ([방법론](https://www.aei.org/wp-content/uploads/2021/05/AEI-adjusted-Land-Price-and-Land-Share-Indicators-Methodology.pdf?x91208'))
 
 다음은 동일한 지도이지만 '토지 비중'을 나타낸 것입니다. 토지 비중은 부동산 가치 중 토지 자체에 기인하는 비율을 의미합니다. 사막에 움막을 지으면 부동산 가치의 거의 100%가 움막에서 비롯됩니다. 왜냐하면 토지는 가치가 없기 때문입니다. 하지만 샌프란시스코에 움막을 지으면 부동산 가치의 거의 전부가 토지에서 비롯됩니다. 해안선을 따라 대도시로 갈수록 토지 점유율이 100%에 가까워지는 것을 확인할 수 있습니다.
 
-![](images/aei_land_share.png)
+![](../images/aei_land_share.png)
 
 이는 대규모 인구 중심지나 경제 활동과 상업이 활발한 지역 근처에서 토지에 대한 수요가 증가하기 때문입니다. 토지의 가치 상승은 특정 개인 때문이 아니라, 해당 지역을 개발하는 데 기여한 전체 커뮤니티의 공동 노력 때문입니다. 이는 종종 [집적 효과](https://en.wikipedia.org/wiki/Economies_of_agglomeration)라고 불립니다.
 
@@ -153,11 +153,11 @@ LVT는 _재산세_와 혼동해서는 안 됩니다. 재산세는 토지와 개�
 
 샌프란시스코 중심부에 위치한 빈 부지 매물 목록입니다(개인 정보 삭제). $1.99백만 달러를 요구하고 있으며, 해당 지역 다른 매물과 판매 기록을 고려할 때 이 가격에 팔릴 가능성이 높습니다.
 
-![](images/san_fran_lot.png) 
+![](../images/san_fran_lot.png) 
 
 바로 옆에 위치한 타운하우스는 지난해 판매되었으며, 거의 동일한 크기의 부지에 위치해 있습니다. “Redfin Estimate”는 무시하고, 하단에 표시된 “이 주택의 마지막 판매 가격”인 약 $2.4백만 달러만 참고합니다.
 
-![](images/san_fran_townhome.png) 
+![](../images/san_fran_townhome.png) 
 
 이 정보만으로도 현장 점검에 충분합니다. 먼저 면적을 조정합니다. 두 번째 부동산의 부지 면적은 빈 부지의 88% 크기이므로, 빈 부지 가치($1.99M)에 88%를 곱해 $1.75M을 구합니다. 이제 차이를 계산합니다: $2.32M - $1.75M = $568K, 건물의 추정 가치입니다. 이는 총 부동산 가치의 24%가 건물에서, 76%가 토지에서 비롯된다는 것을 의미합니다. 이는 단순 계산이지만, AEI가 2020년 샌프란시스코 카운티의 평균 토지 비중으로 제시한 70.9%와 일치합니다.
 
@@ -193,7 +193,7 @@ LVT는 _재산세_와 혼동해서는 안 됩니다. 재산세는 토지와 개�
 
 다음은 12가지 다른 추정 방법을 바탕으로 한 미국 전체 토지의 총 판매 가치 변화를 시간별로 나타낸 그래프입니다. 자료 출처는 [린컨 연구소](https://web.archive.org/web/20171121002821/http://datatoolkits.lincolninst.edu/subcenters/land-values), [Larson (2015)](https://www.bea.gov/system/files/papers/WP2015-3.pdf), [Albouy, Ehrlich, and Shin (2018)](https://web.archive.org/web/20191217113256/http://davidalbouy.net/landvalue_index.pdf), [미국 기업 연구소](https://www.aei.org/housing/land-price-indicators//), [PLACES Lab](https://placeslab.org/fmv_usa/), [연방준비제도](https://web.archive.org/web/20131211071139/http://www.federalreserve.gov/releases/z1/Current/z1.pdf)를 통해 [매트 이글레시아스](https://slate.com/business/2013/12/value-of-all-land-in-the-united-states.html), [Larson (2019/2020)](https://www.fhfa.gov/PolicyProgramsResearch/Research/PaperDocuments/wp1901-1028.pdf), 그리고 Jeffrey Johnson Smith의 2020년 저서 _[Counting Bounty: The Quest to Know the Worth of the Earth](https://bookshop.org/books/counting-bounty-the-quest-to-know-the-worth-of-earth/9781634242981)._
 
-![](images/usa_land_value_1.png)
+![](../images/usa_land_value_1.png)
 
 폴드바리, 스미스, 티데만, 가프니, 코드의 데이터 포인트는 모두 _Counting Bounty_에서 비롯됩니다. 스미스는 자신의 추산치인 $44조 달러를 제시하며, 니콜라우스 티데만이 개인적 서신으로 보낸 $31조 달러 추산치를 언급합니다.
 
@@ -211,11 +211,11 @@ Smith는 Fred Foldvary가 토지 임대료가 국가 소득의 약 1/3에 해당
 
 Dwyer의 네 번째 표에서 최근 10년간의 데이터를 보면, 토지 임대료가 호주 전체 세금 수입의 70~75%에 달할 수 있음을 보여줍니다.
 
-![](images/australia_land_1.png) 
+![](../images/australia_land_1.png) 
 
 호주의 토지 소득을 호주 기업 및 개인 소득세로 수집된 세금 수입과 비교하면, 이를 완전히 대체하고 여전히 잉여를 창출할 수 있을 만큼 충분합니다.
 
-![](images/australia_land_2.png)
+![](../images/australia_land_2.png)
 
 Dwyer의 방법은 타당해 보입니다. 이는 호주의 상세한 토지 및 재산 가치 기록을 호주의 공개된 예산 자료에 직접 적용한 것입니다. Dwyer는 특히 '토지 가치 세금의 동적 효과'에서 발생하는 잠재적 수익을 고려하지 않았습니다. 이는 그의 수치를 더 높일 뿐입니다. 호주에게는 좋은 소식이지만, 적어도 Dwyer와 그의 데이터 출처를 믿는다면 말이죠.
 
@@ -223,14 +223,14 @@ Dwyer의 방법은 타당해 보입니다. 이는 호주의 상세한 토지 및
 
 이 수치는 Foldvary의 “1/3” 추정치와는 상당히 차이가 있지만, Steven Cord의 추정치와 유사합니다. Cord는 토지 임대료를 [국가 소득의 약 24%](https://cooperative-individualism.org/barron-ian_steven-cord-challenges-economists-on-the-lack-of-land-value-data-1988-sep-oct.pdf)로 추정했습니다. 스미스의 방법을 적용하면 약 $47조 달러가 됩니다. 폴드바리가 자신의 출처(드와이어)와 모순되기 때문에, 현재는 그의 선을 제외하고 코드용 새로운 선을 구축해야 하며, 폴드바리가 의도한 것을 더 잘 반영하기 위해 미국 GNI의 21%를 사용한 “드워어-미국” 선도 작성해야 합니다. 만약 호주 패턴이 미국에도 적용될 수 있다고 가정한다면, 새로운 차트는 다음과 같이 보일 것입니다:
 
-![](images/usa_land_value_2.png)
+![](../images/usa_land_value_2.png)
  
 
 Cord와 Dwyer-USA 선은 단순히 GNI를 단순하게 추적하기 때문에 2005-2008년 주택 버블을 일부 가리지만, 상한선을 제공해줍니다. 이제 세 개의 선이 나타나고 있습니다. 이는 방법론의 차이를 반영할 수 있을까요?
 
 네.
 
-![](images/usa_land_value_3.png)
+![](../images/usa_land_value_3.png)
 
 제3부에서는 토지 가치를 정확히 평가하는 방법을 자세히 살펴보겠지만, 현재는 여기에서 사용된 추정 방법 간의 주요 차이를 살펴보겠습니다.
 
@@ -249,7 +249,7 @@ Larson(2019)은 이 방법을 사용했으며, AEI의 수치는 이 결과에 �
 
 라슨은 자신과 의견이 다릅니다. 이 불일치를 강조하기 위해 다른 줄을 대부분 회색으로 표시하겠습니다.
 
-![](images/usa_land_value_4.png)
+![](../images/usa_land_value_4.png)
 
 라슨(2015)은 라슨 혼자 작성했으며, [쿠미노프와 포프(2013)](https://doi.org/10.3368/le.89.1.1)에서 설명된 것과 유사한 ‘헤도닉 회귀’ 접근법을 사용했습니다.. 이 방법에서는 부동산의 모든 특성을 기록한 후 컴퓨터 모델을 사용하여 각 요인이 최종 시장 가치에 미치는 개별 기여도를 추출합니다. 이 논문의 데이터는 다양한 출처에서 수집되었으며, 빈 땅 판매, 개발된 부동산 판매, 감정 평가의 공식 통계 등이 포함됩니다.
 
@@ -264,7 +264,7 @@ Larson(2019)은 이 방법을 사용했으며, AEI의 수치는 이 결과에 �
 
 아니면 있을까요?
 
-![](images/albouy_appendix.png) 
+![](../images/albouy_appendix.png) 
 
 이 놀라운 수치는 "[온라인 부록](https://mitp.silverchair-cdn.com/mitp/content_public/journal/rest/100/3/10.1162_rest_a_00710/2/rest_a_00710-esupp.pdf?Expires=1640585859&Signature=gnRHP4gjxtsswGVrzQOb98gdycV2TnrrU0Yn5u4C2v7anb7GB-QGQLL7ULbfdAqPDBawButRVxu4PeN35kWbJz5He1I66v02mATLL-MZ6YpoyVWizynxpUq4~I8wfF~yCEaIK5fsVgTOg45xemzQLXWpI311M2I5NBCyz~A2mWV0s8hI71wURagJ-aksPe0F-Wv~xbTZaN2yAAPNbsJxQ4sf8nZl2~1tjLN~h9keA6MU4d70v~gk~7GL9B3dnnfBpLggb1oU3JLZMd5IT1zzG56gVrV-tbZRiXqh05mI8GbixZOYyGVVLXWTP-zVhlEjyPZj9ziDBaN7AYsxEE4GKA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)" 알부이의 논문에 인용된 내용으로, 본 논문의 각주에서 간략히 언급되었습니다. 도시 지역에서 순수 토지 판매가 외곽 지역보다 더 많다는 것입니다. 제가 확인할 수 있는 한, Albouy는 순수 토지 판매 데이터만을 사용해 통계 모델을 구축했으며, 구조물이 있는 토지 판매는 모두 제외했습니다. 그럼에도 불구하고 그의 데이터 포인트는 주요 도시 중심지에 가장 밀집되어 분포되어 있습니다. 이는 이 접근 방식이 정반대의 결과를 초래할 것으로 예상했기 때문입니다.
 
@@ -293,13 +293,13 @@ Smith와 Hudson의 비판 및 제 자신의 데이터 분석에 따르면, 답�
 
 하지만 방정식의 다른 요소인 부동산의 전체 시장 가치(토지 + 건물)는 어떻게 될까요? 연방준비제도(Federal Reserve)가 이 수치를 평가 가치에 기반해 산정한다면, 그 수치가 너무 낮다는 근거가 있습니다. 첫째, 미국 주와 캐나다 주 중 연간 재산 가치를 재평가하는 곳은 소수에 불과합니다[https://www.iaao.org/wcm/Resources_Content/PTAPP.aspx].
 
-![](images/ptapp_reassessment.png)
+![](../images/ptapp_reassessment.png)
 
 출처: [2017 PTAPP 조사](https://www.iaao.org/wcm/Resources_Content/PTAPP.aspx) 국제 평가관 협회
 
 둘째, 재산세 평가에는 공식 통계를 낮추는 다양한 면제 및 예외 조항이 존재합니다. 캘리포니아의 [Proposition 13](https://en.wikipedia.org/wiki/1978_California_Proposition_13)의 유산을 잠시 제쳐두고, 맨해튼의 이 부동산과 같은 사례의 판매 기록과 세금 기록을 비교해 보겠습니다:
 
-![](images/manhattan_wtf.png)
+![](../images/manhattan_wtf.png)
 
 평가 가치가 명백한 시장 가치의 10% 미만
 
@@ -321,13 +321,13 @@ Smith는 Albouy가 마지막으로 제시한 수치를 현재 시점으로 외�
 
 우리는 그의 계산을 빠르게 확인할 수 있습니다. 스미스에서 나온 것이 아닌 지난 10년간의 모든 수치는 매우 유사한 성장률을 보이며, 연방준비제도(Federal Reserve)의 수치는 평균적으로 연간 약 $1.4조씩 안정적으로 증가했습니다. 따라서 알부이의 추정을 동일한 성장률로 외삽해 보겠습니다:
 
-![](images/usa_land_value_5.png) 
+![](../images/usa_land_value_5.png) 
 
 흥미롭게도 이 결과는 티데만(Tideman)의 추정치보다 약간 높지만 스미스의 최종 가치보다 약 $11조 부족합니다. 미국 농무부(USDA)는 2020년 농지 평균 가치를 [$3,160 / 에이커](https://www.nass.usda.gov/Publications/Todays_Reports/reports/land0820.pdf)입니다. 이 값을 [896.6백만 에이커](https://www.statista.com/statistics/196104/total-area-of-land-in-farms-in-the-us-since-2000/)를 곱하면 $2.8조 달러가 됩니다. 스미스는 2015년 연방 정부의 토지와 광물 매장지 가치를 [$5.5조 달러](https://www.fff.org/explore-freedom/article/there-is-no-social-security-santa-claus/)로 추산한 리처드 에벨링을 인용합니다.. 스미스는 이 가치를 2020년으로 추산하기 위해 외삽법을 적용해 $6.6조 달러로 추정했습니다.
 
 알부이의 외삽선 위에 $2.8T + $6.6T를 추가하면 다음과 같습니다:
 
-![](images/usa_land_value_6.png)
+![](../images/usa_land_value_6.png)
 
 이 결과는 스미스의 추산치와 상당히 근접합니다. USDA의 수치는 신뢰할 수 있습니다. 대부분의 농경지는 구조물이 없으며 순수한 땅이기 때문입니다. USDA는 시장 거래를 관찰함으로써 땅의 가치를 평가할 수 있습니다. Ebeling의 경우, 그가 방법론을 제공하지 않기 때문에 그의 말을 믿어야 합니다. Ebeling은 연방 땅을 모두 매각해 세금 납부자에게 보상하자는 극단적인 자유주의자입니다(Smith가 그의 추정을 조지즘을 옹호하는 데 사용한 것을 보면 그가 어떻게 생각할지 궁금합니다!). 하지만 어쨌든, 모든 것을 받아들인다면 스미스의 $44T 추산치에 상당히 가까워집니다. 이 추산치는 스미스의 10:1 비율을 적용해 토지 임대료를 토지 판매 가치로 환산했을 때, 드와이어가 호주에서 관찰한 토지 임대료가 국민소득의 21%라는 비율과도 가깝습니다.
 
@@ -348,7 +348,7 @@ Smith는 Albouy가 마지막으로 제시한 수치를 현재 시점으로 외�
 
 연방준비제도(Federal Reserve)와 스미스(Smith)의 데이터를 적용하면 미국 연간 토지 임대료(조 달러)는 다음과 같습니다:
 
-![](images/land_value_table.png)
+![](../images/land_value_table.png)
 
 좋습니다. 모든 수치를 계산한 끝에 LVT가 얼마나 많은 자금을 조달할 수 있는지 보여주는 표를 드디어 얻었습니다. 낙관적인 수치조차 동적 효과를 반영하지 않으며, 광물권, 수자원권 등 '경제적 토지'의 다른 모든 출처를 반드시 반영하지 않습니다. 또한, 제한적인 구역 지정 조례가 폐지될 경우 토지 가치가 얼마나 상승할지에 대한 추산도 적용되지 않았습니다.
 
@@ -361,11 +361,11 @@ Smith는 Albouy가 마지막으로 제시한 수치를 현재 시점으로 외�
 
 미국 연간 토지 임대료는 연방 지출의 18%-40% (연방 정부)와 34-78% (스미스)를 충당할 수 있습니다. 낮은 수치는 2020년으로, 코로나19로 인해 연방 지출이 크게 증가한 예외적인 해입니다.
 
-![](images/land_rent_vs_federal_spending.png)
+![](../images/land_rent_vs_federal_spending.png)
 
 이 금액을 맥락에 맞게 설명하자면, [2019년 연방 예산](https://www.cbo.gov/publication/56324)에서 총 지출은 $4.4조 달러였습니다. 국방에 $676억(15%), 사회보장(Social Security)에 $1조(23%), 메디케어 + 메디케이드(Medicare + Medicaid)에 $1.05조(24%)를 지출했습니다. 이제 연간 토지 임대 가치에 대한 네 가지 개별 추정치와 비교해 보겠습니다:
 
-![](images/2019_federal_vs_2019_land_rent.png)
+![](../images/2019_federal_vs_2019_land_rent.png)
  
 
 가장 낮은 추산치인 연방준비제도(Federal Reserve)의 5% 자본수익률(cap rate)을 적용한 방법만으로도 국방, 사회보장, 메디케어 + 메디케이드 중 어느 하나를 단독으로 충당할 수 있습니다. 만약 스미스(Smith)의 8% 자본수익률 추산치를 믿는다면, 이 세 가지를 모두 충당하고도 나머지 지출의 3분의 1을 충당할 수 있는 금액이 남습니다.
@@ -376,28 +376,28 @@ Smith는 Albouy가 마지막으로 제시한 수치를 현재 시점으로 외�
 
 흥미로운 사실: 모든 억만장자의 재산을 몰수하는 것은 미국 연방 땅과 광물 매장지를 모두 매각하는 것보다 약간 적은 금액을 마련할 수 있습니다(Ebeling의 추산). 따라서 자유주의자의 취향(연방 땅 매각)이나 좌파의 취향(부자 세금 인상) 중 어느 쪽을 선택하더라도, 2020년 예산 규모로 한 해 지출을 충당하는 데는 최대 한 해 분에 불과합니다.
 
-하지만 기다보세요, [주 예산](https://higherlogicdownload.s3.amazonaws.com/NASBO/9d2d2db1-c943-4f1b-b750-0fca152d64c2/UploadedImages/SER%20Archive/2021_State_Expenditure_Report_S.pdf)? 많은 주들은 재산세로 자금을 조달하기 때문에, 토지 가치 세금으로 전환하려면 주들도 고려해야 합니다. 따라서 주 예산을 계산에 포함시키겠습니다(연방 정부의 주 지원금은 제외하여 중복 계산을 방지합니다). 이를 적용하면 연방 정부 지출은 18-30%, (Smith)로 감소합니다.
+하지만 기다보세요, [주 예산](https://higherlogicdownload.s3.amazonaws.com/NASBO/9d2d2db1-c943-4f1b-b750-0fca152d64c2/Uploaded../images/SER%20Archive/2021_State_Expenditure_Report_S.pdf)? 많은 주들은 재산세로 자금을 조달하기 때문에, 토지 가치 세금으로 전환하려면 주들도 고려해야 합니다. 따라서 주 예산을 계산에 포함시키겠습니다(연방 정부의 주 지원금은 제외하여 중복 계산을 방지합니다). 이를 적용하면 연방 정부 지출은 18-30%, (Smith)로 감소합니다.
 
-![](images/land_rent_vs_federal_state_spending.png)
+![](../images/land_rent_vs_federal_state_spending.png)
  
 
 모든 주 예산의 순 지출(50개 주 정부의 모든 지출에서 주에 대한 연방 자금을 제외)만을 살펴보면, 토지 임대료로 67~121% (연방) 또는 142-230% (Smith)를 충당할 수 있으며, 이는 특히 대도시를 가진 주들이 LVT만으로 자체 재정을 쉽게 충당할 수 있음을 의미합니다.
 
-![](images/land_rent_vs_net_state_spending.png)
+![](../images/land_rent_vs_net_state_spending.png)
 
 하지만 다른 방식으로 살펴보겠습니다. 연방 정부는 1998년 한 번을 제외하고는 균형 예산을 편성하지 않았습니다(https://www.fool.com/investing/general/2013/09/30/was-americas-budget-really-balanced-in-the-90s.aspx) 이후로 균형 예산을 달성하지 못했기 때문에, LVT를 현 상태와 비교할 때 총 연간 지출이 아닌 총 연간 세수(tax receipts)와 비교하는 것이 적절합니다. 이 기준에 따르면, 미국의 모든 토지 임대료는 연방 정부의 경우 30-56%, (Smith)의 추산에 따르면 60-103% (Smith)에 달할 수 있습니다.
 
-![](images/land_rent_vs_federal_receipts.png)
+![](../images/land_rent_vs_federal_receipts.png)
  
 
 주 세금 수입을 추가하면 19-36%(연방)와 41-68% (Smith)에 달할 수 있습니다. 주 세금 수입에 대한 정확한 자료는 찾지 못했지만, 대부분의 주는 균형 예산을 운영해야 하기 때문에 위의 주 예산 지출 금액이 수입과 동일하다고 가정했습니다. 적자 예산을 운영하는 몇몇 주에서 더 정확한 수치를 얻을 수 있다면, 이는 해당 주들의 세금 수입 추정치를 줄이는 데만 기여할 것이며, 이는 여기서 제시된 비율을 높일 수 있습니다.
 
-![](images/land_rent_vs_federal_state_receipts.png)
+![](../images/land_rent_vs_federal_state_receipts.png)
  
 
 마지막으로 [지방 정부](https://state-local-finance-data.taxpolicycenter.org/pages.cfm)는 어떻게 될까요? 현재 대부분의 재산세는 이미 이곳으로 흘러가고 있으며(판매세나 복권세 같은 역진적 세금도 포함됩니다). 모든 지방 정부의 세금을 추가로 반영하고 연간 토지 임대료와 비교하면, 연방 정부 수입의 14-26% 또는 스미스 추산 29-49%로 감소합니다. 이 계산에는 이미 주 및 지방 재산세 부담이 반영된 재산 가치가 포함되지 않았다는 점을 유의해야 합니다. 이를 반영하면 이 수치는 크게 증가할 것입니다.
 
-![](images/land_rent_vs_federal_state_local_receipts.png)
+![](../images/land_rent_vs_federal_state_local_receipts.png)
 
 어떤 방식으로 계산하더라도, 연방, 주, 지방 세금 수입의 14-26%라는 가장 낮은 추산치는 엄청난 금액입니다. 특히 이 금액이 매년 반복되며 연방 예산의 단일 대규모 항목을 모두 커버할 수 있다는 점을 고려하면 더욱 그렇습니다. 스미스의 토지 임대료가 모든 정부 수준 세수 합계 대비 29~49%라는 수치는 상식 밖입니다.
 
@@ -474,17 +474,17 @@ ATCOR, 헨리 조지 이론, 순수 공공재 지출이 아닌 지출에 대한 
 
 최근에는 사람들이 부동산을 구매하기 위해 돈을 빌려주는 데 사용된다고 _[The Great Mortgaging: Housing Finance, Crises, and Business Cycles](https://www.nber.org/system/files/working_papers/w20501/w20501.pdf)_에서 Jordà, Schularick, Taylor가 설명하고 있습니다. 이 차트는 1928년, 1970년, 2007년의 세 시점에서 전 세계 주요 국가들의 은행 대출 중 부동산에 할당된 비율을 보여줍니다.
 
-![](images/real_estate_bank_lending.png)
+![](../images/real_estate_bank_lending.png)
 
 다음은 모든 국가를 통합해 1800년대 후반까지 시간 경과에 따라 그래프로 표시한 또 다른 시각화입니다.
 
-![](images/real_estate_bank_lending_graph.png)
+![](../images/real_estate_bank_lending_graph.png)
 
 위에서 볼 수 있듯이, 이는 진정한 세계적 현상이며 1950년경부터 지속적인 상승 추세를 보여왔습니다. 현재 부동산 대출 비중은 헨리 조지의 시대에 비해 거의 두 배로 증가했습니다.
 
 다른 출처를 참고하여 이 통계의 일부를 확인해 보겠습니다. [Positive Money](https://positivemoney.org/2018/06/how-has-bank-lending-fared-since-the-crisis/)는 영국 내 산업별 대출을 세분화한 그래프를 제공합니다. 이 데이터의 출처는 영국 중앙은행(Bank of England)입니다.
 
-![](images/uk_lending.png)
+![](../images/uk_lending.png)
 
 출처: _표 C1.2 영국 중앙은행 통계 자료 via [Positive Money](https://positivemoney.org/2018/06/how-has-bank-lending-fared-since-the-crisis/)_
 
@@ -492,11 +492,11 @@ ATCOR, 헨리 조지 이론, 순수 공공재 지출이 아닌 지출에 대한 
 
 다른 곳에서 쉽게 확인할 수 있는 자료가 있을까요? 뉴질랜드(The Great Mortgaging에 포함되지 않은 국가)에는 이 [정말 멋진 대시보드](https://bankdashboard.rbnz.govt.nz/asset-quality)가 있습니다. 이 대시보드에서는 해당 국가의 모든 은행 대출을 세부적으로 구분해 보여줍니다. 보시다시피, 대출의 대부분은 주택 대출입니다.
 
-![](images/nz_lending.png)
+![](../images/nz_lending.png)
 
 같은 데이터를 시각화한 또 다른 자료입니다.
 
-![](images/nz_lending_2.png)
+![](../images/nz_lending_2.png)
 
 출처: [Interest.co.nz](https://www.interest.co.nz/banking/112371/nz-banks-housing-lending-continues-rising-percentage-their-overall-lending-business)
 
@@ -518,7 +518,7 @@ Rognlie(2015)의 인용은 특히 자세히 살펴볼 가치가 있습니다. Ro
 
 로그니는 [논문](https://www.brookings.edu/bpea-articles/deciphering-the-fall-and-rise-in-the-net-capital-share/)에서 피케티가 자본 자산의 감가상각을 적절히 처리하지 않았다고 지적했습니다. 이를 고려하면, 불평등을 주도하는 '자본'의 과도한 수익은 거의 전적으로 주택에 기인한다는 것을 발견할 수 있습니다.
 
-![](images/rognlie.png)
+![](../images/rognlie.png)
 
 주택의 구매 불가능성은 불평등의 단순한 증상이 아니라 오히려 그 핵심 원인 중 하나입니다. 은행들은 경제 전체의 그림자 지주로서 이 구매 불가능성에 기여하고 있습니다.
 
@@ -527,23 +527,23 @@ Rognlie(2015)의 인용은 특히 자세히 살펴볼 가치가 있습니다. Ro
 
 이 책 리뷰에서 기억할 수 있는 두 개의 그래프입니다. 첫 번째 그래프는 스페인에서 개인 총자산의 약 40%가 토지로 구성되어 있음을 보여줍니다. 약 25-30%는 결국 실물 자산(토지와 자본)의 조합으로 현금화되어야 하는 “금융 자산”이므로, 토지에 기인한 실제 비율은 40%보다 높을 가능성이 있습니다.
 
-![](images/spain_assets.png)
+![](../images/spain_assets.png)
 
 출처: [스페인의 부, 1900-2014](https://web.archive.org/web/20180821115745/http://wid.world/wp-content/uploads/2018/02/WID.WP_ABM_WEALTHSPAIN_2018.pdf) Blanco, Bauluz, & Martínes-Toledano
 
 두 번째 차트는 영국 실물 자산의 약 절반이 토지에 기인함을 보여줍니다.
 
-![](images/uk_assets.png)
+![](../images/uk_assets.png)
 
 영국 국가 회계 자료: The Blue Book 2017을 기반으로 합니다. 2017년 10월 31일 발행. 개정 기간: 각 시계열의 시작 시점. 다음 발표일: 2018년 7월. “토지 및 특권”에 포함된 “특권”은 택시 면허증이나 특허권과 같은 것으로, 차트를 작성한 네이트 블레어에 따르면 그 가치는 “거의 제로”라고 합니다.
 
 다음은 토마스 피케티가 영국과 프랑스의 “국가 자본”을 부문별로 분석한 두 개의 그래프입니다.
 
-![](images/uk_national_capital.png) 
+![](../images/uk_national_capital.png) 
 
 출처: 토마스 피케티의 《21세기 자본》
 
-![](images/france_national_capital.png)
+![](../images/france_national_capital.png)
 
 출처: 토마스 피케티의 《21세기 자본》
 
@@ -551,7 +551,7 @@ Rognlie(2015)의 인용은 특히 자세히 살펴볼 가치가 있습니다. Ro
 
 미국은 어떨까요? [Tideman & co의 대규모 보고서](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960235)에서 가져온 데이터입니다. 이 데이터는 OECD 자료를 바탕으로 미국 가계 자산 중 “비생산적 자산”(인간이 창조하지 않은 토지, 자연 자원 등)의 비중을 그래프로 나타냈습니다. 조지스트들은 이를 “토지”라고 부릅니다.
 
-![](images/us_households.png)
+![](../images/us_households.png)
 
 그림에서 볼 수 있듯이 약 40% 수준을 유지하고 있습니다.
 
@@ -559,7 +559,7 @@ Rognlie(2015)의 인용은 특히 자세히 살펴볼 가치가 있습니다. Ro
 
 세계 다른 지역은 어떨까요? [맥킨지 보고서](https://archive.md/DRUiI)에 따르면, 부동산 보유량은 전 세계 실물 자산의 2/3를 차지하며, 이 중 절반 이상이 토지에서 비롯됩니다.
 
-![](images/mckinsey_land.png) 
+![](../images/mckinsey_land.png) 
 
 전통적인 토지로 인한 35%와 “생산되지 않은” 자산(광물 및 에너지 매장량 등을 포함)으로 인한 4%를 합치면, 조지스트 정의에 따른 토지의 비중이 전 세계 실물 자산의 39%를 차지합니다. 지적재산권(IP)을 “경제적 토지”로 포함하면 이 비율은 43%로 상승합니다.
 
@@ -575,11 +575,11 @@ Rognlie(2015)의 인용은 특히 자세히 살펴볼 가치가 있습니다. Ro
 
 2020년 미국 토지 임대료의 가장 비관적인 추산치인 $1.2조 달러(연방준비제도(Fed)의 5% 자본화율 방법)를 사용해 보겠습니다. 이 금액을 18세 이상 미국 시민 약 2억 900만 명에게 나누면, $23만 달러 미만의 부동산을 소유한 사람은 손익분기점을 넘거나 이익을 볼 것입니다.
 
-![](images/table_dividend_1.png)
+![](../images/table_dividend_1.png)
 
 이 단순한 표는 몇 가지 가정을 포함합니다. 토지 지분을 50%로 고정하고 자본화율을 5%로 설정했습니다. 하지만 모든 시민이 배당금을 받는다는 점을 기억하세요. 따라서 가구당 성인 2명이 있다면 부동산 가치 $500K 미만에서 손익분기점을 넘게 됩니다.
 
-![](images/table_dividend_2.png)
+![](../images/table_dividend_2.png)
  
 
 이것은 중산층을 파산시키는 처방이 아닙니다. 오히려 미국을 살기 좋은 곳으로 만드는 데 기여한 모든 사람에게 보상하는 것입니다. 이 보상은 주로 가장 가치 있는 위치와 자연 자원을 통제하는 사람들이 부담합니다. 이러한 자원은 누구의 노력이나 투자로도 창출되지 않은 것입니다.
@@ -593,13 +593,13 @@ Rognlie(2015)의 인용은 특히 자세히 살펴볼 가치가 있습니다. Ro
 
 그렇다면 전체 부동산 가치의 몇 %가 상위 1%, 상위 10%, 상위 50%가 소유하고 있을까요? 연방준비제도(Federal Reserve)에 따르면 상당히 많은 비율입니다.
 
-![](images/fred_real_estate.png)
+![](../images/fred_real_estate.png)
 
 즉, 미국 전체 부동산 가치 중 상위 1%가 14.7%를 소유하고 있으며, 상위 10%가 44.8%를 소유하고 있으며, 상위 50%가 88.5%를 소유하고 있습니다.
 
 이 수치를 총 자산과 비교해 보면 다음과 같습니다.
 
-![](images/fred_total_assets.png)
+![](../images/fred_total_assets.png)
 
 미국 전체 자산 가치 중 상위 1%가 29%를 소유하고 있으며, 상위 10%가 65%를, 상위 50%가 94.7%를 소유하고 있습니다.
 
@@ -607,29 +607,29 @@ Rognlie(2015)의 인용은 특히 자세히 살펴볼 가치가 있습니다. Ro
 
 하지만 상위 1%가 진짜로 이익을 보는 곳은 금융 자산입니다.
 
-![](images/fred_financial_assets.png)
+![](../images/fred_financial_assets.png)
 
 사기업 소유권도 빼놓을 수 없습니다.
 
-![](images/fred_noncorporate_business.png) 
+![](../images/fred_noncorporate_business.png) 
 
 다시 한 번, 금융 자산의 가치를 풀어내는 문제는 이 조사 범위를 넘어섭니다. 합리적인 세상에서는 주식과 채권 같은 대부분의 금융 상품의 '본질적 가치'는 전통적인 자본과 노동으로 귀결되어야 하지만, 우리는 이미 세계의 종이 부의 대부분이 [일반인들의 모기지 위에 걸린 복잡한 주술]에 불과하다는 것을 경험한 위기를 겪었습니다.(https://www.finra.org/investors/learn-to-invest/types-investments/bonds/types-of-bonds/mortgage-backed-securities#:~:text=Mortgage-backed%20securities,%20called%20MBS,million%20worth%20of%20such%20mortgages.). 은행 대출 중 부동산에 연동된 규모를 고려할 때, 우리는 이미 그 방향으로 돌아가고 있습니다.
 
 연방준비제도(Fed) 외의 다른 자료는 어떨까요? [The Economist](https://www.economist.com/briefing/2015/04/04/the-paradox-of-soil)는 유사한 계층별 데이터를 제공하며, [제가 들은 바에 따르면](https://www.reddit.com/r/georgism/comments/pryhtf/land_value_ownership_inequality_stats/hdqf9m7/?context=3)는 결국 [여기](https://eml.berkeley.edu/~saez/SaezZucman2015.pdf)에서 나온 것입니다.
 
-![](images/economist_housing_wealth.png)
+![](../images/economist_housing_wealth.png)
 
 부유층은 국가의 토지 가치의 대부분을 소유하고 있으며, 실제로 그 대부분을 소유하고 있습니다. 또한 [주택은 세계 최대의 자산 클래스입니다](https://www.economist.com/special-report/2020/01/16/how-housing-became-the-worlds-biggest-asset-class).
 
 가장 우려스러운 점은 세대 간 격차입니다. 각 세대의 주택 소유율은 이전 세대보다 낮습니다.
 
-![](images/homeownership.png)
+![](../images/homeownership.png)
 
 밀레니얼 세대는 더 젊으니까 당연히 주택 소유율이 낮겠죠. 나중에 따라잡을 수도 있겠죠?
 
 증거는 그렇지 않다고 말합니다.
 
-![](images/homeownership_decline.png) 
+![](../images/homeownership_decline.png) 
 
 토지 소유는 단순히 부유층에 집중되어 있는 것이 아니라, 부유하고 나이 많은 계층에 집중되어 있습니다. [부유하고 나이 많은 사람들의 기대수명이 증가하고 있습니다](https://www.nber.org/papers/w27509), 이는 상속과 재산세 납부 시점을 가장 필요한 시점보다 늦추고 있습니다. 반면 다음 세대의 구성원들은 여전히 자신의 삶을 안정시키거나 가정을 꾸리려고 노력하고 있습니다.
 

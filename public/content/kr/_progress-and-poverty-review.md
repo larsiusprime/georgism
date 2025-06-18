@@ -17,7 +17,7 @@
 
 헨리 조지는 보편적 기본 소득을 대중화한 초기 운동을 주도한 인물로 알려져 있으며, 멋진 수염을 기르며 “임대료가 너무 높다!”라고 외친 것으로 유명합니다. 그리고 [인기 보드 게임](https://web.archive.org/web/20210111131436/https://landlordsgame.info/)을 영감으로 삼아 만들어진 게임이 부끄럼 없이 표절되어 몬폴리로 재포장되었습니다.
 
-하지만 그는 단순히 책을 쓴 것만이 아닙니다. 그는 1886년 뉴욕 시장 선거에 출마했으며(https://web.archive.org/web/20200926024934/https://www.city-journal.org/html/1886-men-who-would-be-mayor-12622.html)에 출마해 무명의 공화당 후보인 '테오도어 루즈벨트'를 꺾었지만, 결국 탐머니 홀의 선호 후보에게 패배했습니다. 탐머니 홀은 조지의 급진적인 경제 정책이 그들의 잘 짜인 정치 기계에 위협이 될 것이라고 보았기 때문입니다(안드루 양은 주목해야 할 점입니다)그는 1897년에 다시 출마했지만 선거 4일 전에 사망해 전국적인 애도 물결이 일었습니다. 랄프 가브리엘의 《미국 민주주의 사상사》에 따르면, 뉴욕 alone에서 그의 시신을 보기 위해 20만 명이 모였으며, 그 중 절반은 입장할 수 없었습니다. 참고로, 그 한 무리의 인원은 당시 뉴욕 전체 인구의 약 10%에 해당했습니다(https://web.archive.org/web/20210217140046/http://demographia.com/db-nyuza1800.htm).
+하지만 그는 단순히 책을 쓴 것만이 아닙니다. [그는 1886년 뉴욕 시장 선거에 출마했으며](https://web.archive.org/web/20200926024934/https://www.city-journal.org/html/1886-men-who-would-be-mayor-12622.html)에 출마해 무명의 공화당 후보인 '테오도어 루즈벨트'를 꺾었지만, 결국 탐머니 홀의 선호 후보에게 패배했습니다. 탐머니 홀은 조지의 급진적인 경제 정책이 그들의 잘 짜인 정치 기계에 위협이 될 것이라고 보았기 때문입니다(안드루 양은 주목해야 할 점입니다)그는 1897년에 다시 출마했지만 선거 4일 전에 사망해 전국적인 애도 물결이 일었습니다. 랄프 가브리엘의 《미국 민주주의 사상사》에 따르면, 뉴욕 alone에서 그의 시신을 보기 위해 20만 명이 모였으며, 그 중 절반은 입장할 수 없었습니다. 참고로, [그 한 무리의 인원은 당시 뉴욕 전체 인구의 약 10%에 해당했습니다](https://web.archive.org/web/20210217140046/http://demographia.com/db-nyuza1800.htm).
 
 이 책 리뷰를 쓰는 이유는 세 가지입니다:
 
@@ -31,25 +31,25 @@
 
 ## 목차
 
-- [서론](#introduction)
-- [이 책의 구성](#the-book-as-a-book)
-- [제1권](#volume-i)
-- [0. 문제](#0-the-problem)
-- [제1장. 임금과 자본](#i-wages-and-capital)
-- [II. 인구와 생계](#ii-population-and-subsistence)
-- [III. 분배의 법칙](#iii-the-laws-of-distribution)
-- [IV. 물질적 진보가 부의 분배에 미치는 영향](#iv-effect-of-material-progress-upon-the-distribution-of-wealth)
-- [V. 문제의 해결](#v-the-problem-solved)
-- [제2권](#volume-ii)
-- [현재 제안된 해결책의 부족점](#insufficiencies-of-remedies-currently-advocated)
-- [해결책](#the-remedy)
-- [추가 독서](#further-reading)
-- [조지즘에 대하여](#on-georgism)
-- [분배주의에 대하여](#on-distributism-a-close-cousin-to-georgism)
-- [부록](#appendices)
-- [부록 A: 조지 던크스의 말투스주의에 대한 논평](#appendix-a-george-dunks-on-malthusianism)
-- [부록 B: 조지 던크스의 전통적 분배 법칙에 대한 논평](#appendix-b-george-dunks-on-the-conventional-laws-of-distribution)
-- [부록 C: 현재 제안된 해결책의 부족함](#appendix-c-the-insufficiency-of-remedies-currently-advocated)
+- [서론](#introduction)  
+- [이 책의 구성](#the-book-as-a-book)  
+- [제1권](#volume-i)  
+  - [0. 문제](#0-the-problem)  
+  - [1. 임금과 자본](#i-wages-and-capital)  
+  - [2. 인구와 생계](#ii-population-and-subsistence)  
+  - [3. 분배의 법칙](#iii-the-laws-of-distribution)  
+  - [4. 물질적 진보가 부의 분배에 미치는 영향](#iv-effect-of-material-progress-upon-the-distribution-of-wealth)  
+  - [5. 문제의 해결](#v-the-problem-solved)  
+- [제2권](#volume-ii)  
+  - [현재 제안된 해결책의 부족점](#insufficiencies-of-remedies-currently-advocated)  
+  - [해결책](#the-remedy)  
+- [추가 독서](#further-reading)  
+  - [조지즘에 대하여](#on-georgism)  
+  - [분배주의에 대하여](#on-distributism-a-close-cousin-to-georgism)  
+- [부록](#appendices)  
+  - [부록 A: 조지 던크스의 말투스주의에 대한 논평](#appendix-a-george-dunks-on-malthusianism)  
+  - [부록 B: 조지 던크스의 전통적 분배 법칙에 대한 논평](#appendix-b-george-dunks-on-the-conventional-laws-of-distribution)  
+  - [부록 C: 현재 제안된 해결책의 부족함](#appendix-c-the-insufficiency-of-remedies-currently-advocated)  
 
 
 <span id="the-book-as-a-book"></span>
@@ -104,7 +104,7 @@
 
 아래는 그래프([출처](https://web.archive.org/web/20210216220345/https://www.nber.org/research/business-cycle-dating))는 1870년대까지 거슬러 올라가는 경기 순환의 붐-버스트 사이클을 보여줍니다. 분명히, 조지 시대의 경기 침체는 오늘날보다 훨씬 더 빈번하고 심각했습니다. 1800년대 후반에는 수많은 파장과 위기가 연이어 발생해 일부 역사학자들은 장기 불황을 1873년부터 1896년까지 23년간 지속된 것으로 계산합니다!
 
-![](images/book_review_recessions.png)
+![](../images/book_review_recessions.png)
 
 1930년대 대공황 이후 경기 침체의 기간과 빈도가 급감했습니다. 현재도 여전히 존재하며(현재 우리가 겪고 있는 것은 대공황 이후 가장 심각한 경기 침체입니다), 하지만 2021년에 사는 것이 1879년에 사는 것보다 나을 것입니다.
 
@@ -112,31 +112,31 @@
 
 스티븐 핑커의 《계몽의 시대》에 수록된 1인당 GDP 그래프를 보면 많은 면에서 상황이 개선되고 있는 것처럼 보입니다:
 
-![](images/book_review_gdp.png)
+![](../images/book_review_gdp.png)
 
 그리고 말하자면, [극빈층은 전 세계적으로 감소하고 있습니다](https://ourworldindata.org/extreme-poverty):
 
-![](images/book_review_extreme_poverty.png)
+![](../images/book_review_extreme_poverty.png)
 
 하지만 이 것이 전체적인 그림일 수는 없습니다. 그렇다면 빈곤과 불평등에 대해 불평하는 사람이 없을 테니까요.
 
 여기 - 이 그래프([출처](https://web.archive.org/web/20210112150023/https://howmuch.net/articles/price-changes-in-usa-in-past-20-years))는 미국에서 소비재 가격이 하락함에 따라 의료비, 고등 교육, 보육 등 비용이 급격히 상승했다는 것을 보여줍니다. 이 내용은 [Cost Disease에 대한 고찰](https://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/) 기사에서 자세히 분석되었습니다.
 
-![](images/book_review_consumer_prices.png)
+![](../images/book_review_consumer_prices.png)
 
 불평등은 어떨까요? 미국에서는 대공황 이후로 볼 수 없던 수준으로 역전된 것으로 보이며, 심지어 1978년 가장 낮은 수준이었을 때조차 상위 0.1% (상위 1%조차 아닌!)가 부의 극히 불균형한 부분을 차지했습니다. ([출처](https://web.archive.org/web/20210202081558/http://gabriel-zucman.eu/files/SaezZucman2016QJE.pdf)):
 
-![](images/book_review_wealth_inequality.png)
+![](../images/book_review_wealth_inequality.png)
 
 그리고 당연히, 임대료는 너무나도 높습니다:
 
 ([출처](https://web.archive.org/web/20210216184021/https://www.apartmentlist.com/research/rent-growth-since-1960)):
 
-![](images/book_review_rent_graph.png)
+![](../images/book_review_rent_graph.png)
 
 ([출처](https://web.archive.org/web/20210208185441/https://observationsandnotes.blogspot.com/2011/06/us-housing-prices-since-1900.html)):
 
-![](images/book_review_housing_prices.png)
+![](../images/book_review_housing_prices.png)
 
 2021년은 절대적 물질적 조건에서 1879년보다 나아 보이지만, 조지의 불만은 여전히 유효합니다: 의료와 고등 교육은 점점 더 부담스러워지고 있으며, 불평등은 과거 어느 때와 마찬가지로 심각하며, 임대료는 너무나도 높습니다.
 
@@ -224,7 +224,7 @@
 
 이제 디지털 상품은 어떨까요? 비트코인과 같은 것을 잠시 제쳐두고, 디지털 이미지 파일을 고려해 보겠습니다:
 
-![](images/isthiswealth.png)
+![](../images/isthiswealth.png)
 
 이것은 **재산**입니다.
 
@@ -292,9 +292,9 @@
 
 토지는 모든 부의 궁극적인 원천이지만, 인간 노동과 욕망이 그로부터 끌어내는 부와 완전히 분리된 '생성기'로 생각하는 것이 가장 유용합니다. _Magic: the Gathering_과 _Settlers of Catan_을 플레이한 사람들은 이 구분을 이미 잘 이해하고 있을 것입니다:
 
-![](images/land_mtg.png)
+![](../images/land_mtg.png)
 
-![](images/land_catan.png)
+![](../images/land_catan.png)
 
 현대 사회에서 조지는 전자기 스펙트럼과 위성용 궤도 공간에 농지나 지상 부동산과 동일한 ‘땅’ 지위를 부여했을 것입니다. 태양광에 이 지위를 부여할지 추측할 필요도 없습니다. 그는 태양광 에너지를 직접 예측했기 때문입니다:
 
@@ -406,7 +406,7 @@
 
 조지의 일부 아이디어는 현대 독자들에게는 그렇게 급진적으로 보이지 않을 수도 있습니다(특히 자본주의나 신고전주의 경제학에 비판적인 독자들에게는), 하지만 그가 말한 대부분의 내용은 당시에는 극히 급진적이고 충격적인 것으로 여겨졌습니다. 자본은 경제의 근본적인 동력으로 간주되었고, 노동은 자본에 완전히 의존했으며, 말투스의 인구 과잉 이론은 임금이 낮고 노동자들이 굶주리는 이유에 대한 통용되는 설명이었습니다.
 
-![](images/puck_demon_george.png)
+![](../images/puck_demon_george.png)
 
 정치 풍자 만화에서 헨리 조지를 악마화한 장면 – Puck 잡지 1886년 10월 20일
 
@@ -562,11 +562,11 @@ Or as G.K. Chesterton said, “Too much capitalism does not mean too many capita
 
 제가 토지 A를 소유하고 있다고 가정해 보겠습니다. 토지 B가 누구나 자유롭게 사용할 수 있다면, 저는 토지 A에서 일하는 대가로 당신에게 임대료를 요구할 수 없습니다. 왜 1 유틸의 임대료를 지불하겠습니까? 토지 B에서 일하면 100 유틸을 벌고 모두 가져갈 수 있는데요?
 
-![](images/ricardos_law_of_rent_1.png)
+![](../images/ricardos_law_of_rent_1.png)
 
 하지만 제가 Lot B를 구매하면, 이제 100 유틸의 땅에 접근하려면 저에게 지불해야 합니다. 얼마나 청구할 수 있을까요? Lot C에서 무료로 작업할 수 있고 10 유틸을 얻을 수 있으니까요. 따라서 가장 많이 청구할 수 있는 금액은 90 유틸(100 - 90 = 10)입니다.
 
-![](images/ricardos_law_of_rent_2.png)
+![](../images/ricardos_law_of_rent_2.png)
 
 이것이 바로 임대법입니다 – **임대료는** “**생산 마진**” (즉, “경작 마진”)에 의해 결정됩니다 – 특정 토지(Lot A 또는 B)에서 생산할 수 있는 양과 가장 생산성이 낮은 대안(Lot C)과의 차이입니다.
 
@@ -578,7 +578,7 @@ Or as G.K. Chesterton said, “Too much capitalism does not mean too many capita
 
 일반적인 상상에서는 '자본가'와 '노동자'를 대립시키는 경향이 있지만, 많은 '자본가'는 땅 소유주입니다. 왜냐하면 조지주의적 틀을 제외하면 땅은 일반적으로 자본의 한 형태로 간주되기 때문입니다. 조지는 땅 소유주가 노동과 자본 모두를 억압한다고 주장합니다. 노동의 노력과 투자의 공정한 몫을 빼앗는 것입니다.
 
-![](images/landlord_fight.jpg)
+![](../images/landlord_fight.jpg)
 
 출처: 이 이미지의 저자를 찾을 수 없으며, 가장 가까운 출처는 [이 블로그](https://henrygeorgedevon.wordpress.com/2014/02/02/the-left-and-an-anti-rentier-agenda/)입니다.
 
@@ -586,13 +586,13 @@ Or as G.K. Chesterton said, “Too much capitalism does not mean too many capita
 
 여기 이 차트를 살펴보세요 ([출처](https://web.archive.org/web/20200519142916/https://wid.world/news-article/new-paper-long-run-accumulation-wealth-spain-1900-2014-wid-world-working-paper-2018-5/)):
 
-![](images/assets_spain.png)
+![](../images/assets_spain.png)
 
 이 차트는 [토마스 피케티](https://twitter.com/PikettyLeMonde/status/963093728150933505)의 트윗에서 발견한 것으로, 스페인에서 지난 100년 이상의 개인 자산 분배를 보여줍니다. 개인 자산의 대부분은 토지 소유에서 비롯됩니다. 이 차트에는 '금융 자산'이 포함되어 있지만, 이는 결국 실제 자산(예: 토지나 부)을 기반으로 하는 채권에 불과합니다. 이러한 금융 자산을 제외하면, 토지가 전체 가치에서 차지하는 실제 비율은 이 그래프가 처음 암시하는 것보다 훨씬 높습니다.
 
 이 현상은 스페인에만 국한된 것이 아닙니다. 네이트 블레어가 영국을 대상으로 금융 상품을 모두 제외하고 실물 자산만 분석한 그래프입니다:
 
-![](images/assets_uk.png)
+![](../images/assets_uk.png)
 
 영국 국가 회계 자료인 《The Blue Book 2017》을 기반으로 합니다. 2017년 10월 31일 발행. 개정 기간: 각 시계열의 시작 시점. 다음 발표일: 2018년 7월. “토지와 특권” 항목의 “특권”은 택시 면허증이나 특허권 등 Nate에 따르면 “거의 0”으로 평가된 항목들을 의미합니다.
 
@@ -608,7 +608,7 @@ Or as G.K. Chesterton said, “Too much capitalism does not mean too many capita
 다시 Lot A와 Lot B로 돌아가 보겠습니다. 두 필지 모두 100 유틸의 생산성을 가진 땅입니다. 이 땅들은 서로 다른 지주에게 속해 있으며, 저는 Lot B의 임차인입니다. 제가 작업하는 땅의 토양을 개선해 이제 110 유틸의 가치를 갖게 되었습니다. 그럼 어떻게 될까요?
 제 지주는 당연히 임대료를 인상합니다!
 
-![](images/ricardos_law_of_rent_3.png)
+![](../images/ricardos_law_of_rent_3.png)
 
 생산성이 증가할 때 임금(노동의 수익)과 이자(자본의 수익)가 동시에 증가할 수 있는 유일한 방법은 토지 가치가 동일한 속도로 상승하지 않을 때입니다.
 
@@ -719,7 +719,7 @@ Or as G.K. Chesterton said, “Too much capitalism does not mean too many capita
 
 사람들이 어떤 것이 가치가 상승할 것이라는 것을 _알고_ 있을 때 어떤 일이 발생할까요?
 
-![](images/hodl_mtg.png)
+![](../images/hodl_mtg.png)
 
 맞습니다. 그들은 투기 열풍에 휩쓸려 그것을 사들여 영원히 보유하며 가격을 더욱 상승시킵니다. 전통적인 투기 도구인 [비니 베이비](https://web.archive.org/web/20210214110406/https://slate.com/technology/2015/02/beanie-babies-bubble-economics-and-psychology-of-a-plush-toy-investment-craze.html)나 [튤립](https://web.archive.org/web/20210216123829/https://www.investopedia.com/terms/d/dutch_tulip_bulb_market_bubble.asp), 버블은 결국 터집니다. 하지만 토지는 이 악순환이 거의 무한히 계속될 수 있는 독특한 특성을 가지고 있습니다.
 
@@ -731,7 +731,7 @@ Or as G.K. Chesterton said, “Too much capitalism does not mean too many capita
 
 > 투자자들이 실제로 극대화하는 것은 위험 조정 수익률입니다. 임대료가 상승할 것이라는 것을 알면, 가장 좋은 수익은 보유한 땅을 개선하는 것이 아니라 추가 땅을 사는 것에서 나옵니다.
 
-![](images/rate_of_return.png)
+![](../images/rate_of_return.png)
 
 일러스트레이션: geoliberal
 
@@ -847,7 +847,7 @@ Or as G.K. Chesterton said, “Too much capitalism does not mean too many capita
 
 저도 응우옌 씨를 좋아하지만, 옆 건물에 있는 아파트 단지를 소유한 슬럼로드 씨와 비교해 보세요. 그 건물은 표면상으로는 동일하지만, 여름에 에어컨이 고장났을 때 도움을 주지 않는 사람입니다.
 
-![](images/ms_nguyen.png)
+![](../images/ms_nguyen.png)
 
 Ms. Nguyen은 훨씬 잘 관리된 유닛에 더 높은 '임대료'를 받습니다. 그 '임대료'의 일부는 실제로 그녀가 관리하는 데 드는 노동에 대한 정당하게 보상받은 _임금_이며, 또한 그녀가 유닛의 지속적인 개선과 유지보수에 투자한 _자본_의 수익에서 발생하는 _이자_입니다. 그녀는 또한 진정한 조지아식 임대료를 상당 부분 받습니다. 왜냐하면 그녀는 결국 임대주이기 때문입니다.
 
@@ -870,7 +870,7 @@ Ms. Nguyen은 훨씬 잘 관리된 유닛에 더 높은 '임대료'를 받습니
 
 조지, 작은 녹색 집은 개선물입니다. 화려한 빨간 호텔도 개선물입니다. 차고, 보도, 공원, 스타벅스, 핫도그 판매대 모두 개선물입니다. 네덜란드에서 둑을 설치하고 해저에 쓰레기를 매립해 습지를 건조지로 바꾸는 것도 개선물입니다. 모든 개선물은 노동에서 비롯되며, 선택적으로 자본도 포함되므로, 이러한 요소가 그 대가를 받는 것은 공정합니다. 만약 제가 당신에게 제 핫도그 판매대를 “임대”한다면 (하지만 그 판매대가 위치한 땅은 _아니_라면), 제 수익은 조지의 프레임워크에서 이자로 분류될 것입니다. 왜냐하면 핫도그 판매대는 땅이 아니라 자본이기 때문입니다 – 제 노동의 축적된 결실로, 더 많은 부를 얻기 위해 사용하는 것입니다.
 
-![](images/improvements_vs_land.png)
+![](../images/improvements_vs_land.png)
 
 (출처: [https://www.flickr.com/photos/9731367@N02/6988181354/in/photolist-bDwfRq-bSr87x-QkCs2c-cvB5Dd-5AauFs-6sC1An-6H2XFG-2i7YxPR-iKTC2Q-9VxavH-eZmHq7-qhw3QS-5VUCha-2iQHBP3-2iWFjty-8p4miF-fJNDWe-cCNRHd-5VUCbT-5VUCjv-6KqdcF-pb33VZ-UDTXXN-a4MWP9-iUZh8o-fJNFje-mPqyQn-bQwKik-mPsa89-24hisqk-mPs6Jq-mPqvo2-fQ59KS-fK6ecC-3JKX1h-2LEWJW-9VzZf3-mPqwtD-mPqh7K-b385pi-5VYXA9-mPqs3z-az2VaR-mB8hbY-mPs5bL-bDwk63-jaQiXT-jaP52F-jaQzUT-jaPeu8), CC BY 2.0, 저자: [Philip Taylor](https://www.flickr.com/photos/9731367@N02/))
 
@@ -914,7 +914,7 @@ Ms. Nguyen은 훨씬 잘 관리된 유닛에 더 높은 '임대료'를 받습니
 
 예를 들어 이 차트를 살펴보세요:
 
-![](images/deadweight_loss.png)
+![](../images/deadweight_loss.png)
 
 ([source](https://commons.wikimedia.org/wiki/File:Deadweight-loss-price-ceiling.svg), CC BY-SA 2.5, 저자: [SilverStar](https://en.wikipedia.org/wiki/User:SilverStar))
 
@@ -922,7 +922,7 @@ Ms. Nguyen은 훨씬 잘 관리된 유닛에 더 높은 '임대료'를 받습니
 
 하지만 토지 가치 세금을 적용하면 공급 곡선이 _수직_입니다 – 이게 이상한데, 무슨 의미일까요?
 
-![](images/deadweight_loss_land.png)
+![](../images/deadweight_loss_land.png)
 
 ([source](https://en.wikipedia.org/wiki/File:Perfectly_inelastic_supply.svg), CC BY-SA 3.0, 저자: Explodicle)
 
@@ -962,7 +962,7 @@ Ms. Nguyen은 훨씬 잘 관리된 유닛에 더 높은 '임대료'를 받습니
 
 하지만... 사람들이 땅을 생산적으로 활용하지 않는다면, 결국 누군가가 그 땅을 사서 활용하도록 압력을 받을 것 아닌가요?
 
-![](images/george_yes.png)
+![](../images/george_yes.png)
 
 조지(George)는 이를 좋은 것으로 봅니다.
 
@@ -976,7 +976,7 @@ BlueRepublik은 _[No, Georgism is Still Sane](https://bluerepublik.wordpress.com
 
 퍼포먼스 예술의 일환으로, 조지주의자 페이 루이스는 한 번 유명하게 빈 땅을 사서 그 위에 큰 표지판을 세워 이 원칙을 실천으로 보여줬습니다:
 
-![](images/fay_lewis.jpg)
+![](../images/fay_lewis.jpg)
 
 하지만 너무 많은 건물을 짓는 것이 환경에 나쁘지 않나요? 이건 과도한 개발을 장려하지 않을까요?
 
@@ -984,11 +984,11 @@ BlueRepublik은 _[No, Georgism is Still Sane](https://bluerepublik.wordpress.com
 
 토지 가치 세금에 대한 더 강력한 반대 의견은 그 세금의 주된 부담을 지는 것이 사기꾼 투기꾼이나 학살적인 영국 지주ではなく, 예를 들어 이 사람 같은 경우입니다:
 
-![](images/carl.png)
+![](../images/carl.png)
 
 픽사 영화 《업》의 전제는, 사랑스러운 괴짜 노인 칼 프레드릭슨이 '진보™'라는 명목으로 개발자들이 그의 동네를 파괴하려는 것을 막는 마지막 저항자라는 것입니다. 그는 아내의 소중한 추억이 얽힌 집을 팔 수 없기 때문에 판매를 거부합니다.
 
-![](images/carls_house.png)
+![](../images/carls_house.png)
 
 이것은 단순히 감성적인 소설이 아닙니다. 이는 [실제로 일어나고 있는 일](https://www.goodthingsguy.com/people/house-inspired-disney/)입니다.
 
