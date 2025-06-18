@@ -23,15 +23,14 @@
 
 ## 목차
 
-- [소개](#introduction)
-- [1. 이론](#1-theory)
- 
-- [2. 실증 연구](#2-empirics)
-- [덴마크 논문](#the-danish-paper)
-- [기타 연구](#other-studies)
-- [지지](#supporting)
-- [혼합](#mixed)
-- [반대](#opposed)
+- [소개](#introduction)  
+- [1. 이론](#1-theory)  
+- [2. 실증 연구](#2-empirics)  
+  - [덴마크 논문](#the-danish-paper)  
+  - [기타 연구](#other-studies)  
+    - [지지](#supporting)  
+    - [혼합](#mixed)  
+    - [반대](#opposed)  
 
 ----
 
@@ -216,7 +215,7 @@ Wyatt의 주장을 이해하지만, 또 다른 왜곡처럼 느껴집니다. 에
 
 1994년에는 와이어트의 주장이 설득력 있게 느껴졌을 수도 있지만, 그의 출처 중 많은 부분이 그가 생각하는 대로 말하고 있지 않은 것 같습니다. 그의 주장을 지지하는 출처들은 대부분 오래된 비실증적 연구입니다.
 
-저는 방금 전 세계의 다양한 사례 연구에서 풍부한 실증적 증거를 제공하는 13편의 다른 논문을 읽었습니다. 이는 덴마크 연구로 절정에 이릅니다. 여기에 LVT를 지지하는 오랜 이론적 논쟁과, 밀턴 프리드먼(Milton Friedman)(https://www.youtube.com/watch?v=yS7Jb58hcsc), [프리드리히 하이에크](https://mises.org/es/library/man-economy-and-state-power-and-market/html/pp/1132), [마르크스 & 엥겔스](https://www.progress.org/articles/how-henry-george-might-have-corrected-the-marxian-communist-manifesto), 그리고 [폴 크루그먼](https://psmag.com/news/this-land-is-your-land-3392)과 같은 학자들은 직접적으로 LVT를 옹호하거나 이를 “가장 나쁜 것 중 가장 나은 세금”으로 공개적으로 인정했습니다.
+저는 방금 전 세계의 다양한 사례 연구에서 풍부한 실증적 증거를 제공하는 13편의 다른 논문을 읽었습니다. 이는 덴마크 연구로 절정에 이릅니다. 여기에 LVT를 지지하는 오랜 이론적 논쟁과, 밀턴 프리드먼[Milton Friedman](https://www.youtube.com/watch?v=yS7Jb58hcsc), [프리드리히 하이에크](https://mises.org/es/library/man-economy-and-state-power-and-market/html/pp/1132), [마르크스 & 엥겔스](https://www.progress.org/articles/how-henry-george-might-have-corrected-the-marxian-communist-manifesto), 그리고 [폴 크루그먼](https://psmag.com/news/this-land-is-your-land-3392)과 같은 학자들은 직접적으로 LVT를 옹호하거나 이를 “가장 나쁜 것 중 가장 나은 세금”으로 공개적으로 인정했습니다.
 
 이는 완전 자본화 가설에 대한 매우 강력한 증거이며, 이 가설의 자연스러운 귀결은 토지 소유주가 토지 가치 세금을 임차인에게 전가할 수 없다는 것입니다.
 
