@@ -2,10 +2,10 @@
 
 저자: [Lars A. Doucet](lars-a-doucet), 2021
 
-[Part 0 - 책 리뷰: 진보와 빈곤](progress-and-poverty-review)
-[Part I - 토지는 정말 중요한 문제인가?](is-land-a-big-deal)
-**제2부 - 토지 가치 세금은 임차인에게 전가될 수 있나요? 👈** (현재 위치) 
-[제3부 - 건물과 분리하여 미개량 토지 가치를 정확히 평가할 수 있나요?](can-land-be-accurately-assessed)
+[제0부 - 책 리뷰: 진보와 빈곤](progress-and-poverty-review)  
+[제1부 - 토지는 정말 중요한 문제인가?](is-land-a-big-deal)  
+**제2부 - 토지 가치 세금은 임차인에게 전가될 수 있나요? 👈** (현재 위치)  
+[제3부 - 건물과 분리하여 미개량 토지 가치를 정확히 평가할 수 있나요?](can-land-be-accurately-assessed)  
  
 
 ## 듣기

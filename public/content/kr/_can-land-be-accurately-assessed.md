@@ -2,10 +2,10 @@
 
 저자: [Lars A. Doucet](lars_a_doucet), 2021
 
-[Part 0 - 책 리뷰: 진보와 빈곤](progress-and-poverty-review) 
-[Part I - 토지는 정말 중요한 문제인가?](is-land-a-big-deal)
-[Part II - 토지 가치 세금이 임차인에게 전가될 수 있는가?](can-lvt-be-passed-on-to-tenants)
-**Part III - 개발되지 않은 토지 가치는 건물과 분리하여 정확히 평가될 수 있는가? 👈** (현재 위치)
+[제0부 - 책 리뷰: 진보와 빈곤](progress-and-poverty-review)  
+[제1부 - 토지는 정말 중요한 문제인가?](is-land-a-big-deal)  
+[제2부 - 토지 가치 세금이 임차인에게 전가될 수 있는가?](can-lvt-be-passed-on-to-tenants)  
+**제3부 - 개발되지 않은 토지 가치는 건물과 분리하여 정확히 평가될 수 있는가? 👈** (현재 위치)  
 
 ## 듣기
 <iframe src="https://www.listennotes.com/podcasts/astral-codex-ten/does-georgism-work-part-3-pbd3vSnEBKe/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>

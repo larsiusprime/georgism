@@ -2,11 +2,10 @@
 
 저자: [Lars A. Doucet](lars_a_doucet), 2021
 
-**Part 0 - 책 리뷰: 진보와 빈곤 👈** (현재 위치)
-[Part I  - 토지는 정말 중요한 문제인가?](is-land-a-big-deal)
- 
-[제2부 - 토지 가치 세금을 임차인에게 전가할 수 있을까?](can-lvt-be-passed-on-to-tenants)
-[제3부 - 건물과 분리하여 미개량 토지 가치를 정확히 평가할 수 있을까?](can-land-be-accurately-assessed)
+**제0부 - 책 리뷰: 진보와 빈곤 👈** (현재 위치)  
+[제1부  - 토지는 정말 중요한 문제인가?](is-land-a-big-deal)  
+[제2부 - 토지 가치 세금을 임차인에게 전가할 수 있을까?](can-lvt-be-passed-on-to-tenants)  
+[제3부 - 건물과 분리하여 미개량 토지 가치를 정확히 평가할 수 있을까?](can-land-be-accurately-assessed)  
 
 ## 듣기
 <iframe src="https://www.listennotes.com/podcasts/astral-codex-ten/your-book-review-progress-QFbzxZteIBS/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
