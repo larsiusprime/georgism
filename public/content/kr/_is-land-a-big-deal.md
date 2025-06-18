@@ -163,7 +163,7 @@ LVT는 _재산세_와 혼동해서는 안 됩니다. 재산세는 토지와 개�
 
 우리의 확인 결과는 연구 결과와 AEI의 데이터셋과 일치합니다. 도시 지역의 부동산이 비싼 이유는 토지 때문이며, 가장 가치 있는 토지는 도시 지역에 있습니다.
 
-믿지 못하신다면, 네바다주 게르라흐(https://web.archive.org/web/20210809032137/https://landequities.com/nevada/061-020-55)에 팔 수 있습니다. 하지만 걱정 마세요–가격은 $0.0054/제곱피트입니다. 반면 샌프란시스코의 빈 땅은 $865.21/제곱피트에 거래되고 있으며, 이는 159,000배 이상 비쌉니다.
+믿지 못하신다면, [네바다주 게르라흐](https://web.archive.org/web/20210809032137/https://landequities.com/nevada/061-020-55)에 팔 수 있습니다. 하지만 걱정 마세요–가격은 $0.0054/제곱피트입니다. 반면 샌프란시스코의 빈 땅은 $865.21/제곱피트에 거래되고 있으며, 이는 159,000배 이상 비쌉니다.
 
 다양한 토지(매매) 가치 추정 연구와 AEI와 같은 데이터베이스의 증거, 그리고 간단한 확인이 얼마나 쉬운지 고려할 때, 저는 확신합니다.
 
@@ -291,7 +291,7 @@ Smith와 Hudson의 비판 및 제 자신의 데이터 분석에 따르면, 답�
 
 요약하자면, 비용 접근법은 부동산의 전체 시장 가치에서 부풀려진 건물 가격을 빼는 방식으로 구조물을 과대평가하고 토지를 과소평가하기 때문에 결함이 있습니다.
 
-하지만 방정식의 다른 요소인 부동산의 전체 시장 가치(토지 + 건물)는 어떻게 될까요? 연방준비제도(Federal Reserve)가 이 수치를 평가 가치에 기반해 산정한다면, 그 수치가 너무 낮다는 근거가 있습니다. 첫째, 미국 주와 캐나다 주 중 연간 재산 가치를 재평가하는 곳은 소수에 불과합니다[https://www.iaao.org/wcm/Resources_Content/PTAPP.aspx].
+하지만 방정식의 다른 요소인 부동산의 전체 시장 가치(토지 + 건물)는 어떻게 될까요? 연방준비제도(Federal Reserve)가 이 수치를 평가 가치에 기반해 산정한다면, 그 수치가 너무 낮다는 근거가 있습니다. 첫째, 미국 주와 캐나다 주 중 [연간 재산 가치를 재평가하는](https://www.iaao.org/wcm/Resources_Content/PTAPP.aspx) 곳은 소수에 불과합니다.
 
 ![](../images/ptapp_reassessment.png)
 
@@ -385,7 +385,7 @@ Smith는 Albouy가 마지막으로 제시한 수치를 현재 시점으로 외�
 
 ![](../images/land_rent_vs_net_state_spending.png)
 
-하지만 다른 방식으로 살펴보겠습니다. 연방 정부는 1998년 한 번을 제외하고는 균형 예산을 편성하지 않았습니다(https://www.fool.com/investing/general/2013/09/30/was-americas-budget-really-balanced-in-the-90s.aspx) 이후로 균형 예산을 달성하지 못했기 때문에, LVT를 현 상태와 비교할 때 총 연간 지출이 아닌 총 연간 세수(tax receipts)와 비교하는 것이 적절합니다. 이 기준에 따르면, 미국의 모든 토지 임대료는 연방 정부의 경우 30-56%, (Smith)의 추산에 따르면 60-103% (Smith)에 달할 수 있습니다.
+하지만 다른 방식으로 살펴보겠습니다. 연방 정부는 [1998년 한 번을 제외하고는](https://www.fool.com/investing/general/2013/09/30/was-americas-budget-really-balanced-in-the-90s.aspx) 균형 예산을 편성하지 않았습니다 이후로 균형 예산을 달성하지 못했기 때문에, LVT를 현 상태와 비교할 때 총 연간 지출이 아닌 총 연간 세수(tax receipts)와 비교하는 것이 적절합니다. 이 기준에 따르면, 미국의 모든 토지 임대료는 연방 정부의 경우 30-56%, (Smith)의 추산에 따르면 60-103% (Smith)에 달할 수 있습니다.
 
 ![](../images/land_rent_vs_federal_receipts.png)
  
@@ -409,16 +409,16 @@ Smith는 Albouy가 마지막으로 제시한 수치를 현재 시점으로 외�
 
 [현대 통화 이론](https://www.investopedia.com/modern-monetary-theory-mmt-4588060)을 믿는다면 균형 예산을 운영하는 것에 신경 쓰지 않습니다. MMT에 따르면, 자체 화폐를 발행하는 주권 정부는 생산 능력과 물리적 자원에 의해만 제한되며, 이는 케인스의 유명한 명언 “우리가 할 수 있는 것은 무엇이든 감당할 수 있다”로 요약됩니다. 저는 개인적으로 이 견해를 옹호하거나 반대하지 않습니다–단지 MMT 진영에 있다면 이미 세금으로 모은 수입과 정부 지출을 100% 일치시키는 것에 신경 쓰지 않는다는 점을 지적하는 것입니다.
 
-하지만 MMT가 틀렸고, 동시에 연방준비제도(Fed)의 통계를 고수한다면 어떻게 될까요? 그럼 두 가지 선택지가 남습니다: 교조적인 단일세제론이 미국에서는 적어도 끝났다는 것을 인정하면서도 LVT를 균형 예산 정책의 일부로 받아들이거나, Dwyer의 호주 데이터가 의도적으로 제외시킨 “동적 효과”를 살펴보는 것입니다. 특히 [Mason Gaffney]와 가장 자주 연관되는 유혹적인 이론이 있습니다.(https://www.masongaffney.org/workpapers/WP096%202005%20The%20Physiocratic%20Concept%20of%20ATCOR.pdf)에서 [ATCOR](http://www.wealthandwant.com/themes/ATCOR.html)라고 불리는 이론입니다. “모든 세금은 임대료에서 나온다.”
+하지만 MMT가 틀렸고, 동시에 연방준비제도(Fed)의 통계를 고수한다면 어떻게 될까요? 그럼 두 가지 선택지가 남습니다: 교조적인 단일세제론이 미국에서는 적어도 끝났다는 것을 인정하면서도 LVT를 균형 예산 정책의 일부로 받아들이거나, Dwyer의 호주 데이터가 의도적으로 제외시킨 “동적 효과”를 살펴보는 것입니다. 특히 [Mason Gaffney](https://www.masongaffney.org/workpapers/WP096%202005%20The%20Physiocratic%20Concept%20of%20ATCOR.pdf) 와 가장 자주 연관되는 유혹적인 이론이 있습니다.에서 [ATCOR](http://www.wealthandwant.com/themes/ATCOR.html)라고 불리는 이론입니다. “모든 세금은 임대료에서 나온다.”
 
 <span id="atcor-and-the-henry-george-theorem"></span>
 ### ATCOR와 헨리 조지 이론
 
-ATCOR는 소득과 자본에 대한 세금을 줄이는 것–다른 정책 개입과 무관하게–이 실제로 토지 가치를 _상승_시키는 비율로 증가시킨다고 가정합니다. 이는 LVT 정책이 토지 가격을 하락시킬 것이라고 가정하는 조지주의자들이 주의해야 함을 의미합니다. 노동과 자본에 대한 세금을 폐지하지만, 토지에 대한 세금을 충분히 인상하지 않는다면, 토지 가격 (및 임대료)는 실제로 상승할 것입니다. 왜냐하면 해당 토지에서 일하는 사람이 더 많은 소득을 가져가게 되므로 더 많은 임대료를 지불할 수 있게 되기 때문입니다(리카르도의 임대법 참조: [https://www.youtube.com/watch?v=jiGKwi43R0Q]). 그러나 적절한 정책을 통해 이는 좋은 결과로 이어질 수 있습니다.
+ATCOR는 소득과 자본에 대한 세금을 줄이는 것–다른 정책 개입과 무관하게–이 실제로 토지 가치를 _상승_시키는 비율로 증가시킨다고 가정합니다. 이는 LVT 정책이 토지 가격을 하락시킬 것이라고 가정하는 조지주의자들이 주의해야 함을 의미합니다. 노동과 자본에 대한 세금을 폐지하지만, 토지에 대한 세금을 충분히 인상하지 않는다면, 토지 가격 (및 임대료)는 실제로 상승할 것입니다. 왜냐하면 해당 토지에서 일하는 사람이 더 많은 소득을 가져가게 되므로 더 많은 임대료를 지불할 수 있게 되기 때문입니다([리카르도의 임대법](https://www.youtube.com/watch?v=jiGKwi43R0Q) 참조). 그러나 적절한 정책을 통해 이는 좋은 결과로 이어질 수 있습니다.
 
 ATCOR가 진실이라면 단일 세금 정책은 항상 작동합니다. 자본세와 소득세를 폐지하면 잃은 세금 수입은 상승하는 토지 가치에 흡수되며, 이를 100% LVT로 회수할 수 있습니다. 이전과 동일한 세수를 확보하면서도 소득세와 자본세를 폐지함으로써 노동과 투자에 대한 부담을 줄이고, LVT는 주택 가격과 임대료를 안정시켜 경제를 활성화하고 생활 비용을 낮춥니다. 이 경제 활성화는 다시 토지 가치를 상승시키며, 이는 LVT를 통해 완전히 회수되어 토지 가치를 안정화시킵니다.
 
-헨리 조지 정리가 있습니다. 노벨상 수상자 조셉 스티글리츠는 1979년에 이를 발표했습니다(https://academiccommons.columbia.edu/doi/10.7916/D8JM2M80)에 발표되었으며, 특정 조건 하에서 공공재 지출이 토지 임대료에 의해 흡수되어 100% LVT가 모든 공공재 지출을 영구히 재정적으로 충당하기에 _필수적으로_ 충분하다는 내용을 담고 있습니다. 순수한 “공공재”는 “비배제성”과 “비경합성”을 갖춘 것입니다. 비배제성은 당신이 그것을 사용하는 것이 내가 사용하는 것을 방해하지 않는다는 의미이며, 비경합성은 일단 제공되면 누구도 그것을 사용하는 것을 막을 수 없다는 의미입니다. 대표적인 예로는 불꽃놀이, 국가 방어, 깨끗한 공기가 있습니다. HG 정리는 대중 교통과 같은 다른 형태의 공공 지출에는 적용되지 않습니다. 대중 교통은 일정程度上 배제 가능하고 경쟁적입니다. (대중 교통은 용량 한계가 있으며, 인종 차별적 [Jim Crow](https://en.wikipedia.org/wiki/Jim_Crow_laws) 법이 폐지되었다고 해도, 그런 법이 존재했다는 사실 자체가 배제 가능성을 증명합니다.)
+헨리 조지 정리가 있습니다. 노벨상 수상자 조셉 [스티글리츠는 1979년에 이를 발표했습니다](https://academiccommons.columbia.edu/doi/10.7916/D8JM2M80)에 발표되었으며, 특정 조건 하에서 공공재 지출이 토지 임대료에 의해 흡수되어 100% LVT가 모든 공공재 지출을 영구히 재정적으로 충당하기에 _필수적으로_ 충분하다는 내용을 담고 있습니다. 순수한 “공공재”는 “비배제성”과 “비경합성”을 갖춘 것입니다. 비배제성은 당신이 그것을 사용하는 것이 내가 사용하는 것을 방해하지 않는다는 의미이며, 비경합성은 일단 제공되면 누구도 그것을 사용하는 것을 막을 수 없다는 의미입니다. 대표적인 예로는 불꽃놀이, 국가 방어, 깨끗한 공기가 있습니다. HG 정리는 대중 교통과 같은 다른 형태의 공공 지출에는 적용되지 않습니다. 대중 교통은 일정程度上 배제 가능하고 경쟁적입니다. (대중 교통은 용량 한계가 있으며, 인종 차별적 [Jim Crow](https://en.wikipedia.org/wiki/Jim_Crow_laws) 법이 폐지되었다고 해도, 그런 법이 존재했다는 사실 자체가 배제 가능성을 증명합니다.)
 
 그러나 “순수 공공재”가 아닌 공공 지출이 토지 가치를 상승시킨다는 강력한 증거가 있습니다[토지 가치 상승](https://www.apta.com/wp-content/uploads/The-Real-Estate-Mantra-Locate-Near-Public-Transportation.pdf), 다만 그 정도는 다를 수 있습니다. 니콜라우스 티데만(Nicolaus Tideman)에게 문의한 결과, 순수 공공재가 아닌 경우에 적용되는 HG 정리의 변형이 존재하며, 이는 “토지 가치 상승과 한계 비용에 해당하는 요금의 조합이 이러한 지출을 자금 조달할 수 있다”고 주장합니다. 그러나 “사람들의 선호도가 다르거나 혜택이 거리와 함께 감소하지 않는 경우 두 정리는 적용되지 않는다”고 합니다. 저는 그가 대부분의 공공 사업은 생성하는 토지 가치 상승으로 완전히 자금 조달될 수 있으며, 소규모 사용료로 보완될 수 있다고 말하는 것 같습니다. 또한 그가 말하는 것은 공공 사업의 종류에 따라 다르다는 점입니다. 공공 자금을 정말로 흉한 예술 설치물에 지출한다면, 그
 
@@ -434,7 +434,7 @@ ATCOR, 헨리 조지 이론, 순수 공공재 지출이 아닌 지출에 대한 
 
 니콜라우스 티데만이 누구인지 궁금하신 분들을 위해, 그의 [위키피디아 페이지](https://en.wikipedia.org/wiki/Nicolaus_Tideman)에서 간단한 소개를 첨부합니다:
 
-> 티데만은 1969년부터 1973년까지 [하버드 대학교](https://en.wikipedia.org/wiki/Harvard_University) 경제학 부교수로 재직했으며, 이 기간 중 1970년부터 1971년까지 대통령 경제자문회의(https://en.wikipedia.org/wiki/Council_of_Economic_Advisors)의 선임 경제학자로 근무했습니다. 1973년부터 버지니아 테크에 재직 중이며, 하버드 대학교의 [케네디 정부 학교](https://en.wikipedia.org/wiki/Kennedy_School_of_Government) (1979-1980), 버밍엄 대학교(https://en.wikipedia.org/wiki/University_of_Buckingham) (1985-1986), 그리고 미국 경제 연구소(https://en.wikipedia.org/wiki/American_Institute_for_Economic_Research) (1999-2000)에서 방문 연구원으로 활동했습니다.
+> 티데만은 1969년부터 1973년까지 [하버드 대학교](https://en.wikipedia.org/wiki/Harvard_University) 경제학 부교수로 재직했으며, 이 기간 중 1970년부터 1971년까지 [대통령 경제자문회의](https://en.wikipedia.org/wiki/Council_of_Economic_Advisors)의 선임 경제학자로 근무했습니다. 1973년부터 버지니아 테크에 재직 중이며, 하버드 대학교의 [케네디 정부 학교](https://en.wikipedia.org/wiki/Kennedy_School_of_Government) (1979-1980), [버밍엄 대학교](https://en.wikipedia.org/wiki/University_of_Buckingham) (1985-1986), 그리고 [미국 경제 연구소](https://en.wikipedia.org/wiki/American_Institute_for_Economic_Research) (1999-2000)에서 방문 연구원으로 활동했습니다.
 
 * * *
 
@@ -589,7 +589,7 @@ Rognlie(2015)의 인용은 특히 자세히 살펴볼 가치가 있습니다. Ro
 <span id="5-land-ownership-is-highly-concentrated-among-the-wealthy"></span>
 ## 5. 토지 소유는 부유층에 극도로 집중되어 있습니다
 
-세계 4위 부자인 빌 게이츠는 미국 전역에 걸쳐 242,000에이커의 농지를 소유하고 있어 [미국 최대의 사설 농지 소유주](https://www.forbes.com/sites/arielshapiro/2021/01/14/americas-biggest-owner-of-farmland-is-now-bill-gates-bezos-turner/). 하지만 이는 농지뿐입니다. 미국 전체 토지(https://landreport.com/americas-100-largest-landowners/)를 기준으로 하면 게이츠는 49위에 불과합니다. 제프 베조스는 25위, 테드 터너는 4위입니다. 부자들은 많은 땅을 소유하고 있습니다.
+세계 4위 부자인 빌 게이츠는 미국 전역에 걸쳐 242,000에이커의 농지를 소유하고 있어 [미국 최대의 사설 농지 소유주](https://www.forbes.com/sites/arielshapiro/2021/01/14/americas-biggest-owner-of-farmland-is-now-bill-gates-bezos-turner/). 하지만 이는 농지뿐입니다. [미국 전체 토지](https://landreport.com/americas-100-largest-landowners/)를 기준으로 하면 게이츠는 49위에 불과합니다. 제프 베조스는 25위, 테드 터너는 4위입니다. 부자들은 많은 땅을 소유하고 있습니다.
 
 그렇다면 전체 부동산 가치의 몇 %가 상위 1%, 상위 10%, 상위 50%가 소유하고 있을까요? 연방준비제도(Federal Reserve)에 따르면 상당히 많은 비율입니다.
 
@@ -613,7 +613,7 @@ Rognlie(2015)의 인용은 특히 자세히 살펴볼 가치가 있습니다. Ro
 
 ![](../images/fred_noncorporate_business.png) 
 
-다시 한 번, 금융 자산의 가치를 풀어내는 문제는 이 조사 범위를 넘어섭니다. 합리적인 세상에서는 주식과 채권 같은 대부분의 금융 상품의 '본질적 가치'는 전통적인 자본과 노동으로 귀결되어야 하지만, 우리는 이미 세계의 종이 부의 대부분이 [일반인들의 모기지 위에 걸린 복잡한 주술]에 불과하다는 것을 경험한 위기를 겪었습니다.(https://www.finra.org/investors/learn-to-invest/types-investments/bonds/types-of-bonds/mortgage-backed-securities#:~:text=Mortgage-backed%20securities,%20called%20MBS,million%20worth%20of%20such%20mortgages.). 은행 대출 중 부동산에 연동된 규모를 고려할 때, 우리는 이미 그 방향으로 돌아가고 있습니다.
+다시 한 번, 금융 자산의 가치를 풀어내는 문제는 이 조사 범위를 넘어섭니다. 합리적인 세상에서는 주식과 채권 같은 대부분의 금융 상품의 '본질적 가치'는 전통적인 자본과 노동으로 귀결되어야 하지만, 우리는 이미 세계의 종이 부의 대부분이 [일반인들의 모기지 위에 걸린 복잡한 주술](https://www.finra.org/investors/learn-to-invest/types-investments/bonds/types-of-bonds/mortgage-backed-securities#:~:text=Mortgage-backed%20securities,%20called%20MBS,million%20worth%20of%20such%20mortgages.)에 불과하다는 것을 경험한 위기를 겪었습니다. 은행 대출 중 부동산에 연동된 규모를 고려할 때, 우리는 이미 그 방향으로 돌아가고 있습니다.
 
 연방준비제도(Fed) 외의 다른 자료는 어떨까요? [The Economist](https://www.economist.com/briefing/2015/04/04/the-paradox-of-soil)는 유사한 계층별 데이터를 제공하며, [제가 들은 바에 따르면](https://www.reddit.com/r/georgism/comments/pryhtf/land_value_ownership_inequality_stats/hdqf9m7/?context=3)는 결국 [여기](https://eml.berkeley.edu/~saez/SaezZucman2015.pdf)에서 나온 것입니다.
 
@@ -642,11 +642,11 @@ Rognlie(2015)의 인용은 특히 자세히 살펴볼 가치가 있습니다. Ro
 
 우리는 다음과 같은 사실을 증거를 넘어 명확히 입증했습니다:
 
-✅ 도시 부동산의 대부분은 토지의 가치입니다
-✅ 미국의 모든 토지 임대료는 정부 지출의 상당 부분을 차지합니다
-✅ 토지는 주요 은행 대출의 상당 부분을 차지합니다
-✅ 토지는 개인 순자산 가치의 상당 부분을 차지합니다
-✅ 토지 소유는 부유층에 극도로 집중되어 있습니다
+✅ 도시 부동산의 대부분은 토지의 가치입니다  
+✅ 미국의 모든 토지 임대료는 정부 지출의 상당 부분을 차지합니다  
+✅ 토지는 주요 은행 대출의 상당 부분을 차지합니다  
+✅ 토지는 개인 순자산 가치의 상당 부분을 차지합니다  
+✅ 토지 소유는 부유층에 극도로 집중되어 있습니다  
 
 <span id="conclusion"></span>
 # 결론
