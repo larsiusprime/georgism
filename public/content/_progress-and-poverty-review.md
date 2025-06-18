@@ -2,10 +2,10 @@
 
 by [Lars A. Doucet](lars_a_doucet), 2021
 
-**제0부 - Book Review: Progress & Poverty 👈** (You are here)  
-[제1부  - Is Land Really a Big Deal?](is-land-a-big-deal)  
-[제2부 - Can Land Value Tax be Passed on to Tenants?](can-lvt-be-passed-on-to-tenants)  
-[제3부 - Can Unimproved Land Value be Accurately Assessed Separately from Buildings?](can-land-be-accurately-assessed)  
+**Part 0 - Book Review: Progress & Poverty 👈** (You are here)  
+[Part I  - Is Land Really a Big Deal?](is-land-a-big-deal)  
+[Part II - Can Land Value Tax be Passed on to Tenants?](can-lvt-be-passed-on-to-tenants)  
+[Part III - Can Unimproved Land Value be Accurately Assessed Separately from Buildings?](can-land-be-accurately-assessed)
 
 ## Listen
 <iframe src="https://www.listennotes.com/podcasts/astral-codex-ten/your-book-review-progress-QFbzxZteIBS/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
