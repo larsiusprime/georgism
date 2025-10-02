@@ -8,14 +8,27 @@ Some resources on Georgism that I recommend
 
 ## Discussion:
 
+*   [Georgism discord](https://discord.gg/6ZAkeMJUc3) -general Georgism discussion
+    
 *   [Geopraxis discord](https://discord.com/invite/CXf5RDxfZ6) -Georgist organizing and projects to contribute to
     
 *   [/r/georgism subreddit](https://reddit.com/r/georgism)
-
-*   [Georgism discord](https://discord.gg/6ZAkeMJUc3) -general Georgism discussion
+    
+*   [OpenAVMKit discord](https://discord.gg/4fCkSCPPJD)
     
 
+
+## Software:
+
+*   [OpenAVMKit](https://www.openavmkit.com) - Open source real estate modeling software
+    
+*   [LVTShift](https://github.com/gregmiller00/LVTShift) - Open source policy analysis software
+    
+*   [OpenRatioStudy](https://www.openratiostudy.com) - Simple standalone web app for calculating assessment statistics
+
 ## Organizations:
+
+*   [Center for Land Economics](https://www.landeconomics.org) (Who I work for)
 
 *   **[Common Ground](https://commonground-usa.net)** (the go-to organizing body I recommend joining)
     
@@ -25,7 +38,7 @@ Some resources on Georgism that I recommend
     
 *   [International Association of Assessment Officers](https://www.iaao.org)
     
-*   [Robert Schalkenbach Foundation](https://schalkenbach.org)
+*   [Progress and Poverty Institude](https://progressandpovertyinstitute.org) -- Formerly the Robert Schalkenbach Foundation
     
 
 ## Information sites:
