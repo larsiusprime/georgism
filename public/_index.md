@@ -22,6 +22,7 @@ Writings on Georgism and related topics by various authors
 From Progress & Poverty substack:
 
 - [So You Want to Abolish Property Taxes](https://progressandpoverty.substack.com/p/so-you-want-to-abolish-property-taxes)
+- [The curious case of Qindao, China's land value tax](https://progressandpoverty.substack.com/p/the-curious-case-of-qingdao-chinas)
 - [No Silver Bullet Solutions to the Werewolf Crisis](https://progressandpoverty.substack.com/p/no-silver-bullets-to-the-werewolf)
 - [Why Georgists use the 🔰 Mark](https://progressandpoverty.substack.com/p/why-georgists-use-the-mark)
 
