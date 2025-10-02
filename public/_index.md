@@ -13,10 +13,15 @@ Writings on Georgism and related topics by various authors
 - Part 2: [Can Land Value Tax Be Passed on to Tenants?](content/can-lvt-be-passed-on-to-tenants)
 - Part 3: [Can Unimproved Land Value Be Accurately Assessed Separately From Buildings?](content/can-land-be-accurately-assessed)
 
+*Mass Appraisal for the Masses*, a series:
+
+- Part 1: [The Basics](https://progressandpoverty.substack.com/p/mass-appraisal-for-the-masses-the)
+- Part 2: [How Georgists valued land in the 1900s](https://progressandpoverty.substack.com/p/how-georgists-valued-land-in-the)
+- Part 3: [Valuing Land: The Simplest Viable Method](https://progressandpoverty.substack.com/p/valuing-land-the-simplest-viable)
+
 From Progress & Poverty substack:
 
-- [How Georgists valued land in the 1900s](https://progressandpoverty.substack.com/p/how-georgists-valued-land-in-the)
-- [Mass Appraisal for the Masses](https://progressandpoverty.substack.com/p/mass-appraisal-for-the-masses-the)
+- [So You Want to Abolish Property Taxes](https://progressandpoverty.substack.com/p/so-you-want-to-abolish-property-taxes)
 - [No Silver Bullet Solutions to the Werewolf Crisis](https://progressandpoverty.substack.com/p/no-silver-bullets-to-the-werewolf)
 - [Why Georgists use the 🔰 Mark](https://progressandpoverty.substack.com/p/why-georgists-use-the-mark)
 
@@ -32,5 +37,6 @@ Georgism and Norway:
 
 ### by [Greg Miller](https://landeconomics.org/about-us):
 - [Want to Model a Land Value Tax Shift in Your City? Here's How](https://progressandpoverty.substack.com/p/want-to-model-a-land-value-tax-shift)
+- [The Property Tax Patchwork Impeding Our Local Governments](https://progressandpoverty.substack.com/p/the-property-tax-patchwork-impeding)
 - [Uniformity does not Preclude Land Value Taxes](https://progressandpoverty.substack.com/p/uniformity-does-not-preclude-land)
 - [Announcing the Center for Land Economics](https://progressandpoverty.substack.com/p/announcing-the-center-for-land-economics)
