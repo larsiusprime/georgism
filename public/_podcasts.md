@@ -5,7 +5,17 @@
 "What is Georgism?" with <a href="https://www.youtube.com/c/Econoboi">Econoboi</a>:
 <iframe width="100%" height="432px" src="https://www.youtube.com/embed/anrWTf1brSE" title="What is Georgism? | Land Value Tax, Resource Wealth, and more ft. Lars Doucet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Appearances by [Lars A. Doucet](content/lars-a-doucet) and Greg Miller:
 
+<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/61a7718f"></iframe>
+
+<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/bd2c7f7b"></iframe>
+
+<iframe src="https://www.listennotes.com/podcasts/overpriced-jpegs/are-metaverse-land-sales-a-LAM63Jg4Wvk/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
+
+<iframe src="https://www.listennotes.com/podcasts/the-henry-george/lars-doucet-on-real-life-H7kq6czynT3/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
+
+<iframe src="https://www.listennotes.com/podcasts/thenordicmodel/10-the-interview-land-value-EoLGZvF5Wnt/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
 
 ### "Narratives" with Will Jarvis on Georgism, Housing, & Land Economy:
 
@@ -29,14 +39,6 @@ Will interviews Lars about the ACX articles:
 
 Interview with Joshua Vincent, an expert in property tax reform:
 <iframe src="https://www.listennotes.com/podcasts/narratives/88-land-value-taxes-with-zMW4OxT2bVf/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
-
-### Appearances by [Lars A. Doucet](content/lars-a-doucet):
-
-<iframe src="https://www.listennotes.com/podcasts/overpriced-jpegs/are-metaverse-land-sales-a-LAM63Jg4Wvk/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
-
-<iframe src="https://www.listennotes.com/podcasts/the-henry-george/lars-doucet-on-real-life-H7kq6czynT3/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
-
-<iframe src="https://www.listennotes.com/podcasts/thenordicmodel/10-the-interview-land-value-EoLGZvF5Wnt/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
 
 ### Astral Codex Ten Podcast reading of the "Does Georgism Work" series
 
