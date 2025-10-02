@@ -11,6 +11,10 @@
 
 <iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/bd2c7f7b"></iframe>
 
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/311-lars-doucet-on-georgism-land-and-why-rent-is-too/id1474687988?i=1000585881643"></iframe>
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/is-land-a-big-deal-ft-lars-doucet/id1390384827?i=1000610398739"></iframe>
+
 <iframe src="https://www.listennotes.com/podcasts/overpriced-jpegs/are-metaverse-land-sales-a-LAM63Jg4Wvk/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
 
 <iframe src="https://www.listennotes.com/podcasts/the-henry-george/lars-doucet-on-real-life-H7kq6czynT3/embed/" height="180px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
